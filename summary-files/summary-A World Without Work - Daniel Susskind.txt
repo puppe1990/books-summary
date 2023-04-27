@@ -1,0 +1,1203 @@
+ Here is a summary of the introduction:
+
+- The "Great Manure Crisis" of the 1890s highlights how new technologies can emerge and solve problems in unexpected ways. Many worried about piles of horse manure in cities, but the rise of cars and tractors eliminated the crisis. 
+
+- The economist Wassily Leontief saw this story differently. He worried that what happened to horses would happen to humans - that new technologies like computers and robots would drive us out of jobs, just as cars and tractors eliminated the need for horses.
+
+- Today, many people share Leontief's fear that technology will lead to job losses and "technological unemployment." The author aims to explain why we should take these fears seriously, though not always literally. The key question is whether there will be enough jobs for everyone in the coming decades. The author argues the answer is "no."
+
+- The threat of "technological unemployment" is real. The author will describe the problems this will create now and in the future, and propose responses. 
+
+- The term "technological unemployment" comes from the economist John Maynard Keynes. The author will draw on economics but also go beyond it, discussing intelligence, inequality, technology companies, the good life, and social changes. A full account of the future of work must consider these issues too.
+
+- Fears about technology and jobs are not new. Many past predictions of job losses from new technologies turned out to be wrong. But while today is not the first time "automation anxiety" has spread, the threat of technological unemployment is now real.
+
+ 
+
+The author has been interested in technology and work for a long time. His father studied artificial intelligence and law, and built some of the first AI systems for legal problems. The author grew up discussing technology and its impact. 
+
+He studied economics at Oxford, where he learned the standard view that technology would not significantly impact employment. Over time, he became disillusioned with this view, as he saw technology transforming the economy in new ways.
+
+He worked in the British government, where he started thinking seriously about how technology might impact the future of work. But mainstream economics did not provide satisfying answers. Many economists rely too heavily on history, and fail to recognize how the current technological revolution is unlike anything before.
+
+The author left government and pursued a PhD in economics, developing a new way of thinking about technology and work. He also co-wrote a book with his father on how technology would transform professions like law, medicine, and education. At the time, most people thought only blue-collar jobs were at risk. They argued that new technologies would allow us to solve important problems without relying on traditional professions.
+
+In sum, this book reflects the author’s decade-long journey to develop a better understanding of how technology might impact work. It builds on insights from his academic work and previous book, incorporating subsequent experiences and reflections.
+
+ 
+
+The book is primarily focused on discussing the future of work and technology's impact on jobs. The author takes an optimistic view, arguing that continued technological progress will help solve humanity's historical problem of poverty and scarcity. However, it will bring new challenges related to inequality, the concentration of power, and finding purpose and meaning. 
+
+For most of human history, economic growth was slow or nonexistent. People lived at subsistence level. The Industrial Revolution beginning in the 1760s led to sustained economic growth for the first time. This growth was driven by rapid technological progress and innovation.
+
+With the Industrial Revolution came "automation anxiety" - the fear that new technologies like the cotton gin and spinning jenny would destroy jobs. This anxiety led to protests and even violence. The Luddites, for example, destroyed new textile machines that they believed were threatening their livelihoods.
+
+The key argument is that automation anxiety has been misplaced. While new technologies transform the economy and labor market, they grow the economic pie and living standards overall. The challenges of inequality, corporate power, and finding purpose are better problems to have than poverty and scarcity. Though technology progress is inevitable, we have agency in how we choose to deal with its consequences. The future is not predetermined.
+
+So in summary, the book argues that technology will continue to eliminate many jobs and tasks, but this should be viewed optimistically as progress that can raise living standards if we make the right policy and societal choices. Automation anxiety is misguided and has been present since the Industrial Revolution, but overall technological progress grows the economic pie. The challenges we face are better than the historical problem of extreme poverty and scarcity. Though technology shapes our future, we have discretion in how we choose to build a more equitable and purposeful world.
+
+ 
+
+Technological progress has not always been welcomed. Governments and workers have often worried that new innovations would lead to job losses and economic hardship. 
+- In 1589, Queen Elizabeth I refused to grant a patent to William Lee for his knitting machine because she feared it would deprive workers of employment.
+- In 1586, the city council of Danzig reportedly ordered Anton Möller, the inventor of the ribbon loom, to be strangled.
+- Many economists, like David Ricardo and John Maynard Keynes, also worried about the negative impact of technology on jobs. However, most fears of long-term mass unemployment due to technology have turned out to be unfounded. Although new technologies displaced many workers, most found new jobs over time.
+
+However, this process of finding new work was often slow, painful and disruptive:
+- The Industrial Revolution in Britain led to the decline of many industries and communities. Real wages barely rose and living standards declined for many. 
+- The hardships of this period contributed to the creation of welfare states. So, while people eventually found new work, the process was not benign.  
+
+There is also some evidence that technological progress has led to a long-term decline in work hours, as Keynes predicted. People in more productive, technologically advanced economies tend to work fewer hours.  
+
+In discussing the future of work, it is too narrow to focus only on the number of jobs. We must also consider the nature and quality of work - wages, job security, work hours, working conditions, etc. Technological change affects all these aspects of work, not just employment rates.
+
+While machines substituted for human workers in some tasks, they also complemented human workers, creating new types of jobs and increasing demand for certain skills. This "complementing force" has helped to counter the harmful effects of technology on employment in the past. Overall, there were both substitution and complementing effects, but complementing effects have predominated so far.
+
+ 
+
+There are two opposing forces at work when new technologies are introduced:
+
+1. The substituting force: This harms human workers by automating some of their tasks, displacing them from jobs. This is the force that often gets the most attention and stirs anxieties about the impact of technology on work. 
+
+2. The complementing force: This helps human workers in three main ways:
+
+- The productivity effect: New technologies can make workers more productive at the tasks that remain for them to do. This increased productivity can lead to higher wages, lower prices for consumers, and increased demand that creates new job opportunities. 
+
+- The bigger-pie effect: Technological progress expands the overall economy by enabling the production of more goods and services. This economic growth creates more opportunities for work and higher standards of living.
+
+- The changing-pie effect: Over time, new technologies transform what economies produce and how they produce it. Workers displaced from declining industries and jobs can find work in new, growing areas of the economy.
+
+While there are rational fears about the potential downsides of new technologies on jobs, history shows that the complementing force has overwhelmingly dominated, with technologies raising living standards, creating new opportunities for work, and transforming economies for the better. The substituting and complementing forces interact in complex ways, and the outcome depends on many factors. But in general, we have underestimated the power of the complementing force and the ability of economies and labor markets to adapt to technological change in ways that create new opportunities for workers.
+
+The discussion of the two forces provides a useful framework for understanding the complex relationship between technology and human work. Recognizing the role of the complementing force can help alleviate excessive pessimism about the impact of technology and better inform policies and strategies for adapting to changes in what human workers do.
+
+ 
+
+- Technological progress brings both destructive and constructive forces. The destructive force substitutes human labor, while the constructive force complements human labor by creating new job opportunities. 
+- In the past, people tended to overestimate the destructive force and underestimate the constructive force of new technologies. As a result, past worries about technological unemployment were misplaced. 
+- The story of ATMs and bank tellers illustrates how technology can substitute and complement human labor at the same time. Although ATMs reduced the need for tellers to handle cash, they also freed up tellers to provide other services and helped reduce costs, allowing banks to open more branches and hire more tellers.
+- For much of the 20th century, technological change seemed to benefit higher-skilled workers the most, which economists described using a "skill-biased" narrative. New technologies like computers increased the demand for high-skilled workers who could use them. 
+- Although the supply of high-skilled workers rose rapidly, their wages did not decline, puzzling economists. The skill-biased narrative explained this by arguing that technology increased the demand for high-skilled workers even faster, keeping their wages high.
+- The skill-biased narrative matched the evidence well and was supported by economists for decades. But in recent years, some economists have argued for a more nuanced narrative that also considers the impact of technology on mid-level jobs.
+
+The key ideas are that technology's impact on jobs is complex, with both destructive and constructive forces in play, and that the narrative used by economists to explain how technology affects work has evolved to become more nuanced over time.
+
+ 
+
+- Economists used to think that technological progress was either skill-biased, benefiting high-skilled workers, or unskill-biased, benefiting low-skilled workers. In either case, technology was thought to broadly benefit all workers by raising wages. This view was known as the “canonical model.”
+
+- Starting in the 1980s, new technologies began benefiting both high-skilled and low-skilled workers, but not middle-skilled workers. This led to “polarization” or “hollowing out” of labor markets, with growth at the high and low ends but decline in the middle. 
+
+- The canonical model could not explain polarization. A new view, the “Autor-Levy-Murnane hypothesis,” emerged to fill this gap. It made two key realizations:
+
+1) It is misleading to think about the labor market in terms of jobs. Jobs actually consist of many tasks, and technology tends to replace specific tasks, not entire jobs. Some jobs lose certain tasks to technology but gain other new tasks.
+
+2) Technology has a comparative advantage over humans for “routine” tasks that can be expressed in logical rules, but humans have a comparative advantage for “non-routine” tasks requiring flexibility, judgment, and common sense.
+
+- The ALM hypothesis argues that recent technologies have largely replaced routine, middle-skilled tasks, leading to polarization. But non-routine tasks at the high and low ends have been less susceptible to automation, allowing growth in those areas.
+
+- This new view provides a better explanation for how technology impacts work than the previous canonical model. It helps us understand why middling-skilled workers have faced such a different fate from low- and high-skilled workers in recent decades.
+
+ 
+
+The key insights of the ALM hypothesis are:
+
+1. We should focus on the specific tasks that comprise jobs rather than broad job titles when thinking about automation. Jobs consist of many different tasks, and the automation potential of these tasks can vary greatly.
+
+2. The level of skill or education required to perform a task is not a good indicator of how easily that task can be automated. What matters most is whether the task is “routine” - meaning it can be captured in a set of explicit rules that can be encoded in software. Many tasks requiring advanced degrees are routine and automatable. Many tasks requiring little formal education are non-routine and hard to automate. 
+
+3. Technological progress is “task-biased.” It allows machines to readily take over routine, codifiable tasks but struggles with non-routine tasks requiring flexibility, judgment, and common sense. This explains why automation has impacted middling-wage jobs the most.
+
+4. Very few occupations can be completely automated, but most involve a mix of routine and non-routine tasks. Over 60% of occupations have at least 30% of tasks that are automatable. So while new technology is unlikely to eliminate most jobs outright, it will significantly transform them by taking over many of their routine components.
+
+5. The focus should be on the changing mix of tasks within jobs rather than on the jobs as unchanging wholes. Jobs are not static and the particular tasks that comprise them evolve over time. We cannot assume that the hard-to-automate parts of jobs today will remain that way indefinitely. Continued progress in artificial intelligence and robotics will expand the set of automatable tasks.
+
+6. The ALM hypothesis provides an optimistic perspective on technology and jobs. Although automation will transform most jobs and may eliminate some, human labor will continue to have value. Non-routine, interpersonal, and physical skills that machines struggle with will ensure an ongoing role for human workers, even as many routine tasks are automated. With the right skills and policies to support workers through transitions, technology should ultimately boost job opportunities and prosperity.
+
+ 
+
+The optimistic view of the future of work depends on the assumption that there are certain “non-routine” tasks that cannot be automated. However, recent progress in artificial intelligence and computing suggests that this assumption is likely wrong. 
+
+Although stories of intelligent machines date back thousands of years, recent progress in AI has been far more serious and sophisticated. In the 1940s, Alan Turing proposed that machines could exhibit intelligence. In the 1950s and 1960s, researchers began actively working to build intelligent machines in the first major wave of AI. They aspired to create machines that could rival human intelligence, though they ultimately made little progress.
+
+In recent decades, a “pragmatist revolution” has led to major breakthroughs in machine learning and artificial neural networks. Systems can now learn directly from huge amounts of data. In 2016, DeepMind's AlphaGo defeated a human Go champion, demonstrating the power of machine learning techniques. Many experts now believe artificial general intelligence may be achievable.
+
+If machines continue to become far more capable, especially at cognitive and creative tasks, many human jobs may be at risk of automation. The distinction between "routine" and "non-routine" tasks may prove unhelpful. Rather than complementing human workers, advanced AI could eventually substitute for them in most domains. The optimistic belief that there will always remain a wide range of tasks that cannot be automated may be mistaken. Though the future remains uncertain, we should not assume that the current age of human labor is eternal.
+
+Does this summary accurately reflect the key ideas and arguments presented in the passage? Let me know if you would like me to clarify or expand on any part of the summary.
+
+ Here's a summary:
+
+- In 1956, John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon proposed funding for a conference on "artificial intelligence" at Dartmouth. Though little progress was made at the conference itself, it brought leading researchers together and helped establish AI as a field of study. 
+
+- Initially, most AI researchers tried to build machines that mimicked human thinking and reasoning. Some tried to replicate the structure of the human brain. Others tried to model human problem-solving processes. And some tried to codify the rules that seemed to govern human behavior and reasoning. The researchers were guided by the idea that human intelligence could be recreated in machines.
+
+- This approach achieved little success, however, and funding and interest in AI dried up in the late 1980s—the "AI winter." Progress resumed in 1997 when IBM's Deep Blue beat the chess champion Garry Kasparov. But Deep Blue won not by mimicking human chess players but by using immense computing power to analyze millions of possible moves.
+
+- Deep Blue's victory marked a "pragmatist revolution" in AI. Researchers started building machines judged by how well they performed a task, not how much they resembled human beings. Using huge data sets and processing power, AI systems learned on their own to translate between languages, identify images, and more. They relied on algorithms and computing power, not the top-down application of human reasoning.
+
+- In the early years of AI, researchers had to do much of the computational work themselves to try to capture human thinking in code. But modern AI systems mine vast data sets to figure out what to do from the bottom up. They harness advances in computing power and the massive amount of data now available to learn on their own.
+
+So in summary, early optimism about mimicking human thinking gave way to more pragmatic, data-intensive machine learning techniques. And interest in human-inspired "top-down" design gave way to machine-driven "bottom-up" learning. Modern AI relies more on data, code, and silicon than on researchers' insights into human minds.
+
+ 
+
+- Machine learning algorithms are driving much progress in AI today. These algorithms allow systems to learn from experience rather than follow explicit rules. Many machine learning techniques were proposed early on but have only recently become practical due to increased computing power and data.
+
+- Early AI researchers aimed to copy human intelligence, but today’s machines are judged based on performance. Neural networks were originally meant to simulate the human brain but are now evaluated based on task performance. 
+
+- Systems like Deep Blue, AlphaGo, and AlphaGo Zero have become very capable at games like chess and Go. AlphaGo Zero learned to play Go without any human data or strategies, just by playing itself.
+
+- Researchers have long recognized the choice between building capable machines (pragmatism) and copying human intelligence (purism). Early AI focused on purism due to the difficulty of the problems and interest in human cognition.
+
+- The focus is shifting to pragmatism due to progress in machine learning and the influence of large tech companies. Companies like DeepMind aim to build capable machines, not necessarily understand human intelligence. AI assistants seem intelligent but do not truly think like humans.
+
+- Many researchers have had to align with companies’ commercial interests to stay relevant. DeepMind researchers are poached from academics with high pay to work on building capable machines rather than modeling human intelligence.
+
+In summary, the field of AI is moving from an early focus on modeling human intelligence to a pragmatic focus on building increasingly capable machine learning systems. Large tech companies and their resources have accelerated this shift.
+
+ 
+
+- Duplex, Google's AI assistant, can make remarkably human-like phone calls but is not actually intelligent or conscious like a human. It is a mistake to describe such systems as "intelligent" in the human sense. A better term might be "computational rationality."
+
+- For a long time, both religious scholars and early AI researchers believed that remarkable capabilities could only come from something intelligent, such as God or human researchers. But Darwin showed this "top-down" view was wrong - blind evolutionary processes can generate complexity and competence. Similarly, today's most capable AI systems emerge from bottom-up processes, not the top-down design of human engineers. 
+
+- In 1966, Joseph Weizenbaum created ELIZA, an early chatbot, but underestimated its capabilities and impact. Researchers and others have continued to underestimate the abilities of new AI systems that work differently than humans.
+
+- Some in the AI field are disappointed by successes like Deep Blue and Watson because the systems do not really "think" or work like humans. But this misses how capable and useful the systems can be, even without human-level intelligence. 
+
+- There is a tendency to underestimate the potential of new technologies when they first appear if they do not match preconceptions about how such systems "should" work. We need to avoid this by focusing on the actual capabilities and utility of new AI, not whether it resembles human thinking. The future of AI may be far more alien than many assume.
+
+In summary, we have often failed to appreciate the potential of new technologies like AI if they do not work in the way we expect. But remarkable capabilities can emerge from very inhuman processes. We must avoid underestimating such systems by focusing on their actual abilities, not whether they match human preconceptions. The future of AI in particular may be far stranger than we realize.
+
+ Here's a summary:
+
+The critics discussed in this section argue that despite the impressive capabilities of machines today, they do not actually demonstrate real intelligence or general human-level intelligence. Systems like Deep Blue that can beat humans at tasks like chess are unimpressive, vacuous, or do not really "know" or understand in the way humans do. Critics suggest these systems do not reflect human intelligence or consciousness. 
+
+However, the author argues these critics often fall into the trap of defining intelligence as whatever machines currently cannot do - the "intelligence of the gaps." They frequently move the goalposts, dismissing a task as not really requiring intelligence once machines can do it. The author suggests this leads the critics to underestimate what machines may become capable of in the future.
+
+The author questions why we elevate human intelligence above capabilities in machines that can outperform humans in various ways. There is amazement to be found in machine designs, even if they operate differently than human minds. The author draws an analogy to Darwin, who found grandeur and awe in evolution emerging from a simple process like natural selection, rather than divine or human-like design.
+
+The author introduces the metaphor of foxes and hedgehogs to distinguish human and machine intelligence. Humans are foxes with a range of abilities, while machines are hedgehogs that perform a single, narrow task very well. Researchers aim to build "artificial general intelligence" (AGI) - machine foxes with a range of abilities. Critics argue only AGI represents real AI or could rival humans, but AGI has proven elusive. However, if achieved, AGI could lead to an "intelligence explosion" and "superintelligence" that far surpasses human capabilities, for better or worse.
+
+In summary, while machine and human intelligence differ today, we should not underestimate what either may become capable of, for good or ill, or assume human intelligence will always remain superior or beyond comprehension. There are types of amazement to find in both.
+
+ 
+
+The prospect of advanced general artificial intelligence has worried many notable people like Stephen Hawking, Elon Musk and Bill Gates. They fear that human beings will struggle to keep up with vastly more capable machines and that these machines might pursue goals that harm humanity. While experts disagree on the timeline, many expect human-level AGI within a few decades to centuries.  
+
+Currently, we see narrow AI systems making progress on specific, limited tasks like playing Atari games, diagnosing diseases, and driving vehicles. These systems rely on machine learning and massive amounts of data rather than being programmed with human rules. They are beginning to take on tasks once thought impossible to automate.   
+
+Economists and their “routine versus non-routine” framework failed to anticipate this progress. They assumed machines needed human reasoning and rules to perform non-routine, tacit tasks. In reality, machine learning systems derive their own rules and patterns from huge datasets. They do not rely on human expertise or uncovering hidden human rules.  
+
+Some economists now argue new technologies are just turning non-routine tasks into routine ones by making human tacit knowledge explicit. But this misunderstands how many AI systems work. They discover their own, often novel, rules rather than mimicking human thinking. The machine that detects skin cancer, for example, finds patterns in huge datasets that doctors could never assess. It does not uncover doctors’ hidden rules.  
+
+In sum, narrow AI and machine learning have enabled automation to spread into areas once considered non-routine and human. This progress calls into question economists’ frameworks for understanding how technology affects work. Machines are gaining capabilities through their own means, not by making human tacit knowledge explicit or following human rules. While human-level AGI remains fiction, increasingly capable and specialized AI is poised to significantly impact jobs and the economy.
+
+ And yet, this is exactly what AlphaGo did in that move.
+
+ 
+
+The key idea is that machines are gradually taking over tasks that were traditionally performed by humans, a trend known as "task encroachment."  Machines are advancing into tasks that require manual, cognitive, and affective capabilities.
+
+In agriculture, many physical tasks are now automated, like crop spraying, harvesting, and monitoring animal health. Driverless vehicles and drones are poised to transform transport and delivery. Industrial robots are proliferating in manufacturing, especially in the auto industry where they now do 80% of the work. Robots with remarkable physical abilities are emerging, able to do things like open doors, climb walls, and carry cables over rough terrain. 
+
+The construction industry has also traditionally relied on human manual labor but is now seeing more automation. 3D printing and prefabrication are reducing the need for workers on site. Exoskeletons and robotic arms are enhancing human capabilities. autonomous robots are improving safety by handling dangerous tasks like demolition, tunneling, and mining.
+
+In general, any task that is repetitive, physically demanding, or dangerous is at high risk of automation. The limits of machines are hard to pin down but the overall trend is clear: technology will continue displacing human workers in manual roles. The key question is how quickly this might happen.
+
+ 
+
+• Bricklaying robots and other automated construction equipment are taking over many physical tasks on building sites. Some companies aim for “human-free” construction sites by 2050. 3D printing is also being used to print entire buildings and components.
+
+• Machines are making inroads into cognitive tasks that have traditionally required human thinking and reasoning. Examples include:
+
+- AI systems that can review legal documents and predict the outcomes of court cases with a high degree of accuracy. 
+- Diagnostic systems that can detect diseases and medical issues. Some systems have access to huge amounts of patient data and can outperform human doctors.
+- Online education platforms that provide personalized and adaptive learning for students. Some have more students than any physical university.
+
+• Machines are also now able to perform some affective tasks that require human feelings and emotions. Examples include:
+
+- AI systems that can recognize human emotions like happiness or confusion by analyzing facial expressions. 
+- AI virtual agents that can have empathetic conversations and build rapport with people. Some are used for mental health support.
+- “Computational creativity” systems that can generate artistic works like music, poetry, stories and even films. Some are remarkably human-like.
+
+• The rise of machines able to perform physical, cognitive and affective human tasks can be controversial or peculiar. Examples include autonomous weapons, synthetic media that generates fake videos, toilet paper dispensers with facial recognition, and a Vatican-approved confession app. 
+
+• In general, machines are rapidly encroaching on a wide range of human abilities and skills that have traditionally set us apart. This raises many unanswered questions about the future of human work and society.
+
+ 
+
+- Machines are increasingly able to detect and respond to human emotions. Examples include:
+
+- Wei Xiaoyong uses a program to determine if his students are bored in class. 
+
+- Some systems can outperform humans at distinguishing real and fake facial expressions of emotion.
+
+- Other systems can analyze conversations, walking styles, and speech to determine relationships, intentions, and deception with high accuracy.
+
+- Social robots like Pepper and Paro are designed to recognize and react to human emotions, especially in healthcare settings. However, their human-likeness is not necessary to perform many tasks.
+
+- There is reason to be skeptical of some claims about AI and automation. Many companies exaggerate their progress, and some even sell “pseudo-AIs” that are actually humans. Studies show a significant amount of AI startups do not actually use AI. 
+
+- However, task encroachment by machines has been steady and inevitable over time, though at an uneven pace. Machines have gradually been able to perform an increasing range of human tasks, building upon previous technologies and discoveries.
+
+- Even conservative predictions suggest continued progress, with automation slowly replacing human jobs over time according to an “evolutionary” path. GDP and economic growth will continue to increase, though at a possibly slower rate than in the past.
+
+- The argument that major past innovations cannot be repeated and that economic growth has ended is flawed. While we cannot reinvent electricity or other past innovations, there are still many new inventions yet to be created that could drive future economic growth.
+
+ 
+
+The book argues that economic growth has not been steady and will likely decline in the future due to fewer technological innovations. However, given the massive investments in tech today, future developments that drive growth seem probable. 
+
+While machines are getting more capable, they will be adopted at different rates in different places for three reasons:
+
+1. Different tasks: Economies have different types of jobs, and some are harder to automate than others. Analysis shows higher “automation risk” for jobs in poorer countries. Even within countries, automation risk varies geographically. 
+
+2. Different costs: If labor is very cheap, it may not make economic sense to use expensive machines, even if they are productive. This is why some low-wage jobs have low automation risk. Relative costs also explain the uneven adoption of technologies across countries and why the Industrial Revolution began in Britain. Cost differences drive innovation like eldercare robots in Japan. While costs are converging, differences remain.
+
+3. Different regulations and cultures: Government strategies and public opinions on technologies like AI differ across countries and shape their development and use. Surveys show many Americans see some uses of algorithms and data collection as unacceptable. Cultures and values lead to a patchwork of regulations.
+
+So while the march of machines seems inevitable, their adoption and impacts will vary significantly based on a nation’s economy, demographics, regulations, and culture. A steady process of decline seems unlikely given these differences across places. Technological change may be constant, but how it plays out will depend on local realities.
+
+ 
+
+Technological progress displaces human workers through a process known as task encroachment, where machines take over an increasing number of jobs that were once performed by people. This threatens "technological unemployment," where automation reduces the overall demand for human labor. 
+
+However, technological progress also creates new jobs for humans by complementing their skills and raising incomes. In the past, concerns about technological unemployment were overblown because people underestimated how strongly new technologies would complement and raise demand for human workers.
+
+Still, technological unemployment is possible if friction in the labor market prevents workers from transitioning to new jobs. This can lead to "frictional technological unemployment." Though new jobs are created, many workers struggle to access them due to several barriers:
+
+1) Skill mismatches: Workers may lack the skills and training required for new jobs. This is seen in US manufacturing, where many workers struggled to transition to growing service sector jobs.
+
+2) Geographic immobility: Workers may be unable to move to regions where new jobs are located. For example, some towns rely heavily on a single industry and workers struggle when that industry declines. 
+
+3) Social and psychological factors: Some workers may face barriers like discrimination, lack of professional networks, risk aversion, or reluctance to change fields. These soft barriers can prevent transitions even when skills and geography are not an issue.
+
+In summary, while technological progress is unlikely to reduce the overall demand for human labor in the next decade, it may lead to frictional technological unemployment. The key question is whether workers will be able to overcome frictions in the labor market and access new job opportunities. If not, more workers may find themselves tantalized by new work that remains out of their reach.
+
+ 
+
+There are three types of friction that can lead to technological unemployment:
+
+1. Skills mismatch: The skills required for available jobs are increasingly difficult for many workers to attain. The pace of technological progress means that workers constantly have to upskill to keep up, but most people have plateaued in terms of education and skill level. This makes the leap to higher-skilled, higher-paid work harder. 
+
+2. Identity mismatch: Some workers are unwilling to take up available lower-skilled or lower-paid work because it does not match their identity or expectations. For example, many college-educated workers in South Korea and the U.S. are unwilling to take up poorly-paid, insecure work. Similarly, many male manufacturing workers in the U.S. prefer unemployment over taking up "pink-collar" jobs like nursing or teaching that do not match their identity.
+
+3. Place mismatch: Available work may exist in geographical areas that are distant from where people live. People may be unable to move to where jobs are located due to financial or social constraints. This can lead to pockets of technological unemployment in some areas.
+
+In summary, there are several reasons why the labor market may not smoothly reallocate workers even as technology progresses and jobs change. Friction caused by a lack of skills, a mismatch with identity and expectations, or geographical constraints can all hamper people's ability to transition into new types of work.
+
+ 
+
+- Technological change may increase the demand for certain types of work in some places but not in the locations where people actually live. This can lead to a mismatch between workers and available jobs in terms of skills, identity, and place.
+
+- Many people cannot easily move to take up new job opportunities due to lack of money or because they do not want to leave their communities. Although technology was supposed to reduce the importance of location, place still matters greatly today. Some areas like Silicon Valley have seen huge growth while others like the Rust Belt have declined. 
+
+- The threat of technological unemployment is overstated. A better measure is the participation rate - the percentage of the working-age population that is employed. This has declined in the US, suggesting many are dropping out of the workforce. Technological change may also worsen job quality by reducing wages, job security, and status. 
+
+- Rather than cause outright unemployment, new technologies may lead to "technological overcrowding" where people crowd into the remaining jobs. This can depress wages, reduce job quality, and lower status. Many end up in precarious jobs serving the wealthy. 
+
+- While some benefit from flexible work, many would prefer more stable employment. There is a risk of a "two-tiered" economy with an "immiserized proletariat" serving the prosperous. However, these service roles need not always be poorly paid. Some niche luxury services have emerged with decent pay.
+
+- In summary, the impact of technology on employment is complex. It may not primarily lead to joblessness but could worsen the nature and distribution of work in other ways like overcrowding, falling wages, precarious jobs, and a two-tiered economy. A range of measures beyond just the unemployment rate are needed to understand the changing experience of work.
+
+ 
+
+- Technological unemployment can be frictional (temporary mismatch between skills and jobs) or structural (not enough jobs for people). Most economists accept the possibility of frictional unemployment but not structural unemployment. 
+
+- There are reasons to believe structural unemployment may happen in the future:
+
+1) The substituting force (technology replacing human workers) is getting stronger as machines can do more and more tasks. The complementing force (technology increasing demand for human workers) has traditionally counteracted this but will likely weaken in the future.
+
+2) The productivity effect (technology making human workers more productive and raising demand for them) will fade as machines become better than humans at most tasks. Human capabilities will become irrelevant for many jobs. 
+
+3) The bigger-pie effect (overall economic growth creating new jobs) will weaken as most growth comes from sectors that do not employ many people, like software and AI. The changing-pie effect (shifts in the economy creating new jobs) will also weaken as new sectors employ few humans.
+
+4) The elasticity effect (lower prices from technology increasing demand and creating jobs) and the trickle-down effect (wealth created by new sectors trickling down to jobs in other sectors) are unlikely to fully counteract job losses. 
+
+5) New technologies like AI and robotics threaten entire job categories, not just specific tasks. This could permanently reduce the demand for human labor.
+
+In summary, while technology has historically increased the demand for human workers, there are reasons to believe this complementing force will weaken and no longer counteract the negative effect of technology on jobs. This could lead to a future of structural technological unemployment.
+
+ 
+
+- People will have greater incomes and demand for goods may rise. But this will not necessarily increase demand for human workers. Why? Because machines, not humans, may be better suited to produce those goods. 
+
+- We see this already in agriculture and manufacturing. Output has risen hugely but employment has fallen. Rising demand led to more use of machines, not human workers.
+
+- The same could happen in other areas as machines get better at human tasks. New demand may not boost human employment. 
+
+- Optimists point to new goods and services raising demand for work. But again, machines may do these new jobs, not humans. Some tech companies are hugely valuable but employ few people. 
+
+- New methods of production often create new jobs for displaced workers. But in future, machines may do the new complex tasks, not humans. Machines will encroach on more and more human tasks.
+
+- Some argue that when machines take jobs, human workers get cheaper, encouraging companies to invent new jobs for them. But why did this not happen with horses? New jobs were not made for them. The same may be true for humans versus machines in future.
+
+- In sum, we cannot rely on rising incomes and demand or changes in the economy to necessarily boost demand for human workers. Machines may increasingly do the new work instead. The complementing force of technological progress may start to fade.
+
+ 
+
+The argument that technological progress will create new jobs for humans is flawed. As machines become more capable, they will take over more and more tasks that were previously done by humans. Machines have made many jobs obsolete, like the jobs of horse-owners and farmers.  Just because demand for goods and services increases, that does not necessarily mean demand for human labor will also increase. Demand is for the tasks required to produce goods and services, and those tasks may be done by either humans or machines.
+
+There is an assumption that humans will always remain superior to machines at completing certain tasks. But as machines become more advanced, they will outcompete humans in more and more areas. While some tasks may remain that only humans can do, either because they are impossible to automate or because we value the human touch, it is unlikely there will be enough demand for those tasks to employ everyone.
+
+The “lump of labor fallacy” suggests that people mistakenly believe there is a fixed amount of work to be done, and that doing work more efficiently reduces the available work for others. But as machines take over more tasks, the amount of work available for humans may in fact decrease. While increased productivity and economic growth often create new jobs, that is only true if humans remain superior to machines for those new jobs. If machines can do the new jobs better, they will get many of those new jobs instead of humans.
+
+So while technology may complement human labor for some time, as machines become far more capable, the assumption that this complementarity will continue indefinitely is flawed. Most arguments for why technological progress should create new jobs for humans overlook the possibility of advanced machines outcompeting humans in the vast majority of areas. If that happens, technology may largely substitute rather than complement human workers.
+
+ 
+
+- The notion of a “lump of labor” that is fixed is a fallacy. As technology improves productivity and lowers costs, demand for goods and services increases. This leads to an expansion of the “lump of labor” and more work for humans overall. 
+
+- However, this argument ignores the possibility that machines may take over more and more of the increased work. As machines become more capable, they substitute for human labor and take over a larger share of tasks. While the complementary effect of technology may increase demand for human work in the short run, in the long run machines are likely to overtake humans in capability for most tasks.
+
+- We are already seeing evidence that in some areas, the substituting effect of technology is outweighing the complementary effect. A study found that industrial robots led to a net loss of jobs and lower wages overall in the U.S. between 1990 and 2007. While new technologies always substitute and complement human labor, we can no longer assume that the complementary effect will necessarily dominate in the long run.
+
+- Predicting exactly when technological unemployment will become widespread is very difficult. In the short term, the main risk is frictional unemployment as workers struggle to adapt. But within decades, structural unemployment due to a lack of enough work for humans is likely. Even if only 15-20% of people are left without work, this could threaten social and political stability. 
+
+- Examples like the rise of Hitler in Germany show that high unemployment, even if not the only causal factor, can contribute to dangerous societal changes. We do not have to wait until most people are left without work to take this issue seriously. 
+
+- In the long run, human beings may face the same fate as horses, which were once crucial for power and transport but were largely replaced by technology. Terms like “manpower” may someday be relics of a past when humans considered themselves economically indispensable. While we may currently feel superior to machines in capability, this assumption is mistaken and will not last.
+
+ 
+
+- Inequality has existed in all human societies and economies. While inequality was less extreme in hunter-gatherer societies, no society has allowed for a "retreat into solitude." All societies have had to determine how to distribute resources unevenly.
+
+- As economies have grown rapidly due to technology, most societies have relied on markets to determine how to allocate resources. However, rising inequality, often driven by technology, has put strain on markets. Technological unemployment threatens to radically increase inequality by destroying the labor market, the market on which we most rely. 
+
+- There are two types of capital that generate income: traditional capital, like property, and human capital, like skills and talents. While not everyone owns traditional capital, everyone owns human capital in themselves. Technological unemployment occurs when someone's human capital loses value in the labor market. 
+
+- In a world with less work, many people's income from work may dry up, but income to those who own the technology that displaced workers will remain considerable. If everyone owned traditional capital, this might not be as worrying. But most people losing work will have little income and capital.
+
+- A world with less work will be deeply unequal, with some owning much traditional capital but others having little capital of any kind. This world resembles our current unequal world, just more extreme. Inequality and technological unemployment are closely linked, as markets reward people for the capital they own, whether human or traditional. Inequality results when some people's capital is far less valuable.
+
+- Technology is not the only driver of inequality, but it plays an important role in generating and exacerbating inequality. Policies to address inequality will have to consider technology's role.
+
+In summary, the passage argues that technological progress and inequality are deeply intertwined. While technology expands the overall economic pie, it also generates inequality by making some people's skills and property far more valuable than others. Technological unemployment threatens to worsen inequality in an extreme way. Addressing inequality will require grappling with technology's role.
+
+ 
+
+- Income inequality has been rising in most developed countries over the last few decades. This is shown by increasing Gini coefficients, greater disparities across the income distribution, and a growing share of income going to the top 1%. 
+
+- There are two main sources of increasing income inequality: unequal returns on human capital (labor income) and unequal returns on traditional capital (wealth/assets).
+
+- For labor income, the wages of high-skilled, well-educated workers have risen relative to lower-skilled workers, increasing inequality. At the very top, "supermanagers" and executives have seen huge pay increases due to their increasing power and influence, not just productivity. CEO pay in the US has skyrocketed relative to average workers.
+
+- The share of income from traditional capital (wealth, assets) relative to labor income has also increased. Wealth is being distributed in a more unequal way, with greater concentrations at the top. 
+
+- While there are some optimistic readings that power and influence can be used to decrease inequality, current trends are problematic. Those with little human or traditional capital are especially vulnerable in an economy that generates insufficient work opportunities.
+
+That covers the key points on how income inequality has been increasing from both labor and capital income, the sources driving this inequality, and why it matters for technological unemployment. Please let me know if you would like me to explain anything in the summary in more detail.
+
+ 
+
+- Economists used to believe in “Keynes’s miracle” that as economies grew, incomes would be distributed in a relatively even way. But in recent decades, inequality has been rising. 
+
+- There are three trends driving rising inequality:
+
+1. Human capital is distributed unevenly, with high-skilled workers getting paid more. The income that goes to workers as wages is distributed unevenly.
+
+2. Human capital is becoming less valuable compared to traditional capital (like physical capital and financial assets). The share of income that goes to workers as wages is shrinking compared to the share that goes to owners of traditional capital.
+
+3. Traditional capital itself is distributed very unevenly. The wealthiest individuals own a hugely disproportionate share of capital. 
+
+- These trends are largely driven by technological progress, both directly (by increasing high-skilled wages and encouraging more use of traditional capital) and indirectly (by enabling globalization and the rise of superstar firms). Technological progress is also responsible for overall economic growth, so it accounts for both the “income” and the “inequality” in income inequality.
+
+- There are some exceptions, but in general, economies are becoming more prosperous but also more unequal. Technological progress threatens this trend by potentially leading to “technological unemployment” where many people are left without any valuable capital or skills. 
+
+- However, the fact that inequality takes different forms in different countries shows that policy and institutions can make a difference. Countries can take action to address the threats posed by new technologies like automation and AI.
+
+- In summary, technology is driving a “winner-take-all” economy where a few highly skilled, highly valuable workers and a few owners of capital are capturing the bulk of the rewards from growth. But countries have some agency in how they choose to distribute the gains from new technologies. Policy and institutional choices matter.
+
+ Here is a summary of the key ideas:
+
+- Inequality is not inevitable. The distribution of resources and income in society depends on the institutions and policies we choose to build. Technological progress does not dictate a particular level of inequality.  
+
+- Although the global economy is large enough to provide prosperity for all, this prosperity has not been equally shared. Most people still struggle in poverty or earn a thin slice of the economic pie. Technological unemployment threatens to exacerbate inequality by eliminating jobs and income for many.
+
+- Education has been the conventional response to technological unemployment because it helps workers adapt their skills to new technologies. In the 20th century, more advanced education and skills became crucial for economic success. Countries invested heavily in education, and workers who acquired the right skills flourished.
+
+- For now, "more education" is still the best response, but its meaning must evolve. It should focus on teaching skills that complement machines rather than compete with them. This means emphasizing interpersonal skills, creative thinking, and complex problem-solving.
+
+- But education has limits. As machines become vastly more capable, education will matter less. Many jobs may disappear, and new jobs will require skills that take too long or are too difficult for most people to learn. Education cannot indefinitely solve the problems created by advanced AI and automation. 
+
+- Other policy responses will be needed, like revamping the welfare system to provide a basic level of economic security, restructuring tax systems, and shortening the workweek. But these policies face political and social barriers. There are no easy fixes.
+
+In summary, technological progress threatens to worsen inequality by eliminating jobs and income for many workers. Education can help in the short term by teaching skills that complement machines, but it has limits against increasingly advanced AI and automation. Other policy interventions will likely be needed to solve the challenges of technological unemployment.
+
+ 
+
+The key implication is that we should stop teaching people to do routine tasks that machines can already do or will soon be able to do better. Instead, we should prepare people for jobs like nursing and teaching that machines cannot easily replicate. Alternatively, we could teach people to build and design the machines themselves. For now, this strategy gives humans the best chance to compete with machines.
+
+Though “compete” implies a struggle, words like “augment” and “enhance” inaccurately suggest machines simply help humans. In reality, machines complement humans only temporarily until they become better at a task, at which point they substitute for humans. The complementing effect is fleeting; competition is permanent.
+
+Despite this, we still spend much time teaching routine skills that machines exceed at, like basic math. We need to shift focus to human skills machines lack. Likewise, we fail to prepare people for tasks machines struggle with, like computer science. Though coding jobs abound, computer science remains dull and poorly taught. 
+
+The policy of “upskilling” and pushing more people to college is outdated. Many non-routine jobs needing human skills are not high-paying or require college, e.g. social work. We must prepare people for these jobs.
+
+In the long run, machines will outdo humans in more areas, even creativity and empathy. It’s hard to know which jobs will remain for humans. For now, avoid teaching skills that machines demonstrably do better or will very soon.
+
+We must also change how we teach. The traditional classroom model is “one size fits none.” New technology enables personalized, tailored learning, solving the “two sigma problem.” Online courses also overcome classroom size constraints and reduce cost per student as enrollment rises. 
+
+While massive open online courses (MOOCs) promised to solve these issues, few students actually finish them. Simply moving traditional teaching online is not enough. We need to rethink what and how we teach for the age of intelligent machines.
+
+ 
+
+- Completion rates for massive open online courses (MOOCs) are low, in the single figures. However, enrollment numbers are high, so a small percentage of a large number can still be substantial. For example, Georgia Tech’s online master’s in computer science increases the number of Americans with that degree by 7% each year. 
+
+- While many students drop out of MOOCs, their existence shows there is huge unmet demand for education. This demand can come from very talented people. When Sebastian Thrun taught a computer science class to 200 Stanford students and 160,000 online, the top Stanford student ranked 413th overall.
+
+- We need to change how often we teach and learn. Many see education as preparation for “real life,” something you do before you start working. But people will need to move in and out of education repeatedly as technology progresses and jobs change. Some countries like Nordic countries and Singapore already embrace lifelong learning.
+
+- There is growing skepticism about the value of education, especially college. Only 16% of Americans think a four-year degree prepares students well for a good job. Many successful tech entrepreneurs dropped out of college. Peter Thiel argues higher education is an “overpriced bubble” and that universities just identify talented people rather than adding value. However, economists have accounted for “ability bias” and found colleges do help people earn more.
+
+- While some economists argue 80% of the financial return to education is “signaling”—showing your ability by earning a degree—Thiel’s skepticism goes too far. However, our education system should not escape critical examination.
+
+- There are limits to education as a solution to technological unemployment:
+
+1) New skills are hard to attain. Education is difficult, and skills are not manna from heaven. Workers cannot quickly and easily gain the skills for new jobs. 
+
+2) There may not be enough good new jobs for everyone. If many jobs are automated but few new jobs emerge, education will not solve the problem. People can be overeducated for the jobs available.
+
+3) Education has costs, and funding it may be challenging. As more people pursue higher education over a lifetime, costs to individuals and governments will rise substantially.
+
+In summary, while education must adapt to technology, it has significant limitations as a remedy for technological unemployment. Other solutions will also be needed.
+
+ 
+
+- Machines and computers get better at learning new skills and tasks rapidly. Humans do not. Retraining the workforce is difficult and there are limits to education.
+
+- There are natural differences in human abilities and talents. Not everyone can attain the necessary skills for new jobs, especially as the range of human tasks narrows. Learning new skills also takes time, effort and money that may not be available or worth it for some workers. 
+
+- A recent OECD study found that even the best education systems today cannot provide most adults with skills that clearly surpass those of computers. Only about 13% of workers currently use skills that computers cannot replicate.
+
+- Discussing differences in human abilities and the limits of education can seem uncompassionate, as if some people are “better” or “worse.” But the reality is that some people may lose economic value through no fault of their own. Economic value and human value are not the same.
+
+- Education alone cannot solve the problem of technological unemployment. It can only address skills mismatch, not other issues like identity mismatch or place mismatch. More significantly, it cannot create demand for human work if there are structural issues causing a lack of demand.
+
+- While education may increase human productivity and demand for work in the short term, the burden to do so will grow over time as technology reduces demand. There appear to be more limits to improving human productivity than to improving machine productivity.
+
+- Rather than focusing just on the future of work, we need to consider how society shares economic prosperity more broadly. Currently we rely heavily on work and jobs to distribute resources, but that mechanism will fail in a world with less work. We need new ways to share prosperity that do not depend on the labor market.
+
+ 
+
+- The debate over central planning vs free market dominated 20th century economics. Central planning failed but free markets may fail to distribute resources adequately in a world with less work. 
+- The author proposes a “Big State” to solve the distribution problem, not to control production like past central planners. The Big State would tax those with income and capital and distribute it to others.
+- Existing welfare states were designed for a world where employment was the norm. They aim to temporarily support those without work or supplement low wages, assuming people will bounce back into jobs. They won’t work in a world with less work.
+- The Beveridge Report shaped the modern welfare state in the UK. It rallied against “five Giant Evils” like want, disease, and idleness. But its approach relied on the labor market and wouldn’t apply today. We need bolder solutions.
+- The challenges today are even bigger than in Beveridge’s time. Technological unemployment could reach more widely across the labor market, not just impact the poor. We can’t just tweak existing institutions. 
+- The Big State would tax those with income and capital and figure out the best way to distribute the money to others without an income. This is a radical proposal but may be necessary to avoid vast inequality.
+
+The key arguments are that existing welfare states were built for a different world and won’t solve the distributional challenges to come. A much bolder solution—the proposed Big State—is needed to tax those with income in order to redistribute to those without, in a world where work is scarce. This is a radical solution to match the scale of the impending problem.
+
+ 
+
+Taxation will be critical to solving the distribution problem in a world with less work. The state will need to tax:
+
+1. Workers whose income increases with technological progress, like software developers. Even though technology will reduce work for some, it will complement others. These workers will need to be taxed at a high rate, possibly around 70%.
+
+2. Owners of traditional capital, like companies that own robots. This is challenging for several reasons, including economic models that suggest a 0% tax rate on capital and the difficulty of defining and measuring robots. However, following the income will require taxing capital as it becomes increasingly valuable. An inheritance tax on intergenerational wealth transfer will also be important. 
+
+3. Large companies that are increasingly dominant and profitable. However, companies are adept at using loopholes and schemes to minimize their tax bills. For example, in 2014 Apple paid almost no tax in Europe, with an effective tax rate of 0.005% on profits. Closing these loopholes and ensuring large companies pay their fair share will be key.
+
+In summary, the state will need to tax the sources of income that are most abundant and unequally distributed. As work declines but technology and capital become more valuable, following the income will mean higher taxes on workers whose skills remain in high demand, owners of capital like companies, and highly profitable large corporations. Failing to tax these groups appropriately will exacerbate inequality between those whose income is raised with new technologies and those who do not benefit.
+
+ 
+
+The effective tax rates paid by US corporations have declined significantly over the last few decades while nominal tax rates have remained steady. Tax avoidance by large corporations is typically legal but seen as immoral by the public because it violates the spirit of tax laws. Tighter legislation, greater enforcement, and international cooperation are needed to address corporate tax avoidance. There is also potential to influence accountants and shift the culture of their profession away from simply helping clients minimize taxes by any means necessary toward following the spirit of tax laws. 
+
+The idea of a universal basic income (UBI) is gaining support as a way to ensure everyone has enough income in a world with less work. The concept of a UBI dates back to Thomas Paine in the 1790s, though the details of how it would work are still subject to debate. Options for providing a UBI include direct cash payments, providing important goods and services for free, or a combination of both. There is also disagreement over how generous UBI payments should be, ranging from enough to meet basic needs to enough to live freely without needing to work. The appropriate level of UBI depends on its intended purpose, such as alleviating poverty, providing economic security, enabling freedom from work, or compensating for lack of access to resources like land.
+
+In summary, addressing tax avoidance and ensuring adequate income in a world with less work are complex challenges with no simple or universally agreed upon solutions. Tighter rules, better enforcement, and policies like UBI are options that each come with many open questions around the details of how they would work in practice.
+
+ 
+
+- The author argues for a conditional basic income (CBI) instead of a universal basic income (UBI) in a world with less work. 
+
+- A UBI is typically thought of as universal (available to all) and unconditional (no strings attached). The author challenges both of these assumptions.
+
+- On universality: Determining citizenship and who qualifies will be contentious. There are incentives to exclude others to get a bigger share. The author cites the example of Native American tribes and casinos. In a world with less work, it will be harder to argue that immigrants contribute economically, leading to more restrictions.
+
+- On unconditionality: While a UBI aims to remove stigma by giving to all, a CBI recognizes the need to attach conditions to maintain the community. Without work, there will be a divided society between those who produce and those who rely on others. A CBI helps ensure that recipients are seen as deserving. Unconditional payments could reduce the incentive to work for some.
+
+- In summary, the author argues we need to determine appropriate admissions policies and membership requirements for a basic income. A CBI does this while a UBI ignores these issues. In a world with less work, a CBI is needed to bind the community together.
+
+ 
+
+- The author argues that in a world with less work, governments need to address both distribution of resources (providing basic income) and making sure people contribute to society (requiring non-economic contributions for basic income eligibility). 
+
+- There is research suggesting more diverse communities tend to have less generous public spending and people trust each other less. While diversity should be valued, its practical implications suggest the possibility of restricting basic income eligibility to build social solidarity.
+
+- In addition to providing basic income, governments could share ownership of valuable capital to generate more evenly distributed income and reduce economic inequality. 
+
+- Though companies like Juno initially shared ownership with employees, this is rare in practice. Most people lack the means to invest in stocks. Governments could acquire shares on citizens' behalf, like sovereign wealth funds in Norway and Alaska that provide citizens annual payments.
+
+- Public ownership of capital has declined in many countries while private ownership has increased. Economist James Meade suggested governments could acquire shares to address the implications of automation.
+
+- A "capital-sharing state" that provides citizens stock in companies could generate income, reduce inequality, and foster a sense of shared ownership in society. Conditions on basic income eligibility could also build social cohesion.
+
+ 
+
+- The author considers two alternative roles for the state in response to technological change and job losses:
+
+1. The income-sharing state: This involves redistributing income to citizens as jobs are lost to automation. The state goes with the flow of fewer jobs and ensures people still have income.
+
+2. The labor-supporting state: This involves resisting the decline of jobs and actively supporting workers. The state pushes back against job losses and aims to defend good, well-paying jobs. 
+
+- The author sees merits in both approaches but leans toward the labor-supporting state, at least for now. This is because job losses will happen gradually, not suddenly, and workers will lose economic power over time. The state needs to support them during this transition.
+
+- The labor-supporting state can support workers in several ways:
+
+1. Changing tax incentives and laws to align business interests with worker interests, e.g. removing tax advantages for automating jobs.
+
+2. Updating laws to provide more protections and benefits for workers, e.g. reclassifying gig economy workers as employees.
+
+3. Setting higher minimum wages and limits on working hours, especially for socially valuable jobs like teaching and nursing. 
+
+4. Encouraging new forms of organized labor that harness technology to support workers. Traditional unions need to modernize to stay relevant.
+
+- The specific roles the state plays will depend on how events unfold, but its support will likely grow over time as technological changes accelerate and job insecurity rises. A combination of the income-sharing state, capital-sharing state and labor-supporting state may ultimately be needed.
+
+ 
+
+- The chapter discusses the rise of large technology companies, referred to as “Big Tech,” and how they will gain economic and political power as technological unemployment increases. 
+- The “Big Five” tech companies today are Amazon, Apple, Google, Facebook, and Microsoft. They dominate various parts of the technology sector, from mobile operating systems and social media to ecommerce and search engines. 
+- However, the dominant tech companies of the future may not be today’s giants. New startups or technologies could disrupt existing companies. For example, IBM’s Watson has struggled despite early excitement, while companies like Airbnb, Snapchat, and Uber did not exist 12 years ago but now dominate their sectors.
+- Big Tech companies are likely to be very large and powerful for several reasons:
+
+1. Developing advanced technologies requires huge amounts of data, advanced software, and powerful computer hardware—all of which are expensive and favor large companies.
+
+2. Software engineering talent is scarce and highly paid, favoring companies that can afford top talent. 
+
+3. Many technologies benefit from “network effects,” where a service becomes more valuable as more people use it. This gives large networks a big advantage.
+
+- In summary, as technology progresses and reduces the need for human labor, Big Tech companies are poised to gain more economic and political power. But which companies end up dominating, and how societies choose to manage them, remains to be seen.
+
+ 
+
+- Metcalfe's law states that the value of a network increases proportionally to the square of the number of users. This law explains why large social networks and platforms become more useful and valuable as they gain more users.
+
+- Large tech companies are trying to gain monopoly power by acquiring smaller tech companies and startups. They do this to gain valuable resources like data, talent, and popularity that will strengthen their network effects. 
+
+- Traditionally, governments have tried to promote competition and prevent monopolies. However, applying competition policy to tech companies is difficult for several reasons:
+
+1) It is hard to define welfare and measure consumer happiness in these markets. 
+
+2) It can be difficult to determine the relevant market that a tech company is competing in. For example, is Google competing in the search engine market or the broader advertising market?
+
+3) Monopolies are not always bad because they can drive innovation. The prospect of gaining monopoly power and profits spurs entrepreneurship and funds research and development. 
+
+4) Monopolies are often temporary because of "creative destruction." Today's tech giants may not dominate forever due to disruptive innovation. 
+
+5) Algorithms and AI can now facilitate implicit collusion and price fixing without the need for secret meetings. This makes anticompetitive behavior harder to detect and prevent.
+
+- In summary, while large tech companies aim to gain monopoly power, whether or not their dominance is harmful depends on complex factors. Competition policy needs to balance the benefits of innovation against the dangers of monopolistic behavior. Applying policy to automated algorithms and AI will be an ongoing challenge.
+
+ 
+
+Competition policy has focused historically on economic power and consumer welfare. However, as technology companies become more dominant, concerns are shifting to their political power. 
+
+Big Tech companies like Google, Facebook, Amazon, Apple, and Microsoft are often compared to Standard Oil, which dominated the oil industry in the early 20th century. However, objections to Standard Oil were primarily economic, focusing on its restraint of trade and impact on oil prices. In contrast, concerns about Big Tech relate more to their influence over how we live together in society.
+
+Examples of worrying behaviors by Big Tech companies include:
+
+- Google's search algorithm promoting racist, false, or socially harmful content 
+- Facebook's manipulation of users' emotions in experiments and failure to curb false news and hate speech
+- Amazon deleting purchased eBooks from users' Kindles and algorithms generating offensive products 
+- Apple's control over which apps are allowed in its App Store and refusal to help unlock terrorist's iPhones
+- Microsoft chatbots exhibiting racist, toxic, and socially harmful speech due to their learning from public data
+
+These examples show how Big Tech is gaining political power in the broad sense of shaping how society functions. They are controlling liberties, influencing democracy, and determining how we live together. Economic concerns are secondary. Regulating their political influence is critical to ensuring they do not adversely shape society in the coming decades.
+
+In summary, while Standard Oil's power was primarily economic, concerns about today's Big Tech companies relate much more to their political power and influence over society. Competition policy needs to evolve to consider this shift.
+
+ 
+
+- In the 21st century, we need to worry about the political power of big tech companies in addition to their economic power. They are shaping our political lives in addition to the marketplace. 
+
+- Big tech companies have a lot of control over how their technologies impact our political lives. They often regulate themselves and are reluctant to limit their own power. We can’t trust them to do so and they may not be capable of it.
+
+- Nationalizing big tech companies is not the solution and would not solve the problem of political power abuse. The government can abuse political power too.
+
+- We need an independent regulatory institution to oversee the political power of big tech, like the Political Power Oversight Authority. It would determine when political power is being misused or abused, have investigative powers, mandate transparency, and in extreme cases break up companies.
+
+- This authority would be separate from existing competition authorities which focus on economic power. It would employ political theorists and philosophers, not economists, since the issues are political, not economic. 
+
+- The goal would not be to eliminate big tech’s political power but to balance it, as competition authorities aim to balance economic power. Some political power and influence is inevitable with these technologies. Regulation needs to aim for legitimacy and consent, not just consumer satisfaction.
+
+- Economists are not equipped to grapple with these political issues and problems. Their focus on markets, prices and profits does not translate to concepts like liberty, democracy and justice. A new approach and new expertise is needed.
+
+The key argument is that big tech's political power and influence needs oversight and regulation to ensure it is used legitimately and with proper consent and consideration of social values. An independent, politically-focused regulatory body staffed by experts other than economists is proposed to take on this role.
+
+ Here's a summary:
+
+- Work provides income and a sense of purpose/meaning for many people. Technological unemployment threatens both the income and meaning that work provides.
+
+- Economists have traditionally viewed work as a source of income and "disutility." But others like Alfred Marshall and Sigmund Freud saw work as essential for human well-being, purpose, and social order. Max Weber argued that work became a "calling" and source of meaning, especially for Protestants, due to religious beliefs. A study of unemployed people in Marienthal found that joblessness led to a loss of purpose and direction. 
+
+- Work also provides social status and esteem. People signal the meaning, purpose, and status they gain from work on platforms like LinkedIn. For the unemployed, the link between work and meaning can worsen feelings of depression and shame.
+
+- The idea of meritocracy reinforces the notion that the employed deserve their jobs due to talent and effort. This implies the unemployed deserve their fate as well. Views of the unemployed as "scroungers" or "welfare queens" stigmatize them but also elevate the status of the employed. Such views have a long history, evident in laws punishing the "idle" poor as early as the 16th century.
+
+- In summary, work is a source of both economic and psychological benefits for many. But for the jobless, the close tie between work and meaning in society may be a source of distress, not comfort. Technological unemployment threatens to exacerbate this problem.
+
+ 
+
+- There is a view that work provides meaning and purpose in life for many people. However, this connection between work and meaning is not universal and seems to be a relatively recent phenomenon. Our hunter-gatherer ancestors and people in ancient societies did not necessarily see work this way. They often saw work as degrading rather than meaningful. 
+
+- Many people today still do not find their jobs meaningful or fulfilling. Surveys show that a large percentage of workers are disengaged from their work. Many jobs that people do, like stacking shelves or collecting garbage, do not provide a profound sense of meaning. 
+
+- Even for those who find meaning in their jobs, that does not mean they would work if they did not have to. For example, the French attach a lot of importance to work but wish to spend less time working than people in most other countries.
+
+- There are two opposing views on the relationship between work and meaning. Some believe there is an important connection and that even unpleasant work could be made meaningful. Others question any link between work and meaning, and see unhappiness with work as confirming their view. 
+
+- As we move to a world with less work, we will have to consider what people will do instead of work. Some have looked to the leisure activities of the wealthy upper classes for guidance. Philosophers like Bertrand Russell believed a life with less work could allow more time for the pursuit of arts, leisure, and higher pleasures.  
+
+- However, the leisure activities of the upper classes may not provide a useful model for most people. Their lives and resources are very different. The challenge will be helping the general population find purpose and meaning without traditional jobs. Providing a universal basic income may help give people the freedom to pursue meaningful activities, but meaning cannot be imposed on people. They must find purpose and fulfillment for themselves.
+
+In summary, while some view work as a source of meaning, this belief is not universal. As work becomes less central in the future, individuals and society will need to grapple with how to find purpose and meaning. A basic level of financial security could help facilitate this, but meaning ultimately comes from within.
+
+ 
+
+- Looking at how wealthy people spend their time is not insightful. We romanticize how they spend their leisure and often their time is spent in peculiar ways. 
+
+- It is difficult for most people to imagine how to spend time meaningfully without work. Work is like an opiate that gives purpose but also intoxicates us. We have a hard time envisioning life without it.
+
+- In a world with less work from automation, leisure will become a “tragic gift” without purpose or meaning for some. We need policies and education to help people use leisure time wisely.
+
+- Education will need to shift from preparing people for work to preparing them to flourish through leisure. This means teaching skills beyond workplace competence, like character, virtues, and life skills.
+
+- Governments already influence how people spend leisure time through things like public media, promoting sports and culture, and funding museums. More direct leisure policies may be needed in a world with less work.
+
+- The goal should be helping people find purpose and meaning in leisure, not just idle entertainment. With preparation and the right policies, increased leisure  time could be an opportunity for human  flourishing. But without proper support,  it risks becoming meaningless and empty for many.
+
+In summary, as work decreases from technological changes, we will need to rethink education and consider leisure policies to help give people's increased free time a sense of purpose. With the right approach, a world with less work could be an opportunity for greater human fulfillment. But without proper support, increased leisure risks feeling rather meaningless for many.
+
+ 
+
+- Currently, there are a variety of accidental or minor leisure policies in place, such as pension systems and volunteer programs. However, as work declines, more deliberate and comprehensive leisure policies will be needed. 
+
+- Leisure is often seen as unimportant by governments today. But leisure policy will be crucial in a world with less work. However, we can’t predict today exactly how people will spend their leisure time in the future.
+
+- Some people may find that no leisure activity provides the meaning or purpose that work did. They may seek out unpaid “work” activities to provide structure and fulfillment. The government could help match these people with opportunities.
+
+- The distinction between “work” and “leisure” will become blurrier in a world with less paid work. What matters most is how people choose to spend their free time.
+
+- A conditional basic income may be needed to encourage some amount of “socially useful” activity for those without jobs. This could help maintain social cohesion that currently comes from work and taxes. Some required activity may be needed to prevent societal issues from too much idleness or leisure.
+
+- In summary, leisure policies, support for unpaid work, and a conditional basic income may all be needed in a world with less paid work. The goal would be helping people use their free time in meaningful and purposeful ways, while also maintaining a functioning society.
+
+ 
+
+The author proposes a “conditional basic income” (CBI) in which recipients are required to contribute to society in return. In a world with less paid work, people’s lives may be divided between chosen activities and required community activities. Communities may require things like:
+
+- Pursuit of arts and culture (reading, writing, music, philosophy)
+- Increased civic participation (politics, local government)  
+- Educational, household and caregiving activities
+
+Currently, a sense of value is determined primarily by the market and wages. But there are many valuable things, like caregiving and housework, that are unpaid. With less paid work, we’ll have an opportunity to reevaluate what we value and pay for things like caregiving, child-rearing, and the arts. A CBI could provide a sense of purpose and earning one’s keep, just in a different way.
+
+Two key lessons:
+
+1) If we have more leisure time, the government is likely to play a bigger role in shaping how we spend it through things like leisure policies and CBI requirements. 
+
+2) Work provides a sense of purpose and identity for many. As paid work declines, people will need to find purpose and identity elsewhere. Some may turn to “identity politics” based on attributes like race, religion or nationality. But these identities aren’t always recognized or lead to good outcomes. Governments may need to help create meaning and purpose.
+
+The author suggests governments may take on the role of a “meaning-creating state” that helps provide purpose and guide values in a world with less work. Today, we see governments as managers solving policy problems. But with less work, they’ll need to consider deeper questions about how to live well and find meaning. While the goal of growing the economy provided purpose in the 20th century, we’ll now need to revisit life’s deepest ends and meanings. 
+
+In concluding, the author reflects that as a child, the world seemed unchanging to writer Stefan Zweig. But dramatic changes came, as they likely will for us in the future with less work. We must grapple with life’s deepest questions and find new purpose.
+
+ 
+
+- The author argues that we have grown up in an "Age of Labor" where life revolved around work. Jobs provided stability and security. 
+
+- However, the author believes this age is coming to an end due to technological progress. In the next 100 years, there will be less work available for humans as machines take over more jobs.
+
+- While this will make society more prosperous, it will also lead to three major problems: inequality (how to distribute wealth), power (who controls technology), and meaning (how to live purposeful lives without work). 
+
+- The author is hopeful these problems can be solved, noting that past generations overcame immense challenges like extreme poverty. Our current prosperity is unprecedented in human history.
+
+- Although the challenges seem daunting, we must start addressing them now. The problems of inequality, power, and meaning have already started to emerge and disrupt our societies. 
+
+- The author argues that the Great Manure Crisis of 1894 and other tales of technology-induced anxiety turned out to be exaggerated. While new technologies significantly impact economies and jobs, human ingenuity and society's ability to adapt have prevailed in the past.
+
+- The Industrial Revolution in 19th-century Britain provides an example. Despite massive technological changes and job losses, standards of living increased and new jobs emerged. Society adapted, though not without difficulties. 
+
+- The author concludes that technology-based economic anxiety has generally proven misplaced in the past. Although the future is uncertain, human capacity for adaptation and problem-solving provides hope. With less work available in the future, we must determine how to build a new "Age of Security" not dependent on jobs.
+
+ 
+
+King Louis Philippe of France abdicated the throne in 1848 o escape his creditors.
+
+ Here's a summary:
+
+13. In 1966, Ben Seligman noted that automation led to increased free time but not increased leisure. 
+14. Joel Mokyr argued that technology complements human skills rather than substitutes for them.
+15. The “constant elasticity of substitution production function” assumed new tech would only complement workers. 
+16. A 2017 OECD report showed job polarization in many countries.
+17. David Autor argued automation will impact some jobs but there are limits to automation. 
+18. Job polarization depends on the country, e.g. growth of low- and high-skill jobs; decline of mid-skill jobs.
+19. The top 0.01% of incomes rose; a “super-star bias” favors high-skill, cognitive jobs. 
+20. The ALM hypothesis argued automation favors high-skill, cognitive jobs over routine jobs.
+21. The ALM hypothesis explained skills-biased technological change, then job polarization. 
+22. Some thought most jobs were automatable; others argued automation has limits.
+23. Michael Polanyi argued “we can know more than we can tell”—that human knowledge has a tacit dimension machines can’t replicate. 
+24. The author argued automation will transform, not end, work. 
+25. David Autor argued machines can do routine jobs but have limits in tacit, nonroutine work.
+26. Many studies predicted large job losses from AI and automation. Critics argued they overstate risks.
+27. Surveys found concern about AI and job loss but also optimism about job creation.
+28. John Maynard Keynes said: “In the end we will do not what we can, but what we must.” Technologies may not transform the economy as predicted.
+29. Policy responses could support workers and education/training; expand the social safety net; or promote job creation.
+30. A pragmatic perspective considers both costs and benefits of technology rather than utopian or dystopian scenarios.
+
+ Here is a summary of the key ideas:
+
+4 (2002), 57–82; Hubert Dreyfus noted that “a hundred possible 
+moves” were possible in chess in his 1979 book What Computers Can’t Do.
+
+Data on ImageNet competitions shows AI’s improving visual recognition. 
+The 2017 winner was superhuman.
+
+AI has moved from logic-based to data-driven machine learning approaches. Researchers like McCullouch and Pitts originally tried to describe  neural activity as logic.
+
+The number of possible moves in games like chess and Go demonstrate their complexity. Deep Blue and AlphaGo used computing power and ML to master them.
+
+Definitions of AI have evolved. Early definitions focused on human-level intelligence but now include any system that can perform tasks requiring intelligence if done by humans.
+
+The possibility of superintelligent machines has led to warnings from public figures like Hawking and Musk. There are concerns about loss of human control and jobs. But predictions about superintelligent general AI are hard to make.
+
+There is a tendency to underestimate AI. Weizenbaum’s ELIZA program and Kasparov vs. Deep Blue show how systems were first dismissed as narrow or unintelligent, then later seen as more threatening or advanced. But superhuman performance in one domain does not equate to human-level general intelligence. Deep Blue remained focused on chess.
+
+Christopher Taylor was a polymath who collaborated with others to advance AI and robotics.
+
+ Here is a summary of the key points from the passage:
+
+- The tasks that humans perform are often classified as routine or non-routine. Routine  tasks are repetitive and structured while non-routine tasks require cognition, judgment, and flexibility. Technologies like artificial intelligence are encroaching on non-routine human tasks. 
+- Examples of technologies taking over human tasks include AI systems for playing complex strategy games like Go, autonomous vehicles, automated farming equipment, robotic process automation in various industries, and 3D printing.
+- The scale and pace of this task encroachment is increasing rapidly. The global operational stock of industrial robots is growing exponentially. AI and robotics will transform many industries and jobs over the coming decades.
+- Many new types of jobs will emerge to replace those lost to automation, but there may also be a "jobless" period of technological unemployment as the economy adjusts to the new technology and workers retrain and transition into new roles. 
+- Although task encroachment will significantly impact human employment, humans still have a role to play by focusing on tasks that require emotional intelligence, creativity, judgment, and higher-level thinking—skills that remain challenging for machines to replicate. Developing and applying these skills will be crucial for humans to continue to add value as technology progresses.
+
+ 
+
+- Researchers have developed models to predict the decisions of courts, especially the U.S. Supreme Court and the European Court of Human Rights. These models have had a degree of success. 
+
+- AI is being applied to medical diagnosis and healthcare in countries like China and the U.K. AI systems can analyze medical scans, detect diseases, and even suggest treatments. However, physicians still need to be involved.
+
+- AI and automation are transforming education. AI tutoring systems provide personalized learning. However, human teachers are still central.
+
+- AI has started to replace some routine jobs like trading stocks, processing insurance claims, identifying plant species, and even some journalism. However, human judgment and creativity are still key in many areas.
+
+- Governments and companies are exploring the use of AI for surveillance, monitoring, and "pre-crime" detection. However, there are risks around privacy, bias, and "pseudoscience." The use of "social robots" in areas like healthcare and education is growing but remains limited. 
+
+- Productivity growth has been slow in Western nations. However, new general-purpose technologies like AI could boost economic growth. Around 50 percent of jobs are at high risk of automation, especially routine jobs. However, human judgment, creativity, and interpersonal skills will still matter in many occupations.
+
+- Developing nations may benefit more from automation since they have a higher proportion of routine jobs. China aims to lead in AI and sees it as crucial for its economy. Chinese companies are investing heavily in AI and China is producing huge amounts of data to fuel AI systems.
+
+- There are concerns about bias and unfairness in AI as well as lack of transparency in AI systems. Regulations and guidelines are being developed to ensure AI is fair, transparent, and aligned with human values. But regulating AI will be challenging.
+
+- In general, while AI and automation will significantly transform societies and economies, human skills, judgment, creativity, and empathy will remain crucial. AI is more likely to augment human capabilities rather than replace humans. Managing the transition will require investment in education and skills. But the long-term impact of AI on jobs remains uncertain.
+
+ Here is a summary of the key points:
+
+1. John Maynard Keynes argued that technological unemployment was temporary and that new jobs would emerge to replace old ones. 
+
+2. In Homer’s Odyssey, King Alcinous says that “the gods have given men work to console them.” However, work may provide less solace in an era of high structural unemployment.
+
+3. Structural unemployment arises from a mismatch between the skills that workers have and the skills that available jobs require. It differs from frictional unemployment, which is temporary and results from the normal workings of the labor market.
+
+4. The employment-to-population ratio for US prime-age men has declined over time. It was 86% in 1948 but 74% in 2018. This suggests rising structural unemployment.
+
+5. Although US manufacturing output has grown over time, manufacturing employment has declined. This is evidence of automation replacing human labor. 
+
+6. US GDP per capita has grown at around 2% per year. However, the benefits of this economic growth have not been evenly distributed across the population.
+
+7. Middle-skill jobs are declining, while high-skill jobs are growing. This job polarization disproportionately impacts some segments of the population.
+
+8. The demand for social skills, creativity, emotional intelligence, and judgment are harder to automate. They complement technological changes rather than compete with them.
+
+9. Wage premiums for college degrees have increased over time. This suggests that new technologies complement high-skilled workers but compete with middle- and low-skilled workers.
+
+10. Some policy responses to structural unemployment include restricting immigration and trade, increasing access to education, and providing a universal basic income. However, there are challenges with each of these approaches.
+
+11. Technologies like artificial general intelligence could significantly accelerate job displacement in the coming decades. This could lead to high structural unemployment and greater inequality.
+
+12. Though new technologies may reduce aggregate employment, their impact depends on how they interact with human labor and how the gains they generate are distributed. With the right policies and institutions in place, technology could improve standards of living. But without them, it may do the opposite.
+
+ 
+
+- US manufacturing's share of GDP has declined, but its real output has grown. Manufacturing employment has declined due to automation. 
+
+- Anxiety about technological unemployment has existed for centuries and tends to be misguided. New jobs are created to replace old ones. However, some economists argue this time may be different as many jobs are at risk of automation.
+
+- The idea of a 'lump of labor'—that there is a fixed amount of work to be done—is a fallacy. New technologies can create new types of work. 
+
+- Inequality has risen in nearly all developed nations since the 1980s. The wealthiest have captured a larger share of income gains. In the US, the top 0.1% and 0.01% have seen their incomes rise much faster than average. 
+
+- Wage inequality and unequal distribution of capital income have been major drivers of rising inequality. CEO pay has also risen much faster than average wages. 
+
+- While new technologies may threaten some jobs, they are not the primary cause of rising inequality. Public policy choices around taxes, benefits, education, minimum wages, and trade unions have likely had a bigger impact.
+
+- There is no consensus on the impact of new technologies on inequality. They could either decrease inequality by reducing production costs or increase it by rewarding high-skilled workers. Public policy will significantly influence the outcome.
+
+- Comparisons have been made between the rise of technologies like AI and the Industrial Revolution. But the Industrial Revolution led to massive job losses and economic disruption, suggesting we should be cautious about the impact of new technologies on work. Policy intervention may be needed to spread the benefits.
+
+ 
+
+The online data appendix contains detailed data and figures on income and wealth inequality referenced in the book. The data shows that income inequality has increased in most rich nations since the 1970s. The share of national income going to the top 1% has more than doubled in the US, rising from around 9% in the 1970s to over 20% today. At the same time, the bottom 50% income share has fallen from about 20% to 12% in the US. 
+
+There are many reasons suggested for rising inequality including technological change, globalization, policy changes, and the rise of “superstar” firms. However, the relative importance of these factors is debated. Educational attainment has not kept up with technological change, limiting opportunity. While access to college education has increased, college completion rates remain low, especially for disadvantaged students.
+
+Some argue college is not for everyone and that education is overrated. Billionaire Peter Thiel funds students to drop out of college. However, a college degree continues to yield large wage premiums over a lifetime, on average. Education provides more than just skills and job training. College teaches critical thinking, social skills, and exposes students to new ideas and ways of thinking.
+
+Though college is not for everyone, expanding access to education and improving quality remains key to promoting social mobility and shared prosperity. Education is not sufficient but, for most, is still necessary to achieve one's full potential in today's economy. Overall, education continues to be the great equalizer, though its benefits depend greatly on the quality, affordability, and accessibility of schools and universities. Education alone will not solve rising inequality but remains key to expanding opportunity.
+
+In summary, while technology and globalization have spurred rising inequality in many nations, education and human capital remain central to shaping opportunities and the distribution of prosperity in society. Though the benefits of education depend on its quality, affordability, and access, for most people advanced education and skills training are still the surest paths to good, well-paying jobs in today's economy. Overall, education continues to be key to social mobility and shared economic progress.
+
+ Here is a summary of the key points from the April 2019 section:
+
+- There is concern that automation and technology will significantly reduce demand for human labor, creating a "useless class" of people. Some argue a basic income could help address this.
+
+- The Soviet Union experimented with guaranteed employment, but their economy struggled. Some economists like Wassily Leontief argued markets may not create enough jobs. 
+
+- Historically, major drops in inequality have often come from violent shocks like wars, revolutions, and state collapse. A basic income could reduce inequality in a peaceful manner.
+
+- Proponents argue a basic income could provide economic security, reduce bureaucracy, and support unpaid work. Critics argue it could reduce the incentive to work and be very expensive.
+
+- There are various basic income proposals, like providing everyone a small guaranteed income or expanding existing programs like food stamps. Cost estimates range from $1,500 to $12,000 per person per year in the U.S.
+
+- Taxing the wealthy and large tech companies could help fund a basic income. But there are challenges in accurately measuring wealth and corporate profits, and firms work to minimize their tax burdens.
+
+- Native American tribes provide examples of small-scale basic incomes. Some distribute casino profits to members. But there are concerns about over-reliance on gambling revenue and some tribes have disenrolled members to reduce payouts.
+
+- A basic income may become more appealing if technology significantly disrupts labor markets. But there are open questions about how to fund and implement such a program on a large scale. Trials and experiments could help determine if it's viable.
+
+That covers the key highlights on arguments for and against a basic income, various proposals and examples, funding options, and open questions. Please let me know if you would like me to explain or expand on any part of this summary.
+
+ 
+
+- Winning the lottery or receiving an inheritance often leads people to work less, suggesting unearned income like a universal basic income could reduce the incentive to work. However, studies of large cash transfers in Iran and Alaska found no effect on employment. 
+
+- There is debate over whether diversity undermines the shared interests and values needed to sustain redistribution. Some research found ethnic diversity correlated with less redistribution, but other studies have challenged those findings.
+
+- There are arguments for using a universal basic income to provide economic security and support people during transitions, as well as arguments against it on the grounds it reduces the incentive to work or contributes to inequality.
+
+- Big tech companies like Google, Facebook, Amazon, and Apple have gained huge control of key technologies and markets. Some argue their dominance demonstrates the success of capitalism's "creative destruction," while others argue it has gone too far and risks less innovation, choice, and competition.
+
+- Breaking up big tech companies could promote competition but also reduce efficiency and innovation. Regulating them could also be challenging given their complex technologies and business models.
+
+- There are concerns artificial intelligence and automation will significantly displace human jobs, though new jobs may also emerge. Policy solutions like education, job retraining programs, universal basic income, and taxing robots have been proposed.
+
+- While new technologies are raising concerns, they are also powering advances in fields like healthcare, transportation, education, and scientific research. Policymakers aim to encourage innovation while managing its effects.
+
+ Here is a summary of chapters 5 through 8 of Virtual Competition by Ariel Ezrachi and Maurice Stucke:
+
+Chapter 5 examines how algorithms can facilitate collusion and discusses regulatory challenges. Companies can use algorithms to quickly detect deviations from collusive agreements and punish competitors that offer lower prices. This makes it easier for companies to coordinate and sustain cartels. However, it is difficult for regulators to prove that algorithms are facilitating collusion since algorithms behave like a "black box," making their operations opaque. Regulators will struggle to prove that algorithms were designed specifically to enable collusion. 
+
+Chapter 6 explores the implications of personalized pricing, where companies charge customers based on their willingness to pay as determined by their algorithms. Personalized pricing can increase profits but it also raises ethical issues, as it may discriminate against certain groups and magnify inequality. Regulators face challenges in identifying and addressing these ethical issues. Laws often prohibit explicit discrimination but do not cover the implicit discrimination that can emerge from algorithms.
+
+Chapter 7 examines issues with "algorithmic market failures" and "algocracy." An increase in algorithmic decision making can reduce diversity of thought and lead to "monocultures" where everyone relies on the same algorithm. This can increase systemic risks. There is also a concern that algorithms may gain too much influence and control over people's lives in an "algocracy." However, Ezrachi and Stucke argue we are still far from an algocracy and humans are still ultimately in control of algorithms.
+
+Chapter 8 discusses the implications of virtual competition on jobs, inequality, and well-being. Ezrachi and Stucke argue that algorithms alone will not necessarily lead to mass unemployment but will significantly impact the nature of jobs and work. Many jobs may be eliminated but new jobs may also emerge. However, there is a risk that algorithm-driven changes in the economy will increase inequality if their benefits accrue mainly to high-skilled, high-wage workers. There is also concern that competition in an algorithm-driven economy may focus excessively on efficiency and price, rather than quality, diversity, and well-being. Policymakers need to consider how to promote a "shared common good" in an algorithmic age.
+
+In sum, Ezrachi and Stucke highlight how algorithms can both enhance and undermine competitive markets. Policymakers face significant challenges in ensuring algorithms benefit society as a whole. Care must be taken to address risks around issues like collusion, discrimination, job insecurity, inequality, and threats to well-being. But algorithms also promise major benefits if their development and use are properly guided and regulated.
+
+ Here is a summary of the references:
+
+Schaff, Philosophy and the Problems of Work: A Reader (Oxford: Rowman & Littlefield, 2001), p. 3; Keynes, Essays in  Persuasion, p. 368. 
+Jahoda, Lazarsfeld, and Zeisel, Marienthal, p. 66.
+Eleanor Dickey, “Education, Research, and Government in the Ancient World,” lecture at Gresham College, Barnard’s Inn Hall, London, 15 May 2014.
+Michael Barber, “Rab Butler’s 1944 Act Brings Free Secondary Educational for All,” BBC News, 17 January 1944.
+See Jonathan Birdwell, Ralph Scott, and Louis Reynolds, Character Nation (London: Demos, 2015), p. 9.
+James Arthur, Kristján Kristjánsson, David Walker, et al., “Character Education in UK Schools Research Report,” The Jubilee Centre for Character and Virtues at the University of Birmingham (2015), as described ibid., p. 10.
+Men, 6.1 × 7 = 42.7 hours a week; women, 38.5 hours a week. Office for National Statistics, “Leisure Time in the UK: 2015,” 24 October 2017,  https://www.ons.gov.uk/releases/leisuretimeintheuk2015 (accessed 24 April 2017). 
+See http://www.bbc.co.uk/corporate2/insidethebbc/whoweare/mission_and_values (accessed 8 May 2018). 
+HM Government, “Sporting Future: A New Strategy for an Active Nation,” December 2015.
+Sarah O’Connor, “Retirees Are Not the Only Ones Who Need a Break,” Financial Times, 7 August 2018.
+The volunteering statistics are from Andy Haldane, “In Giving, How Much Do We Receive? The Social Value of Volunteering,”  lecture to the Society of Business Economists, London, 9 September 2014.
+Haldane, “In Giving, How Much Do We Receive?”
+Sophie Gilbert, “The Real Cost of Abolishing the National Endowment for the Arts,” Atlantic, 16 March 2017.
+For the UK, Daniel Wainwright, Paul Bradshaw, Pete Sherlock, and Anita Geada, “Libraries Lose a Quarter of Staff as Hundreds Close,” BBC News, 29 March 2016—4,290 council-run libraries in 2010, 3,765 in 2016.
+Benedicte Page, “Philip Pullman’s Call to Defend Libraries Resounds Around the Web,” Guardian, 27 January 2011.
+Orrin E. Dunlap Jr., “Telecasts to Homes Begin on April 30—World’s Fair Will Be the Stage,” New York Times, 19 March 1939.
+“Ulysses” in Alfred Tennyson, Selected Poems (London: Penguin Books, 2007).
+Dylan Matthews, “4 Big Questions About Job Guarantees,” Vox, 27 April 2018; Sean McElwee, Colin McAuliffe, and Jon Green, “Why Democrats Should Embrace a Federal Jobs Guarantee,” Nation, 20 March 2018.
+See, for instance, Arendt, Human Condition, on “labor,” “work,” and “action.” 
+“We are not the only people who consider the man who takes no part in politics not as one who minds his own business but as useless,” from Pericles’s Funeral Oration, quoted in Balme, “Attitudes to Work.”
+International Labour Organization, Care Work and Care Jobs for the Future of Decent Work (Geneva: International Labour Office, 2018), p. xxvii.
+Lowrey, Give People Money, p. 151.
+“Unpaid Care,” Parliamentary Office of Science and Technology, Houses of Parliament, No. 582 (July 2018).
+See Chris Rhodes, “Manufacturing: Statistics and Policy,” House of Commons Library Brief Paper No. 01942 (November 2018); Chris Payne and Gueorguie Vassilev, “House Satellite Account, UK: 2015 and 2016,” Office for National Statistics (October 2018).
+Joi Ito and Scott Dadich, “Barack Obama, Neural Nets, Self-Driving Cars, and the Future of the World,” Wired, 12 October 2016.
+Alex Moss, “Kellingley Mining Machines Buried in Last Deep Pit,” BBC News, 18 December 2015.
+See, for instance, David Goodhart and Eric Kaufmann, “Why Culture Trumps Skills: Public Opinion on Immigration,” Policy Exchange, 28 January 2018.
+John Stuart Mill, Principles of Political Economy with Chapters on Socialism (Oxford: Oxford University Press, 2008), p. 124.
+Isaiah Berlin, Two Concepts of Liberty (Oxford: Clarendon Press, 1958), p. 3.
+Stefan Zweig, The World of Yesterday (London: Pushkin Press, 2014), p. 23.
+
+ Here's a summary of the key points and articles:
+
+•David Autor argues that low-skill service jobs are increasingly being polarized due to automation and technology. He says technological changes are creating substantial challenges for workforce and economic opportunity. These trends are visible in the declining labor share of income and rise of "superstar firms." 
+
+•There is anxiety about automation and job losses due to technology that dates back many decades. However, the current wave of automation enabled by AI and robotics is unprecedented. There is active debate on whether automation will lead to job creation or job losses.
+
+•David Autor studies how computers and automation have changed the labor market. In multiple papers with different co-authors, he finds that technology has increased demand for skilled jobs (like managers and professionals) and reduced demand for routine jobs (like clerks and assemblers). However, technology has increased demand for "abstract" and manual jobs as well. His work suggests job polarization, not simply job losses.
+
+•Other researchers like Erik Brynjolfsson argue that AI and automation will transform the economy and job market. New technologies may boost economic growth but also income inequality if only skilled or educated workers benefit. Policymakers and educators will need to help workers acquire skills for new types of jobs. 
+
+•There are concerns that new technologies will reduce economic opportunity and the available supply of jobs. However, throughout history, technology has created new types of jobs and work that are hard to envision beforehand. Many economists are optimistic that new work and jobs will emerge for humans to do, even as many current jobs are automated. But massive transitions may be ahead.
+
+•Debate continues on policy solutions like universal basic income to help address job losses from automation. However, there is no consensus on whether a basic income policy is viable or advisable. Education and skills training are seen as more politically feasible and economically sensible approaches by most experts. But new policies may still be needed to help those hardest hit by job transitions.
+
+In summary, experts expect AI and automation to significantly transform the economy and job market. There will likely be both job losses and job gains, with massive transitions for many workers. Policymakers will need to find ways to help workers adapt to these changes and benefit from new technologies. But there are open questions about how best to do so. Monitoring trends in the job market, economy and technology will be crucial to crafting effective policies and programs.
+
+ The summary is: The articles explore the impact of technological change and automation on jobs and the economy. They warn that many jobs are susceptible to computerization and artificial intelligence, but there is disagreement over how rapidly this will occur and the scale of job losses. The economic implications of these trends are also debated. Many economists argue that while automation may eliminate some jobs, it will create new tasks and occupations. Concerns are raised about the polarization of the labor market, increased inequality, declining labor shares of income, and the psychological implications of technological unemployment. Suggested policy responses include investing in education and skills, raising the minimum wage, and tax reforms to redistribute income. Overall, the authors present both optimistic and pessimistic views of the likely effects of automation on employment and society.
+
+ Here are the summaries:
+
+Mirrlees, James, and Stuart Adam. Dimensions of Tax Design: The Mirrlees Review. Oxford: Oxford University Press, 2010.
+- A book that provides an overview of tax design and policy. 
+
+Mnih, Volodymyr, Koray Kavukcuoglu, David Silver, et al. “Human-Level Control Through Deep Reinforcement Learning.” Nature 518 (25 February 2015): 529–33.
+- A study demonstrating that deep reinforcement learning can achieve human-level control in a range of challenging tasks.
+
+Mokyr, Joel. The Lever of Riches: Technological Creativity and Economic Progress. New York: Oxford University Press, 1990. 
+- A book arguing that technological progress is the main driver of long-term economic growth.
+
+Moravec, Hans. Mind Children. Cambridge, MA: Harvard University Press, 1988.
+- A book discussing the future development of machine intelligence and robotics.
+
+Moretti, Enrico. The New Geography of Jobs. New York: First Mariner Books, 2013. 
+- A book examining how the U.S. job market is reshaping itself in the 21st century.
+
+Morozov, Evgeny. To Save Everything, Click Here: Technology, Solutionism, and the Urge to Fix Problems That Don’t Exist. New York: PublicAffairs, 2013.
+- A book critiquing technological solutionism and digital utopianism.
+
+Müller, Karsten, and Carlo Schwarz. “Fanning the Flames of Hate: Social Media and Hate Crime.” Warwick University Working Paper Series No. 373 (May 2018). 
+- A study investigating the link between social media use and hate crimes in Germany.
+
+Ng, Andrew. “What Artificial Intelligence Can and Can’t Do Right Now.” Harvard Business Review, 9 November 2016.
+- An article discussing the current capabilities and limitations of artificial intelligence. 
+
+Nilsson, Nils J. “Artificial Intelligence, Employment, and Income.” AI Magazine (Summer 1984).
+- An article speculating on the impact of artificial intelligence on jobs and the economy.
+
+Nordhaus, William. “Two Centuries of Productivity Growth in Computing.” Journal of Economic History 67, no. 1 (2007): 128–59. 
+- A study measuring productivity growth in computing since the early 19th century.
+
+Novak, David. “Toward a Jewish Public Philosophy in America.” In Alan Mittleman, Robert Licht, and Jonathan D. Sarna, eds., Jews and the American Public Square: Debating Religion and Republic. Lanham, MD: Rowman & Littlefield, 2002.
+- A book chapter discussing the idea of a distinctively Jewish public philosophy.
+
+Nübler, Irmgard. “New Technologies: A Jobless Future or Golden Age of Job Creation?” International Labour Office Working Paper No. 13 (2016).
+- A working paper examining the debate around technological unemployment.
+
+OECD. “Divided We Stand: Why Inequality Keeps Rising.” 2011. 
+- An OECD report analyzing rising inequality in OECD countries.
+
+O’Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. New York: Crown, 2016.
+- A book arguing that poorly regulated algorithms and big data are exacerbating inequality and harming society.
+
+O’Rourke, Kevin, Ahmed Rahman, and Alan Taylor. “Luddites, the Industrial Revolution, and the Demographic Transition.” Journal of Economic Growth 18, no. 4 (2013): 373–409.
+- An economic history paper reexamining the Luddite movement of the early 19th century.
+
+Orwell, George. Essays. London: Penguin Books, 2000. 
+- A collection of essays by the author George Orwell.
+
+Ostry, Jonathan, Andrew Berg, and Charalambos Tsangarides. “Redistribution, Inequality, and Growth.” IMF Staff Discussion Note (February 2014).  
+- An IMF report finding that inequality can undermine economic growth.
+
+Paine, Thomas, Agrarian Justice. Digital edition, 1999.
+- A pamphlet by Thomas Paine advocating for social safety nets anduniversal basic income.
+
+Paley, William. Natural Theology. Oxford: Oxford University Press, 2008.
+- A book of natural theology by the philosopher and clergyman William Paley, published in 1802.
+
+Pigou, Arthur. A Study in Public Finance. London: Macmillan, 1928.
+- An early public finance text by the economist A. C. Pigou.
+
+Piketty, Thomas. Capital in the Twenty-First Century. London: Harvard University Press, 2014. 
+- A bestselling book by the economist Thomas Piketty documenting rising inequality in the 21st century.
+
+Piketty, Thomas, and Emmanuel Saez. “A Theory of Optimal Capital Taxation.” NBER Working Paper No. 17989 (2012).
+- A paper outlining a theoretical model for designing an optimal progressive capital tax.
+
+Piketty, Thomas, Emmanuel Saez, and Gabriel Zucman. “Distribution National Accounts: Methods and Estimates for the United States.” Quarterly Journal of Economics 133, no. 2 (2018): 553–609.
+- A study estimating the distribution of income and wealth in the U.S. using a distributional national accounts framework.
+
+Piketty, Thomas, and Gabriel Zucman. “Capital Is Back: Wealth–Income Ratios in Rich Countries 1700–2010.” Quarterly Journal of Economics 129, no. 3 (2014): 1255–1310.
+- A study documenting rising wealth-income ratios in developed economies over the past 300 years.
+
+Pleijt, Alexandra, and Jacob Weisdorf. “Human Capital Formation from Occupations: The ‘Deskilling Hypothesis’ Revisited.” Cliometrica 11, no. 1 (2017): 1–30.
+- An economic history paper reexamining the deskilling hypothesis in light of new occupational data.
+
+Polanyi, Michael. The Tacit Dimension. Chicago: Chicago University Press, 1966. 
+- A book by the scientist and philosopher Michael Polanyi discussing the idea of tacit knowledge.
+
+Popper, Karl. The Open Society and Its Enemies, vol. 1: The Age of Plato. London: Routledge, 1945.
+- The first volume of Karl Popper's The Open Society and Its Enemies, examining totalitarian ideologies.
+
+Putnam, Hilary. “Much Ado About Not Very Much.” Daedalus 117, no. 1 (1988): 269–81.
+- An article by the philosopher Hilary Putnam discussing Wittgenstein's philosophical approach.
+
+PwC. “Global Top 100 Companies by Market Capitalisation.” 2018.  
+- A report from PwC ranking the top 100 companies globally by market capitalization. 
+
+PwC. “Workforce of the Future: The Competing Forces Shaping 2030.” 2018.
+- A report from PwC examining trends that will shape the workforce over the next decade.
+
+Rawls, John. A Theory of Justice. Cambridge, MA: Harvard University Press, 1999.
+- John Rawls' famous work of political philosophy outlining his theory of justice as fairness.
+
+Reichinstein, David. Albert Einstein: A Picture of His Life and His Conception of the World. Prague: Stella Publishing House, 1934. 
+- An early biography of Albert Einstein by the Czech writer David Reichinstein.
+
+Remus, Dana, and Frank Levy. “Can Robots Be Lawyers? Computers, Lawyers, and the Practice of Law.” Georgetown Journal of Legal Ethics 30, no. 3 (2017): 501–58.
+- An article examining the potential for automation to transform the legal profession.
+
+Renshaw, James. In Search of the Greeks. 2nd edition. London: Bloomsbury, 2015.
+- A book by James Renshaw providing an introduction to ancient Greek history and culture.
+
+Ricardo, David. Principles of Political Economy and Taxation. New York: Prometheus Books, 1996.
+- David Ricardo's famous text outlining theories of comparative advantage, rent, and more.
+
+Ruger, Theodore W., Pauline T. Kim, Andrew D. Martin, and Kevin M. Quinn. “The Supreme Court Forecasting Project: Legal and Political Science Approaches to Predicting Supreme Court Decisionmaking.” Columbia Law Review 104, no. 4 (2004): 1150–1210. 
+- A study assessing different methods for predicting U.S. Supreme Court decisions.
+
+Russakovsky, Olga, Jia Deng, Hao Su, et al. “ImageNet Large Scale Visual Recognition Challenge.” International Journal of Computer Vision 115, no. 3 (2015): 211–52.
+- A paper introducing the ImageNet Large Scale Visual Recognition Challenge.
+
+Russell, Bertrand. In Praise of Idleness and Other Essays. New York: Routledge, 2004. 
+- A collection of essays by the philosopher Bertrand Russell. 
+
+Saez, Emmanuel. “Striking It Richer: The Evolution of Top Incomes in the United States.” Published online at https://eml.berkeley.edu/~saez/ (2016).
+- An analysis of income
+
+ 
+
+Daniel Susskind is an economist at Balliol College, Oxford University. He has written extensively on the impact of technology on work and economics. In his research, Susskind argues that advancing technology, especially artificial intelligence and automation, will significantly transform the economy and labor market. However, he believes many dystopic warnings about massive job losses from automation are overblown. 
+
+Susskind identifies three “myths” about the future of technology and work:
+
+1. Automation will displace most human workers. While automation will transform many jobs and the economy, Susskind believes human capabilities, creativity, and judgment will remain crucial. Many new types of jobs will also emerge.
+
+2. Inequality between capital and labor will rise. Although inequality has risen in some areas, Susskind argues increased competition, transparency, and mobility can distribute the gains from technology more evenly. Policies like conditional basic income may also help.
+
+3. There will be a “useless class” with nothing to contribute. Susskind believes human creativity, culture, relationships, and purpose will endure and be increasingly valued. Meaning and purpose can come from many non-traditional jobs and activities.
+
+Susskind proposes several policy and social changes to benefit from increasing automation:
+
+•Invest heavily in education and skills training, especially for creativity, emotional intelligence, and complex problem-solving. 
+
+•Consider providing unconditional basic income to give people opportunities to pursue meaningful work, leisure, relationships, and purpose. 
+
+•Regulate and tax major tech companies to distribute the gains from automation and encourage competition.
+
+•Cultivate activities that provide purpose and meaning, including relationships, creativity, and community service.
+
+•Redefine work to include a wider range of meaningful and productive activities, not just formal jobs. Work should provide a sense of purpose and contribution.
+
+In summary, while technology may significantly transform economies and labor markets, Susskind believes human capabilities, creativity, culture, and purpose will remain crucial in the long run. Policies and social changes can help expand opportunities for meaningful work and distribute the benefits of increasing automation. With the right framework, advanced AI and automation do not necessarily imply a “post-work” future or massive inequality. There are reasons to be optimistic if we are proactive and open-minded.
+
+ Here is a summary of the terms in alphabetical order:
+
+3-D printing techniques: A method of manufacturing that builds objects layer by layer based on digital designs. It allows for more customized and decentralized production.
+
+advanced guard: According to Keynes, the group that drives innovation and technological progress. They are willing to take risks on new technologies before mainstream adoption.
+
+age of leisure: The period Keynes envisioned when productivity gains would reduce the workweek to 15 hours, allowing more leisure time. He believed this would begin in the 21st century. 
+
+age of labor: The period from the late 19th century through much of the 20th century characterized by a focus on maximizing employment. Governments aimed to maintain as close to full employment as possible.
+
+ALM hypothesis:The hypothesis proposed by Autor, Levy, and Murnane that routine jobs are most susceptible to automation, while nonroutine jobs with a high degree of manual dexterity or interpersonal interaction are less at risk.
+
+artificial general intelligence: Hypothetical future AI that matches human intelligence. Also referred to as human-level AI.
+
+automation anxiety: Fear about job losses and economic disruption from new technologies, especially automation and AI. Anxiety tends to spike during periods of technological change and economic transition.
+
+basic income: An income provided unconditionally to all citizens to cover basic needs. Proposed as a way to provide economic security and stability in an age of increasing automation and job insecurity.
+
+Big State: Hypothetical future in which the government takes on an outsize role due to political pressure amid job losses from automation. The state may provide benefits like basic income, government job guarantees, increased social services, and more centralized economic planning.
+
+Big Tech: Major technology companies like Google, Amazon, Facebook, Microsoft, and others. They are driving much of the progress in fields like AI, automation, and software that is transforming industries and jobs.
+
+capital income inequality: Rising inequality in income derived from capital and financial assets compared to income earned from labor. Piketty's research showed capital income has grown faster than economic growth in recent decades.
+
+changing-pie effect: When new technologies reduce costs, improve services, and generate economic surpluses mostly enjoyed by a small segment of producers and consumers. The economic pie changes shape but gets bigger, benefiting some groups disproportionately.
+
+complementing force: According to Autor, forces that generate new labor demand and new job opportunities. These forces counteract the job-reducing effects of automation and technology, minimizing the net impact on employment. Education, retraining, and job creation in new sectors can strengthen the complementing force.
+
+conditional basic income: A basic income provided only if certain conditions are met, such as participation in education, job training programs, or civic service. Conditions aim to encourage productive activity and skill development.
+
+distribution problem: The challenge of distributing the productivity and economic gains from technology broadly across the population. As technology boosts wealth and incomes at the top, finding ways to spread gains to middle- and lower-income groups is key to inclusive growth.
+
+diversity: Variation and differences among people, skills, tasks, jobs, and more. Greater diversity is beneficial as it provides more opportunities for complementarities and balances out concentrations of power or control.
+
+feedback: The notion that worker behaviors, preferences, and skill demands also influence and shape the progress of technology. Technology does not determine human outcomes unilaterally. Human choices and demands drive technological change as well.
+
+flexibility: The ability to adapt quickly to changes in the economy, job market, and work requirements. Work flexibility involves being open to changing careers, learning new skills, and taking on different responsibilities. Increased flexibility is beneficial for navigating technological change.
+
+frictional technological unemployment: Temporary job losses resulting from the process of labor transitioning between jobs, industries, and careers. While some job losses can result from technology and automation, frictionally unemployed workers will find new employment once they are able to match with new job opportunities.
+
+general intelligence: Artificial intelligence with the full range of human cognitive abilities, including reasoning, problem solving, perception, creativity, and learning. Achieving general human-level AI is an open challenge that some technologists think may be achieved within a few decades.
+
+Gini coefficients: Metrics used by economists to measure the distribution of income or wealth within a population. Higher Gini coefficients indicate greater inequality, with more wealth concentrated at the top of the distribution. Lower Gini coefficients reflect a more even spread across the population.
+
+Globalization: The increased flow of goods, investments, and people across the world as a result of reduced trade and market barriers as well as technology growth and connectivity. While globalization generates economic opportunity, it also contributes to job insecurity and inequality within some countries and for more localized workforces.
+
+government job guarantee: An economic policy where the government provides jobs paying basic wages for anyone who wants one. Job guarantees aim to address unemployment by using government funds to put people to work. Critics argue they may be inefficient, overly costly, and discourage people from finding work in the private sector.
+
+Great Depression: The global economic downturn of the 1930s sparked by the Wall Street crash of 1929. It resulted in high unemployment, widespread poverty, and a long period of slow growth. Government programs and policies like the New Deal aimed to stimulate demand and job growth, with the onset of World War II ultimately driving the recovery.
+
+hollowing out: The notion that new technologies have eliminated many middle-wage jobs. As a result, the job market has split into high-wage and low-wage jobs, while mid-level occupations have declined. This "hourglass economy" contributes to wage inequality and lack of opportunity for workers in the middle. However, the evidence for job polarization and hollowing out is mixed.
+
+human capital: The collective skills, knowledge, talents, and productive capacities of individuals in an economy or workforce. Building human capital through education, job training, and skill development is key to maximizing the complementing force and adapting to technological changes.
+
+income inequality: The disparity in income and wage levels between high-earners and low-earners in an economy. Inequality is often measured using metrics like Gini coefficients, income share of top earners, and wage ratios between different groups. High inequality can reduce opportunity and economic mobility.
+
+Industrial Revolution: The period between 1760 to 1840 marked by the move from hand production methods to machines, especially in textile and manufacturing. New inventions like the steam engine, cotton gin, and telegraph radically reshaped production, transportation, and daily life. This new wave of technology resulted in major labor disruptions, shifts into cities, social changes, inequality, and automation anxiety about job losses from machines.  
+
+inferiority assumption: The idea that human capabilities are inferior to and will eventually be surpassed by advancing machine capabilities, especially as AI systems become more intelligent and sophisticated. Proponents argue this means many human jobs and tasks will inevitably be automated as technology progresses. Critics counter that human skills, creativity, emotion, and social intelligence are hard to replicate and depend heavily on context.
+
+intelligence explosion: The notion that progress in developing advanced AI could lead to an unstoppable cycle of increasingly rapid improvements in intelligence. Once machines reach and then exceed human-level intelligence, they may quickly become vastly more intelligent than humans. This scenario is known as superintelligence. However, most experts think human-level AI is still quite challenging and distant. An uncontrolled intelligence explosion is unlikely in the near term.
+
+job polarization: The idea that new technologies have driven growth in high-skill, high-wage jobs and low-skill, low-wage jobs, while reducing jobs in the middle of the skill and wage distribution. However, more recent evidence shows that job polarization has been modest and the job market remains diverse. Middle-skill jobs also continue to grow but at a slower rate than high-skill jobs. 
+
+labor income inequality: Inequality in wages, salaries, and earnings among workers or households. Several factors have contributed to rising labor income inequality, including globalization, weakened labor unions and bargaining power, market inflation for certain skills, changing corporate pay structures, and increasing returns to top talent. However, the direct role of technology alone in driving labor income inequality is debated.
+
+lump of labor fallacy: The false notion that there is a fixed amount of work available in an economy. In reality, the amount of labor and work depends on demand, productivity, and economic growth. While technology may eliminate jobs in some sectors, the overall demand for labor depends on the creation of new jobs, products, services, and economic activity. The lump of labor view mistakenly sees job losses from technology as resulting in permanent net job declines and "structural" unemployment.
+
+participation rate: The percentage of the total population that is employed or actively looking for work. A higher participation rate means more people are engaged in the labor market, working, or seeking employment. Technology, demographics, education levels, job opportunities, and economic growth all influence the participation rate.
+
+precariat: A class of people facing ongoing economic insecurity due to unstable or precarious jobs with little predictability or social contract. The rise of the gig economy and alternative work arrangements has contributed to the growth of the precariat class, who lack employment stability or benefits. Basic income is sometimes proposed as a way to provide income security for the precariat. However, others argue that precarious jobs provide needed flexibility and independence.
+
+priority shift: When advancing technology and automation accelerate the decline of human work in some domains, forcing a shift in priorities and purpose to more human-centered activities. As machines take over routine, automatable work, humans can prioritize more meaningful work involving social interaction, creativity, ethics,
+
+ 
+
+- The author, Daniel Susskind, coauthored The Future of the Professions with Richard Susskind. 
+- The book was named one of the best books of the year by the Financial Times, New Scientist, and the Times Literary Supplement.
+- Susskind is a fellow in economics at Balliol College, Oxford University. 
+- He previously worked in the British government as a policy adviser and analyst.
+- This summary is for the book A World Without Work by Daniel Susskind. 
+- The book explores the social implications of advancing technology and automation. It is divided into three parts:
+
+Part I: The Context
+- Chapter 1 discusses the history of anxiety about technology and jobs. 
+- Chapter 2 explores how labor and jobs have been central to society. 
+- Chapter 3 examines how pragmatists argue that productivity growth through technology leads to job creation. 
+- Chapter 4 argues that we have underestimated the capability and impact of machines.
+
+Part II: The Threat
+- Chapter 5 discusses how machines are taking over human tasks and jobs. 
+- Chapter 6 explores "frictional" technological unemployment, temporary joblessness.
+- Chapter 7 examines "structural" technological unemployment, permanent job loss.
+- Chapter 8 discusses how technology could widen inequality.
+
+Part III: The Response
+- Chapter 9 considers the limits of education and training to adapt to advancing technology.
+- Chapter 10 explores the idea of expanding the welfare state. 
+- Chapter 11 examines the possibility of relying on big tech companies.
+- Chapter 12 discusses pursuing purpose and meaning beyond work.
+
+The epilogue concludes by revisiting the history of labor and technology and suggests how society might explore unknown opportunities and craft a new collective way forward beyond work.

@@ -1,0 +1,965 @@
+ Here is a summary of the final study set:
+
+The researchers started with 1,435 companies and narrowed it down to 11 "good-to-great" companies that showed a major shift in performance and sustained it for 15 years. They found 11 "direct comparison" companies that were similar but did not have a major shift in performance. They also found 6 "unsustained comparison" companies that had a temporary shift in performance but did not sustain it. 
+
+For each company, they collected a large amount of data from various public sources. They coded each company's data into 11 categories:
+
+1. Organizing Arrangements: Structure, policies, incentives, ownership, etc. 
+2. Social Factors: Culture, people practices, dynamics, management style, etc.
+3. Business Strategy and Process: Strategy, mergers, etc. 
+4. Markets, Competitors, and Environment: Competitors, market shifts, regulations, technology changes, Wall Street, etc.
+5. Leadership: Executives, CEOs, board members, leadership changes, style, etc. 
+6. Products and Services: Key products and services over time.
+7. Physical Setting and Location: Use of space, facilities, geographic locations, etc.
+8. Use of Technology: Information technology, processes, equipment, job design, etc.
+9. Vision: Core values, purpose, BHAGs - were they present, how did they develop, did they change, etc.
+10A. Change/Transition Activities (Direct Comparisons): Attempts at transition during the good-to-great company's transition era. 
+10B. Attempted Transition Era (Unsustained Comparisons): Attempts at transition and supporting activities during their "attempted transition era."
+11. Posttransition Decline (Unsustained Comparisons): Factors contributing to not sustaining the transition after the attempted transition era.
+
+They also conducted extensive analysis of 35 years of financial data for each company, looking at metrics like total sales, profits, R&D spending, capital expenditures, executive compensation, shareholder equity, and stock prices.
+
+The researchers then synthesized all of this data to determine what distinguished the good-to-great companies. Here is a summary:
+
+The key message is that discipline is required for great and sustained results. However, discipline needs to be applied with an understanding of the three circles: what you can be the best in the world at, what drives your economic engine, and what you are deeply passionate about. Discipline alone or discipline applied haphazardly often does not produce sustained results.
+
+The cases of IBM under Tom Watson Jr. and Burroughs under Ray MacDonald show how imposing strict discipline can lead to a rise in results. However, once these leaders left, the companies declined dramatically, showing a lack of enduring culture of discipline. Similarly, Rubbermaid rose dramatically under the disciplined leadership of Stanley Gault but then declined once he departed.  
+
+Lee Iacocca imposed discipline to turn around Chrysler. However, he then strayed outside the three circles with undisciplined diversification into aerospace and an alliance with Maserati. During the first half of Iacocca’s tenure, Chrysler’s stock price rose nearly three times the market but then declined by 31% relative to the market during the second half of his tenure.
+
+In contrast, Pitney Bowes provides an example of discipline leading to sustained results. Once Pitney Bowes lost its monopoly in postage meters, it initially declined but then regained discipline under Level 5 leadership. It came to understand its three circles as servicing the back rooms of businesses within the broader concept of “messaging.” Pitney Bowes then engaged in disciplined diversification into areas like high-end faxes and copiers that fit within its three circles. As a result, Pitney Bowes went from underperforming the market by 77% to outperforming it by over 1100% from 1973 to 2000.
+
+The summary message is that discipline is key but it needs to be the right discipline - discipline to understand your three circles and stay within them. Lacking this discipline or diversifying haphazardly outside the three circles often leads to a lack of sustained results. Here is a summary:
+
+The companies that made the leap to greatness were characterized by their 
+willingness to change and adapt to acceleration technology, but in a disciplined fashion. 
+They did not blindly chase technology just because it was new. Instead, they 
+thought deeply about how to apply technology to fit their Hedgehog Concept. 
+
+• Drugstore.com provides an example of the irrational exuberance around technology in 
+the late 1990s. Its stock price rose dramatically despite the lack of a viable business 
+model or profits. In contrast, Walgreens took a disciplined approach to technology. 
+They carefully analyzed how the Internet could enhance their model and waited to 
+make the right investment at the right time. 
+
+•The good-to-great companies were pioneers in the application of carefully selected 
+technologies, but they were disciplined in the sense that they did not chase after 
+technology just because it was interesting or exciting. New technologies were only 
+pursued if there was a direct link back to the three intersecting circles of the 
+Hedgehog Concept. 
+
+• When used correctly, technology becomes an “accelerator” of momentum, not the 
+creator of it. The key question is not, “How can we use technology?” but, “How can 
+we apply technology to our Hedgehog Concept?” The good-to-great companies 
+sought technology as a means to an end, not as the end itself.
+
+• Two key reasons why technology by itself does not create a sustainable shift from 
+good to great: 
+
+1) Technology is easily obtained by all. Any technology that can be obtained by one 
+company can usually be obtained by another. So, technology is not decisive, in and of 
+itself. 
+
+2) Technology is fast-changing, often unpredictable, and hard to plan around for the 
+long term. Greatness is built on tangible, timeless foundations, not fast-changing, 
+unpredictable technology fads.
+
+The key lesson is that good-to-great companies think differently about technology. 
+They never see technology as something they pursue for its own sake. They never 
+confuse the pursuit of technology with what they are really pursing—building a 
+great company. For the good-to-great companies, technology was an accelerator of 
+momentum, not the creator of it. The key question was not, “How can we use technology?” 
+but, “How can we apply technology to our Hedgehog Concept?” The good-to-great 
+companies sought technology as a means to an end, not as the end itself. Here is a summary:
+
+The key people Jim Collins thanks in the acknowledgments section of Good to Great are:
+
+- Numerous executives and employees from the companies studied in the research 
+- His research mentor Jerry Porras
+- His graphics consultant James J. Robb
+- His agent Peter Ginsberg
+- His editor Adrian Zackheim
+- His wife Joanne Ernst for her support and feedback
+
+Collins acknowledges the researchers, archivists, and executives who provided information and access for the research in the book. He gives special thanks to several people who were particularly helpful in arranging interviews and providing documents. He thanks his mentor Jerry Porras, as well as his agent, editor, and graphics consultant for their work on the book. Finally, he thanks his wife Joanne for her ongoing support, feedback, and patience during the long process of researching and writing the book. Here is a summary:
+
+Week, June 11, 1990, 66; “Kroger’s CEO Pivots to Face Wal-Mart,”
+Wall Street Journal, August 24, 1993, B4; “Kroger Chops Costs,”
+Progressive Grocer, April 1994,7.
+13. “Big Is Not Always Better: Kroger Joins Caravan ...” Barron’s,
+December 13, 1993, 43; “Price War Scorch Kroger,” Newsday, July
+30, 1992,57.
+14. “Kroger’s CEO Pivots to Face Wal-Mart,” Wall Street Journal,
+August 24, 1993, B4.
+15. Joseph Hatton, “They Tore Up the Old Formula at Kroger, Forbes,
+April 13, 1992,80.
+16. William L. Copeland, Disease in Antiquity (New York: Clarkson N.
+Potter, 1967), 21-27; Roger H. Guerrant, “Tropical medicine: Past
+and Present—Some Thoughts,” Journal of Tropical Medicine and
+Hygiene, 1985; James L.A. Webb Jr., Humanity’s Burden: A Global
+History of Tropical Diseases and Their Control (New York: Cambridge
+University Press, 2008), 2–3.
+
+• Week of September 7, 1987 
+• James F. Montgomery spoke to the Boston Security Analysts Society.
+• It took Einstein 5-6 weeks to formally publish his theory of special relativity, though he had worked on it for 10 years.
+• Kroger struggled in the early 1990s but turned around by reducing costs, improving operations, and customer service. 
+• Tropical diseases have afflicted humanity for thousands of years. Here is a summary:
+
+- A great system requires disciplined management and employees who believe in and execute the system. Within the system framework, managers had flexibility and responsibility. Circuit City became the McDonald's of electronics retailing—highly consistent but not the best quality. The system evolved by adding new products. Circuit City succeeded by implementing a consistent system across stores. 
+
+- Success requires creating a culture of discipline. It starts with self-disciplined people, then disciplined thinking to face facts and find a Hedgehog Concept, then disciplined action. Discipline alone is not enough; you need the right people and thinking. The good-to-great companies used words like disciplined, rigorous, precise, and demanding. They were almost fanatical, like the athlete who rinsed his cottage cheese to be at maximum performance. Success requires the discipline to determine what you can be best at and do what it takes to achieve that.
+
+- Wells Fargo emerged stronger from deregulation due to determination and discipline. The CEO made executives sacrifice, cut costs, and eliminated waste. In contrast, Bank of America executives preserved their privileges and did not change, causing losses. They lacked the discipline to follow Wells Fargo's lead.
+
+- Although discipline distinguished the good-to-great companies, the unsustained comparisons were also disciplined, so discipline alone is not the key. The good-to-great companies built an enduring culture of discipline under Level 5 leaders. The unsustained comparisons had Level 4 leaders who personally imposed discipline through force, producing initial results but not lasting success. For example, one leader dominated conversations, criticized others, and used pressure to get his way, achieving strong results during his tenure but not building an enduring culture.
+
+In summary, the key difference was that the good-to-great companies developed a culture of discipline that endured, whereas the unsuccessful comparisons relied on a single disciplined leader who did not build a self-sustaining culture. The Level 5 leaders built that culture, enabling continued success even after they left. The Level 4 leaders did not enable others or build an independent culture of discipline. Here is a summary of the sources:
+
+In 1990, Gillette introduced the Sensor shaving system after 10 years and $300 million in development costs. The Sensor went on to become Gillette’s most successful new product introduction, achieving first-year sales of over $500 million.
+
+Gillette was able to develop the Sensor because it had invested heavily in razor and blade technology since the 1950s. This allowed Gillette to create a shaving system with independently suspended twin blades and a pivoting head that provided a closer shave. Through sharp marketing, Gillette turned the Sensor into a high-profit blockbuster.
+
+The success of the Sensor highlighted Gillette’s competence in innovation and marketing of premium shaving products. The company continued improving the Sensor over time and released upgraded versions to sustain sales, demonstrating a commitment to continuous innovation. 
+
+In summary, Gillette’s success with the Sensor was the result of long-term investment in research and development, a culture of innovation, astute marketing, and dedication to constantly improving its products. The Sensor became emblematic of Gillette’s mastery in the shaving market. Here is a summary:
+
+• Wells Fargo acquired Crocker National Bank in 1986. Wells Fargo fired most of Crocker’s top executives, including 1,600 managers, right away after the acquisition. Although this seems ruthless, the evidence suggests Crocker’s managers would not have succeeded in Wells Fargo’s high-performance culture. It was better to fire them immediately rather than subject them to “a death by a thousand cuts.”
+
+• Good-to-great companies rarely used mass layoffs. Six of the 11 companies studied had zero layoffs for 10 years before and after their transition points. Layoffs were used 5 times more often in comparison companies. Endless restructuring and headcount slashing were not part of the good-to-great model. 
+
+• There are 3 disciplines for being rigorous but not ruthless in people decisions:
+
+1. When in doubt, don’t hire—keep looking. Growth is limited by the ability to get enough of the right people. Don’t compromise by hiring the wrong person.
+
+2. When you know you need to make a people change, act. Don’t wait and waste time managing the wrong person. It’s unfair to the right people and the wrong person. Act for your own convenience.
+
+3. Be rigorous in evaluating candidates against the characteristics of the right people for key seats. The right people don’t need to be tightly managed. They are self-motivated and driven to perform. They fit the culture and share the values of the company. 
+
+• Rigor in people decisions starts at the top. The most important hiring rigor is applied to executives and upper management. They have the most responsibility and impact. Here's a summary:
+
+- To become great, companies must move beyond just being good at what they do.  They must determine what they can potentially do better than any other organization and focus exclusively on that.
+
+- Great companies frequently achieve amazing results even in mundane industries.  What matters is not the industry but gaining a deep understanding of what drives your company's success.
+
+- A key insight for many great companies is determining a single "economic denominator" - a ratio that, if systematically improved, will have the biggest impact on success.  For example, Walgreens focused on profit per customer visit, Wells Fargo on profit per employee.  Pushing for a single denominator fosters insight into what really drives your economics.
+
+- Great companies are also passionate about what they do.  Philip Morris executives loved their tobacco products and company.  You can't manufacture passion; you can only focus on what you naturally become passionate about.  
+
+- The Hedgehog Concept involves understanding what you can be the best in the world at, what drives your economic engine, and what you are deeply passionate about.  Great companies build their strategies around this concept. Here is a summary:
+
+The early founders of Hewlett-Packard (HP), Bill Hewlett and Dave Packard, were primarily focused on building a great company and attracting talented people rather than on the specific products the company would make. They considered many options before eventually settling on instrumentation and electronic test equipment. Their ultimate vision was to build an organization where like-minded engineers could work together on exciting and meaningful projects. 
+
+ HP went on to become one of the world’s leading technology companies, in large part because Hewlett and Packard created a strong core ideology centered around values like technical contribution, respect for the individual, and responsibility to communities. They called this the “HP Way,” and it endured even as business strategies evolved tremendously over HP’s history.  
+
+The key to HP’s enduring success was the ability to “preserve the core and stimulate progress.” They clung to their core values and purpose but adapted strategically to a changing world. Enduring great companies understand that profits and shareholder returns, while important, are not the only reasons for a company’s existence. They have a deeper purpose and set of core values.
+
+There is no single set of “right” core values for an enduring great company. Different companies can thrive with very different values. The key is simply that the company develops a clear set of values that fit their organization and sticks to them over time while still adapting strategically.
+
+Disney is another example of a company that endured through its ability to preserve its core (including a belief in creative imagination and bringing joy to others) while stimulating progress (moving from short animated films to feature-length films, television, and theme parks). Their core purpose of bringing happiness to children and families fueled their success across many endeavors.
+
+In summary, the conceptual links between Good to Great and Built to Last include:
+
+1. Having a “first who” mentality and getting the right people on the bus. 
+2. Developing a core ideology centered on values and purpose that guides decisions. 
+3. Preserving the core while stimulating progress: sticking to your core values but adapting strategies and practices.  
+4. Moving from good to great to built-to-last by building an organization and systems aimed at greatness and longevity, not just initial success.
+5. Developing Big Hairy Audacious Goals (BHAGs) that fit your core values and purpose. Bad BHAGs don’t link to purpose and core.
+
+Does this help summarize the key points? Let me know if you would like me to clarify or expand on any part of the summary. Here is a summary:
+
+- Abbott Laboratories had a brilliant mechanism to exceed analyst expectations in the short term while investing in long-term growth. It would report growth that exceeded analyst expectations but fell short of its actual growth. It would channel the difference into “Blue Plans” for long-term investment. In contrast, Upjohn would hype up its stock with unrealistic future promises but fail to deliver results. It made hasty, ill-conceived investments trying to achieve breakthrough success, like its Rogaine product. Unsurprisingly, Abbott became a consistent high performer while Upjohn struggled.  
+
+- The good-to-great companies understood the power of continued incremental progress and results. They would highlight tangible accomplishments, however small at first, to show momentum and gain enthusiasm. The author calls this the “flywheel effect.” For example, Kroger’s CEO avoided hoopla and motivated people through a series of wins and results, not just words. The good-to-great companies didn’t start with bold proclamations but built momentum through action, step by step.
+
+- For example, Nucor started by just trying to avoid bankruptcy, then built steel mills to control supply. It gained customers and momentum over decades. Only in 1975 did its CEO suggest it could become the #1 steel company, though he didn’t know when. It took over 20 years of pushing the flywheel, but Nucor eventually became the most profitable steel company. When the flywheel builds momentum, people can see where it’s going and get on board.
+
+- In contrast, the comparison companies would frequently launch new programs with fanfare but fail to sustain results. They looked for a single action or innovation to skip the buildup stage and achieve breakthrough, constantly changing direction. This created a “doom loop” rather than momentum. For example, Warner-Lambert changed strategies and direction with nearly every new CEO over 20 years, failing to gain momentum.
+
+So in summary, the key distinction was that the good-to-great companies built momentum step by step through results and consistency, creating a flywheel effect, while the comparison companies failed to gain momentum due to frequent changes in direction and a search for a silver bullet to skip the buildup stage. Here is a summary of the key points in 5 sentences:
+
+1) Data selected from companies with sustained transformation from good to great performance. 
+
+2) Level 5 leaders who build enduring greatness through personal humility and professional will.
+
+3) Confront the brutal facts through honest and diligent analysis of the situation. 
+
+4) Hedgehog Concept based on understanding what you can be the best in the world at, what drives your economic engine, and your passion as a company.
+
+5) Disciplined culture where people understand what needs to be done and rigorously adhere to consistent systems and methods. Here is a summary:
+
+The level 5 leadership refers to the highest level in a hierarchy of executive capabilities. Level 5 leaders channel their ego needs away from themselves and into the larger goal of building a great company. They are incredibly ambitious, but their ambition is first and foremost for the institution, not themselves.Darwin Smith, the CEO who turned Kimberly-Clark into a leading paper-based consumer products company, is a classic example of a Level 5 leader. Although Smith lacked some qualifications for the CEO position and was diagnosed with cancer shortly after becoming CEO, he brought a fierce resolve to the role. Under his leadership, Kimberly-Clark generated returns 4 times the market and beat competitors like Procter & Gamble. 
+
+To identify Level 5 leaders, the author gave the research team instructions to downplay the role of top executives. However, the research team found that the good-to-great executives were all cut from the same cloth. Level 5 leadership was the distinguishing factor between the good-to-great and comparison companies.
+
+Level 5 leaders display a compelling modesty, are self-effacing and channel their ambition into the company rather than themselves. But they also have an unwavering will to do whatever is needed to make the company great. Like Abraham Lincoln, Level 5 leaders are a study in duality: modest and willful, humble and fearless.
+
+Colman Mockler, the CEO who led Gillette from 1975 to 1991, is an example of a Level 5 leader. During his tenure, Gillette faced three serious takeover threats, but Mockler responded with a calm, deliberate decision making process that focused on the good of the company rather than his own ego or job security. His ambition was first and foremost for the company's enduring greatness, not himself. Here is a summary:
+- The author found that at some companies, people worried more about the leader and their reactions than about external threats. This can lead to mediocrity or worse. Less charismatic leaders often produce better long-term results. 
+- Charismatic leaders need to be aware of the potential downsides of their personality and take steps to counteract them, like Winston Churchill did. He had a bold vision but also sought out brutal facts.
+- Creating a climate where the truth is heard is key. People need the opportunity not just to speak but to actually be heard. 
+- Four practices for creating this climate:
+1. Lead with questions, not answers. Ask questions to gain understanding, not to manipulate or blame. Alan Wurtzel turned around his company by asking lots of questions to determine the current reality.   
+2. Engage in dialogue and debate, not coercion. Ken Iverson turned Nucor into a successful steel company by mediating raging debates between managers. People would argue and yell, but come to a conclusion. 
+3. Conduct autopsies without blame. Analyze what went wrong without blaming people. Look at the system and processes, not individuals. 
+4. Build red flag mechanisms. Create ways to detect and fix problems early. Encourage people to raise concerns without fear of punishment. Address issues while still small. 
+
+The key is engaging in honest debate and giving the truth a chance to be heard. This builds understanding and allows the best ideas and solutions to emerge. Here is a summary of the key points:
+
+1. The researchers started with 1,435 companies that appeared on Fortune’s list of largest US companies between 1965 to 1995. 
+2. They narrowed this list down to 126 companies by looking at companies that had substantially higher returns compared to the average over the periods 1985-1995, 1975-1995, and 1965-1995. They also considered companies founded after 1970 that had higher returns in 1985-1995 or 1975-1995.
+3. They further narrowed the list to 19 companies by analyzing each company’s stock returns relative to the overall stock market. They eliminated companies that:
+- Showed a continual upward trend (no transition point)
+- Showed a flat or gradual rise (no clear transition) 
+- Had less than 10 years of data before the transition 
+- Transitioned from poor to average performance 
+- Transitioned after 1985 
+- Did not sustain increased performance after the transition
+- Showed volatile, inconsistent returns 
+- Lacked data before 1975
+- Had been a “great” company that temporarily declined before transitioning 
+- Had been acquired or merged 
+- Transitioned but did not exceed the market by 3 times
+4. To determine whether the transitions were due to industry changes or company-specific changes, they analyzed the 19 companies’ returns relative to their industry indexes. 
+5. 11 companies showed transitions relative to their industry and were selected as good-to-great companies.
+
+In summary, the researchers used a rigorous four-stage process to select 11 US companies that transitioned from good to great performance due to company-specific changes, not just industry trends. The 11 companies showed a clear transition point, at least 10 years of build-up, transition before 1985, performance at least 3 times the market over 15 years, and sustained results. Here is a summary:
+
+To have a great life, you need to find work that satisfies three key criteria:
+
+1. You have a natural talent for it. You feel you were born to do this work.
+
+2. You are well compensated for it. You can't believe you get paid to do it.
+
+3. You are passionate about the work itself. You love the actual work, not just the results or rewards.
+
+When you find work that satisfies all three circles, you have found your "Hedgehog Concept" - a simple guiding principle for your life. If even one circle is missing, you won't have a great life.
+
+To find your Hedgehog Concept:
+
+1. Understand what you can be the best at. This is not about goals or strategies to be the best, but an egoless insight into your innate talents and potential for mastery. 
+
+2. Your core business or competence is not necessarily what you can be the best at. You may be competent at something but lack the potential to be the best. The Hedgehog Concept requires the potential for excellence and true mastery.
+
+3. Don't stick with "good" options where you can't be the best. This is a key mistake that prevents greatness. Have the discipline to narrow your focus to only those few areas where you can achieve mastery.
+
+4. Simple is better. A simple, penetrating insight into what you can be the best at leads to greatness, not a complex strategy or plan. Mastery is a dedication to simplicity and consistency.
+
+The example compares Abbott Labs, which thrived by developing a Hedgehog Concept, to Upjohn, which failed because it lacked a Hedgehog Concept. Though both were drug companies, Abbott realized it could never be the best at pharmaceuticals. It developed a new Hedgehog Concept: creating products that make health care more cost-effective. Upjohn stuck with pharmaceuticals but never attained mastery, eventually diversifying into unrelated businesses it also couldn't dominate.
+
+In summary, find work you have a natural talent for, that you can be the best at, that pays well, and that you are passionate about. Develop a simple but penetrating insight into what this work is, and stick to it with consistency and dedication. This is the essence of a great life. Based on the passage, the findings suggest that technology was not one of the top factors that enabled the shift from good to great. Here is a summary:
+
+- Philip Morris has had an exceptional 24-year track record of performance despite selling tobacco, a controversial product. While some question whether a tobacco company can be considered "great," Philip Morris has outperformed all other tobacco companies. However, for it to have a viable future, it will have to address society's negative view of tobacco. 
+
+- A company can have a Hedgehog Concept and a diverse business portfolio, but it is rare. GE is an exception because its Hedgehog Concept is developing excellent managers and measuring profit per top manager. This unifies its diverse businesses.
+
+- Boards of directors play an important role in transforming a company from good to great. They should pick Level 5 leaders, distinguish between share value and share price, and focus on the long-term. 
+
+- Hot young tech companies can have Level 5 leaders. John Morgridge turned Cisco Systems into a great company as its transition CEO before stepping aside.
+
+- When there is a shortage of talent, focus on hiring the right people at the top, widen the definition of "right people" to emphasize character over skills, and take advantage of economic downturns to hire great people even without specific jobs in mind.
+
+- It is harder to get the wrong people off the bus in some organizations like academia and government. But you can gradually transform the organization by consistently hiring the right people and using the right people to fill leadership roles. The wrong people will eventually leave or have minimal impact.
+
+- Entrepreneurs and small companies can apply these findings by understanding all the findings as an integrated set, then applying them sequentially starting with "first who." Also, work to develop as a Level 5 leader. 
+
+- Individuals who aren't CEOs can become familiar with all the findings, apply them to their own development, and work to transform their part of the organization using the principles, like focusing on "first who" and developing Level 5 leadership.
+
+- The findings provide a roadmap for beginning a transformation from good to great. Start by understanding all the findings, then apply them sequentially, starting with "first who." Also, continuously work to develop Level 5 leadership qualities in yourself. Here is a summary:
+
+- The experience of Circuit City demonstrates a common pattern found across companies in the study. In most cases, the decade leading up to the point of breakthrough received little attention relative to the subsequent decade. 
+
+- For example, Nucor began turning things around in 1965 but received little notice until the mid-1970s. From 1965 to 1975, there were only 11 minor articles on Nucor. From 1976 to 1995, there were 96 articles, many of them major profiles. 
+
+- This pattern exists because we perceive these transitions from the outside as sudden breakthroughs, when in reality, they feel entirely different to those experiencing them from within. They evolve gradually through steady progress, like a chicken developing inside an egg.
+
+- The executives interviewed could not point to a single key event that defined the breakthrough. They said their transformations were the result of many interlocking pieces building over time through a gradual, cumulative process.
+
+- The companies did not have a name or tagline for their transformations. Some executives said they did not realize the full extent of the transformation until well into it or even after the fact. 
+
+- Like John Wooden developing UCLA into a basketball dynasty, the transformations in these companies followed a pattern of steady buildup punctuated by a breakthrough. The buildup-breakthrough process ranged from 2 to 15 years across companies.
+
+- This model was not a luxury of circumstance. Companies followed it regardless of short-term pressures like deregulation, potential bankruptcy, takeover threats, or loss of revenue. They educated analysts and investors, accepted initial skepticism, and delivered results to build credibility and support. 
+
+- Abbott Laboratories used “Blue Plans” to balance short-term pressures. They gave analysts modest growth targets but set higher internal targets. They funded new projects from a list of proposals to fuel growth and meet higher internal goals. This approach allowed them to invest in the future while delivering current results.
+
+In summary, the study found that transformations from good to great follow a consistent buildup-breakthrough model regardless of circumstances. Progress evolves gradually through steady discipline and accumulation over time. There is no single breakthrough moment, only the inevitable breakthrough that results from sustained buildup and working the flywheel. Here is a summary:
+
+- Singleton built Teledyne from a small company into a Fortune 500 conglomerate through over 100 acquisitions in 10 years. He acted as the glue that held the company together, with full control and authority over all decisions. 
+
+- However, after Singleton stepped away from day-to-day management, Teledyne struggled and its stock price dropped significantly. Although Singleton achieved his goal of becoming a successful businessman, he failed to build a sustainable company.
+
+- The analysis of executive compensation found no systematic link between pay structure and a company's ability to go from good to great. The most significant difference was that good-to-great executives actually received less cash compensation 10 years after the transition point.
+
+- Compensation is less important than having the right executives and people in the first place. With the right people, executives will do whatever it takes to build a great company. Compensation should aim to get and keep the right people, not motivate the wrong people. 
+
+- An example is Nucor, which focused on hiring hardworking people with the right work ethic and values. They paid very well but also had high turnover to weed out lazy workers. Nucor believed that character, values and work ethic were more important - and harder to change - than specific skills or experience.
+
+- Good-to-great companies are rigorous, not ruthless. They apply exacting standards at all times, but the best people don't have to worry about job security. In contrast, ruthlessness means making cuts without thoughtful consideration, especially in hard times.
+
+- An example is Wells Fargo's acquisition of Crocker Bank. Unlike most mergers that aim to integrate management, Wells Fargo concluded that most Crocker managers were the wrong people and did not even attempt to integrate them. They were rigorous in applying their standards but not ruthless, as the best Crocker people were given opportunities. Here is a summary:
+
+- Executives chose to build expensive shaving systems over cheap disposables because they were passionate about sophisticated shaving systems, not cheap razors. 
+- You don't have to be passionate about the mechanical aspects of a business, but can be passionate about what the company stands for. For example, Fannie Mae executives were passionate about helping people achieve the American dream of home ownership.
+- There is a difference between a "prehedgehog" and "posthedgehog" state. In the prehedgehog state, progress is slow and foggy. In the posthedgehog state, the path becomes clear and fast progress can be made. 
+- In contrast, comparison companies remained in a foggy, prehedgehog state. They never asked the right questions or had a hedgehog concept. They pursued growth for growth's sake without understanding. 
+- Fannie Mae had a simple, clear hedgehog concept: to be the best capital markets player in the mortgage industry. With this, Fannie Mae grew revenues nearly threefold. In contrast, Great Western pursued growth aggressively but without a hedgehog concept, and only grew 25% in the same period before losing independence.
+- "Growth!" is not a hedgehog concept. With the right hedgehog concept, growth will come naturally. The key is not how to grow, but how not to grow too fast.
+- It took good-to-great companies an average of four years to clarify their hedgehog concepts. Getting a hedgehog concept is an iterative process, not an event. It requires dialogue, debate, and learning from experience over time. 
+- A "council" of the right people engaging in dialogue and debate guided by the three circles (what you can be the best in the world at, what drives your economic engine, what you are deeply passionate about) is a useful mechanism for gaining the understanding needed for a hedgehog concept. Continually going through cycles of debate, decisions, and learning will eventually lead to the depth of understanding for a hedgehog concept. Here is a summary of the methodology:
+
+1. Invest $1 in each of the 11 good-to-great companies on December 31, 1964. 
+
+2. Calculate the cumulative returns for each company at the market rate until its transition date. Then use the actual company returns. Use the market rate for any periods where data is missing.
+
+3. Add the cumulative returns for the 11 companies and divide by 11 to get the return for a $1 investment in the full set.
+
+4. Invest $1 in the general market on December 31, 1964 and calculate the cumulative return through December 31, 1999.
+
+5. For each comparison company, use the market rate until the transition date of the corresponding good-to-great company. Then use the actual company returns.
+
+6. The chart shows the cumulative returns from $1 invested on December 31, 1964 through 2000 for the market, comparison companies, and good-to-great companies.
+
+Some additional notes:
+
+- RJR Nabisco was held at the market rate from May 31, 1989 through the end of the period because the company had been broken up after an LBO.
+
+- The direct comparison companies were picked to match the good-to-great companies as closely as possible in terms of industry and timing of transition. Each was tracked using the same time period as its match.
+
+- The market curve was calculated by reinvesting all dividends in the CRSP value-weighted market index.
+
+- The good-to-great companies were Abbott Laboratories, Circuit City, Fannie Mae, Gillette, Kimberly-Clark, Kroger, Nucor, Philip Morris, Pitney Bowes, Walgreens, and Wells Fargo.
+
+Does this summary accurately reflect the key steps in the methodology and provide the necessary context around the analysis? Let me know if you would like me to clarify or expand upon any part of the summary. Here's a summary:
+
+• Gillette was targeted for takeover in 1986 by Ronald Perelman and ton Partners, who wanted to buy the company and flip it for a quick profit. The takeover would have netted shareholders an instant 44% gain and executives millions in payments. 
+• Instead of capitulating, CEO Colman Mockler fought the takeover. Mockler believed the company's long-term value was higher due to new product innovations like the Sensor razor that were still secret. 
+• Mockler's decision benefited shareholders hugely in the long run. Someone who sold to Perelman and invested the money in the market would have earned 300% less over 10 years than someone who kept Gillette stock.
+• Mockler was not motivated by personal gain. He wanted Gillette to reach its potential and thrive after he left. Sadly, he died right after the company's success became apparent.
+• Good-to-great leaders, like Mockler, have ambition for their companies, not themselves. They aim to set up successors for success. In contrast, comparison leaders often chose weak successors or undermined them to make themselves look better. 
+• For example, Stanley Gault, CEO of Rubbermaid, drove success but left it unprepared to thrive without him. His successors struggled and the company declined. Gault was a "Level 4" leader focused on his own fame, unlike the "Level 5" good-to-great leaders. 
+• Good-to-great leaders are also modest. They attribute success to others and downplay their own role. The comparison leaders were self-promoting and self-centered.
+
+In summary, good-to-great leaders have an unwavering resolve for their company's success over the long run, not their own personal gain. They build to last, rather than build to flip or build for their own glory. And they show a compelling modesty, attributing achievements to others and luck rather than their own talent or vision. Here is a summary:
+
+From 1998 to 2008, a study collected data and analyzed various measures related to executive compensation, layoffs, corporate ownership, media hype, and technology for a group of “good-to-great” companies and two comparison groups (“direct comparisons” and “unsustained comparisons”).  
+
+The analyses examined:
+
+1. Executive compensation as a percent of company net worth, income, assets, and sales. Also differences between CEO and top executive pay.
+
+2. Evidence of layoffs and the number/percent of employees laid off.
+
+3. The presence of large shareholders, board ownership, and executive ownership.  
+
+4. The amount of media coverage and hype surrounding the companies.
+
+5. The role and timing of technology adoption.
+
+6. Other frameworks like bold moves, evolutions vs. revolutions, executive attitudes, causes of decline in comparisons, 3-circle analysis, length of success buildup, timing of key concepts, core business vs. key concepts, succession, and leadership roles in decline.
+
+7. Comparisons of inside vs. outside CEOs in the three groups of companies.  
+
+8. Comparisons of industry performance to show companies do not need to be in fast-growing industries to transition to greatness.  
+
+9. Examples of “doom loop” behaviors—constant reactionary changes, fad chasing, crash catch-up programs—in the direct comparison companies.
+
+The objectives were to determine differences in executive pay, layoffs, ownership, hype, technology, and other factors between 1) the good-to-great companies and the direct comparisons; 2) the good-to-great companies and unsustained comparisons; and 3) before and after good-to-great companies transitioned.
+
+The analyses aimed to identify distinctive factors that may have enabled the good-to-great companies’ sustained success and transition. Here is a summary of the source:
+
+Winston Churchill created a special Statistical Unit headed by Professor Lindemann to provide him factual information to support his critical decision making during World War II. Churchill frequently consulted this unit on topics such as munitions production, imports, shipping and aircraft losses, and aircraft production before making major decisions. 
+
+The source lists several examples of Churchill using statistical evidence from this unit to make key decisions during the war. For instance, Churchill had the unit “check facts” on munitions production before determining how much to send to Russia and on aircraft production before deciding how many fighters could be spared for Malta. The author argues that Churchill relied heavily on objective statistical analysis from this unit, rather than advice from his military chiefs alone, to guide his leadership during the war.
+
+In summary, the key points in this passage are:
+
+1) Churchill created a special Statistical Unit to provide him factual information during WW2.
+
+2) Churchill frequently consulted this unit before making major decisions. 
+
+3) Churchill relied on objective statistical analysis from this unit, not just military advice, to guide his leadership.
+
+4) The unit provided information on topics like munitions, imports, shipping and aircraft to support Churchill’s decision making.
+
+5) Examples show Churchill had the unit analyze information on munitions and aircraft production before making key decisions.
+
+The overall perspective is that Churchill made use of statistical evidence and analysis, in addition to his military chiefs’ input, in order to make well-informed decisions during the war. The unit he created to provide this information was crucial to supporting his leadership. Here is a summary:
+
+The flywheel metaphor describes the buildup of momentum in a 
+good-to-great transformation. It’s a gradual, cumulative process—turn 
+by turn of the flywheel—not an overnight metamorphosis or one single 
+defining action. 
+
+The media often portrays these transformations as sudden and  dramatic. But in reality, they are the result of steady work and persistence 
+over time. For example, Circuit City’s transformation into a consumer 
+electronics superstore took over a decade of disciplined work before its
+success became widely publicized.
+
+The flywheel effect suggests that successful transformations build on 
+themselves, accumulating power and momentum over time. With each 
+turn of the flywheel, the momentum compounds, ultimately resulting in 
+breakthrough success and sustained excellence. But there is no single 
+“big push” or action that powers a flywheel; rather, it’s the overall 
+accumulation of effort in a consistent direction.
+
+So the lesson is that building a great company is a gradual process of 
+steady progress and momentum over time. Success isn’t an overnight 
+miracle; it's the product of persistence, consistency, and continuous 
+improvement. The flywheel represents the step-by-step buildup that 
+ultimately leads to breakthrough. Here is a summary:
+
+- In the 1950s, A&P was the largest grocery chain but started declining in the 1960s while Kroger started to improve. 
+- From 1959 to 1973, A&P and Kroger performed below the market. After 1973, Kroger took off while A&P continued to decline. Over 25 years, Kroger generated returns 80 times better than A&P.
+- A&P's model of cheap, basic groceries worked well until the mid-1900s but customers' needs changed. They wanted bigger stores with more choices, fresh produce, health foods, etc. Kroger adapted while A&P stuck to their old ways.
+- Both Kroger and A&P were old companies with most assets in traditional grocery stores and knew the market was changing. But Kroger confronted this reality and changed their system. A&P ignored the facts and clung to the past. 
+- A&P's CEO, Ralph Burger, aimed to preserve the Hartford family's control and glory. He emulated past leadership and resisted change, believing "you can't argue with a hundred years of success." 
+- A&P had become insular while Kroger went out and learned from others. Kroger's CEO promoted evidence-based change while A&P's team punished dissent and discouraged new ideas.
+- The board fired Burger but the new CEO perpetuated the insular culture. By the 1980s, A&P had lost touch with customer needs and the competitive world. Meanwhile, Kroger flourished by aligning with the modern market.
+
+In summary, while Kroger confronted the brutal facts and responded with radical change, A&P remained stuck in the past and insulated from reality. Their descent into mediocrity and eventual failure shows why confronting the brutal facts, while still maintaining faith that you can prevail in the end, is a key to transitioning from good to great. Here is a summary of the references:
+
+4. Duane Duffy, “Industry Analysis Unit” (unpublished), Good to Great 
+research project, summer 1998, CRSP financial data analysis.
+
+5. Research Interview #11-H, page 5; “A Banker Even Keynes Might 
+Love,” Forbes, July 2, 1984,40.
+
+6. Research Interview #11-F, pages 1–2,5.   
+
+7. Research Interview #11-H, pages 15,20.  
+
+8. Gary Hector, Breaking the Bank: The Decline of BankAmerica 
+(Little, Brown & Company, 1988),145.   
+
+9. “Big Quarterly Deficit Stuns BankAmerica,” Wall Street Journal, July
+18, 1985, A1.  
+
+10. Gary Hector, Breaking the Bank: The Decline of BankAmerica
+(Little, Brown & Company, 1988), 73, 143; “Big Quarterly Deficit  
+Stuns Bank-America,” Wall Street Journal, July 18, 1985, A1;  
+“Autocrat Tom Clausen,” Wall Street Journal, October 17, 1986, 1;
+further confirmed in conversation between Jim Collins and two  
+former Bank of America executives, July–August2000.
+
+11. “Combat Banking,” Wall Street Journal, October 2, 1989, A1.   
+
+12. Research Interview #3-I, page7.  
+
+13. Research Interview #3-I, pages 3–14.   
+
+14. Research Interview #3-I, page7.
+
+15. Research Interview #3-I, pages 3,15.
+
+16. Research Interview #3-A, page13.  
+
+17. Research Interview #3-D, page6.   
+
+18. “Eckerd Ad Message: Tailored to Fit,” Chainstore Age Executive,   
+May 1988, 242; “Heard on the Street,” Wall Street Journal, January  
+21, 1964, B25; “Jack Eckerd Resigns as Chief Executive,” Wall  
+Street Journal, July 24, 1974, 17; “J. C. Penney Gets Eckerd Shares,”  
+Wall Street Journal, December 18, 1996, B10; “J. C. Penney Has  
+Seen the Future,” Kiplinger’s Personal Finance Magazine, February  
+1, 1997,28.
+
+19. Research Interview #10-E, page16.  
+
+20. “Tuning In,” Forbes, April 13, 1981, 96; “Video Follies,” Forbes,  
+November 5, 1984, 43; Research Interview #10-F, page10.  
+
+21. “The Forbes Four Hundred,” Forbes, October 17, 1994,200.
+
+22. International Directory of Company Histories, vol. 10 (Chicago: St.  James Press, 1995),520.  
+
+23. International Directory of Company Histories, vol. 10 (Chicago: St.  James Press, 1995); “Making Big Waves with Small Fish,” Business  
+Week, December 30, 1967,36.24. “The Sphinx Speaks,” Forbes, February 20, 1978,33.  
+
+25. Scott Jones, “Executive Compensation Analysis Unit”  
+(unpublished), Good to Great research project, summer1999.   
+
+26. Jim Collins, “Summary Changes in Compensation Analysis,  
+Summary Notes #5" (unpublished), Good to Great research project,  
+summer1999.  
+
+27. “Nucor Gets Loan,” Wall Street Journal, March 3, 1972, 11;  
+“Nucor’s Big-Buck Incentives,” Business Week, September 21,   1981,42.   
+
+28. “A New Philosophy,” Winston-Salem Journal, March 21, 1993.
+
+29. “Changing the Rules of the Game,” Planning Review,  September/October 1993,9.   
+
+30. “How Nucor Crawfordsville Works,” Iron Age New Steel, December  
+1995, 36–52.31. “A New Philosophy,” Winston-Salem Journal, March 21,1993.   
+
+32. “Nucor Gets Loan,” Wall Street Journal, March 3, 1972, B11.
+
+33. Research Interview #9-F, page29.   
+
+34. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d,  
+1998),82.  
+
+35. “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but  
+Some Pain,” Wall Street Journal, August 5, 1986, A1.   
+
+36. “Bold Banker: Wells Fargo Takeover of Crocker Is Yielding Profit but   Some Pain,” Wall Street Journal, August 5, 1986, A1.  
+
+37. Research Interview #11-G, page 10; Research Interview #11-A,  
+page 29; Research Interview #11-F, page 11; “Bold Banker: Wells  
+Fargo Takeover of Crocker Is Yielding Profit but Some Pain,” Wall   Street Journal, August 5, 1986, A1.   
+
+38. “Boot Camp for Bankers,” Forbes, July 23, 1990,273. 
+
+39. Research Interview #11-H, pages 10–11.   
+
+40. Chris Jones and Duane Duffy, “Layoffs Analysis” (unpublished),  
+Good to Great research project, summers 1998 and1999.  
+
+41. “Wells Buys Crocker in Biggest U.S. Bank Merger,” American  
+Banker, February 10, 1986, 39; “Wells Fargo Takeover of Crocker Is  
+Yielding Profit but Some Pain,” Wall Street Journal, August 5, 1986,  
+A1; “A California Bank That Is Anything but Laid Back,” Business   Week, April 2, 1990,95.   
+
+42. Chris Jones and Duane Duffy, “Layoffs Analysis” (unpublished),   Good to Great research project, summers 1998 and1999.   
+
+43.“Industry Fragmentation Spells Opportunity for Appliance  
+Retailer,” Investment Dealers’ Digest, October 12, 1971,23.  
+
+44. “Circuit City: Paying Close Attention to Its People,” Consumer  
+Electronics, June 1988,36.  
+
+45. Research Interview #2-D, pages 1–2.  
+
+46. “Dixons Makes $384 Million U.S. Bid,” Financial Times, February   18, 1987, 1; “UK Electronics Chain Maps US Strategy; Dixons   Moving to Acquire Silo,” HFD—the Weekly Home Furnishing   Newspaper, March 2, 1987; “Dixons Tightens Grip on Silo,” HFD—
+the Weekly Home Furnishings Newspaper, February 3, 1992,77.  
+
+47. Eric Hagen, “Executive Churn Analysis” (unpublished), Good to   Great research project, summer1999.   
+
+48. “Gillette: The Patient Honing of Gillette,” Forbes, February 16,   1981, 83–87.   
+
+49. “When Marketing Takes Over at R. J. Reynolds,” Business Week,   November 13, 1978, 82; “Tar Wars,” Forbes, November 10, 1980,   190; Bryan Burrough and John Helyar, Barbarians at the Gate (New   York: Harper-Collins, 1991),51.   
+
+50. Research Interview #8-D, page7.  
+
+51. “The George Weissman Road Show,” Forbes, November 10,   1980,179.  
+
+52. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d,   1998),120.  
+
+53. Research Interview #5-B, page8.  
+
+54. Research Interview #5-A, page7.  
+
+55. “How Do Tobacco Executives Live with Themselves?” New York   Times Magazine, March 20, 1994,40.  
+
+56. Research Interview #8-B, page5.  
+
+57. Gordon McKibben, Cutting Edge: Gillette’s Journey to Global   Leadership (Boston: Harvard Business School Press, 1998),256.  
+
+58. Joseph F. Cullman 3d, I’m a Lucky Guy (Joseph F. Cullman 3d,   1998),149.  
+
+59. Research Interview #5-A, page 10. Here is a summary of the key points on culture of discipline from the passage:
+
+1. A culture of discipline is not just about control and constraint but also about freedom and responsibility within a framework.
+
+2. Amgen combined entrepreneurial spirit with professional management under the leadership of George Rathmann. It grew from a small startup to a large biotechnology company while maintaining consistent profitability and growth.
+
+3. Most startups fail to make the transition to great companies because they respond to growth and success in the wrong way. They lose the entrepreneurial spirit and become bureaucratic with too many rules and hierarchies.
+
+4. Entrepreneurial success comes from creativity, boldness, and vision. But as a company grows, it becomes more complex and begins to experience problems with customers, cash flow, schedules, etc.
+
+5. In response, companies tend to hire professional managers and executives who create order by implementing processes, procedures, controls, and rules. But this also kills the entrepreneurial spirit.
+
+6. The key is to maintain a balance of entrepreneurial spirit with professional management and discipline. This means having freedom and responsibility within a framework of order.
+
+7. Great companies are able to scale entrepreneurship, not just professional management. They institutionalize innovation and ambition, not just control and rules.  
+
+In summary, a culture of discipline involves order and structure but not at the cost of entrepreneurial spirit. It means balancing freedom with responsibility, and ambition with control. The key is to scale entrepreneurship through institutionalizing innovation, not just implementing professional management and strict rules. Achieving this balance and culture of discipline is one of the key factors that separate good companies from great ones. Here is a summary:
+• The author was told by a colleague that those who make the biggest impact are like hedgehogs - they have a simple, coherent idea that they apply with discipline and consistency. Examples include Freud (the unconscious), Darwin (natural selection), Einstein (relativity), Smith (division of labor). 
+• Hedgehogs are not simpletons. They have a piercing insight that allows them to see through complexity. They identify what's essential and ignore the rest.
+• The good-to-great companies were led by hedgehogs. They developed a "Hedgehog Concept" - a simple, coherent concept that guided their decisions. The comparison companies were led by foxes - scattered and inconsistent. 
+• Walgreens succeeded by focusing on convenient locations and profit per customer visit. They opened tightly clustered stores, pioneered drive-thrus, added high-margin services. This simple concept and its disciplined execution led to great results. 
+• In contrast, Eckerd grew haphazardly through acquisitions, lacked a coherent concept, and its foray into home video led to losses. Despite similar revenues initially, Walgreens far outperformed Eckerd over time.
+• A Hedgehog Concept emerges from understanding three key dimensions:
+1. What you can be the best in the world at (and what you can't be the best at). This is more than just core competence. 
+2. What drives your economic engine. Identify the single denominator (profit per x or cash flow per x) that has the biggest impact.
+3. What you are deeply passionate about. Discover what ignites your passion.
+• The Hedgehog Concept is a simple, coherent concept that emerges from understanding these three circles. It guided the decisions of the good-to-great companies. Here is a summary:
+
+- Good-to-great companies encourage intense dialogue and debate. They have "heated discussions" and "healthy conflict" in search of the best answers, not just to make people feel heard. 
+
+- Philip Morris conducted "autopsies" of their failures without assigning blame. After acquiring and selling Seven-Up at a loss, they discussed it openly and reflected on its lessons. The CEO took responsibility for the bad decision but said they would all take responsibility for learning from it. Conducting autopsies without blame creates an environment where the truth can be heard.
+
+- Great companies build "red flag mechanisms" to identify and address problems early. They don't have more or better information but establish ways to make sure information is not ignored. For example, a professor gave students red flags they could raise at any time to stop class and share observations or challenge him. A company instituted "short pay" allowing customers to deduct from invoices to flag dissatisfaction early. Red flag mechanisms provide early warnings and force companies to quickly address issues.
+
+- Scott Paper resigned itself to second place when Procter & Gamble entered its market. Management said they couldn't compete and looked for ways out. In contrast, Kimberly-Clark saw competition with P&G as an opportunity to improve. Its CEO joked about holding a "moment of silence" for P&G to energize employees around the challenge of competing against the best.  While Scott Paper lacked faith in its ability to win, Kimberly-Clark had unwavering faith it could prevail amid the brutal facts.
+
+In summary, great companies foster debate, learn from failures without blame, establish early warning systems, and maintain faith in their ability to succeed despite difficulties. They have a culture of confronting hard truths which enables continuous improvement. Here is a summary of the key points:
+
+• Good-to-great transformations often look dramatic from the outside but feel organic from the inside. The actual process is cumulative and built through steady pushing in a consistent direction over a long period of time. 
+
+• There is no single defining action, program, innovation or event that leads to a good-to-great transformation. Rather, it is the accumulated momentum from persistent pushing in the same direction that leads to breakthrough. Like turning a giant flywheel, it takes a lot of effort to get going but builds momentum over time.
+
+• The good-to-great companies followed the flywheel model while the comparison companies followed the “doom loop” - jumping from one new program to another without sustained direction or momentum. The doom loop fails to produce breakthrough results.
+
+• Those leading the good-to-great transformations were often unaware of the magnitude of change while it was happening. There were no launch events, motivational campaigns or change management programs. Success bred more success, creating alignment and motivation.
+
+• Pressure from Wall Street is consistent with the flywheel model. The key is to maintain consistent direction to build momentum over the long run.
+
+• Looking back, the good-to-great concepts were at work in the formative stages of the enduring great companies profiled in Built to Last, just applied by entrepreneurs building a start-up rather than CEOs transforming an established company.
+
+• Good to Great can be viewed as a prequel to Built to Last. Apply the findings from Good to Great to achieve sustained results and from Built to Last to build an enduring great company.
+
+• A strong resonance exists between the two studies. Good to Great provides an answer to a key question raised in Built to Last: the difference between good and bad BHAGs (Big Hairy Audacious Goals). Good BHAGs emerge from the flywheel model, bad BHAGs reflect the doom loop.
+
+• Examples like Walmart and HP show how the good-to-great concepts were at work in the early stages of enduring great companies, just applied in an entrepreneurial start-up context. Success was built steadily over time through consistency of purpose. Here is a summary:
+
+- Scott Paper and Kimberly-Clark had different reactions to facing Procter & Gamble as a competitor. Scott Paper became dispirited, while Kimberly-Clark persevered and viewed it as an opportunity to become a stronger company. 
+- The good-to-great companies demonstrated a “hardiness factor” in the face of adversity. Like cancer survivors who thrive, they did not capitulate but resolved to prevail and turn adversity into an opportunity to become great. 
+- Fannie Mae faced a dire crisis in the early 1980s with $56 billion in underwater loans and interest rates that caused them to lose money. However, CEO David Maxwell and his team never wavered in their resolve to turn Fannie Mae into a great company. They reinvented Fannie Mae's business model and turned the company into a high-performance powerhouse.
+- The "Stockdale Paradox" refers to maintaining unwavering faith that you can prevail in the end, while also confronting the brutal facts of your current reality. Jim Stockdale, a POW during the Vietnam War, embodied this. He instituted rules to help the prisoners survive and resist the enemy's propaganda efforts, while never doubting they would prevail in the end.
+- When asked how he endured the brutal circumstances, Stockdale said, "I never lost faith in the end of the story. I never doubted not only that I would get out, but also that I would prevail in the end and turn the experience into the defining event of my life, which, in retrospect, I would not trade.” Here is a summary:
+
+- The 11 good-to-great companies were the only companies that met the strict criteria for selection from the initial group of Fortune 500 companies. The study was not a sample, but included the total set of companies that qualified. 
+
+- Only 11 companies made the cut due to: 1) The tough 15-year sustainability requirement. 2) The requirement of a transition from good to great, with a sustained period of average or worse performance preceding the transition. 3) The high standard of cumulative stock returns at least 3 times the market over 15 years. 
+
+- The low number of companies does not indicate a statistical issue, since there was no sampling. The probabilities that the findings emerged by chance are "essentially zero."
+
+- The study focused on U.S. public companies due to: 1) The availability of data. 2) The need to rigorously select companies and compare them. 3) The belief that the findings would apply globally.
+
+- Technology companies were largely too young to show the required transition and pattern. Some older tech companies were always great and never showed a transition from good to great.
+
+- Great companies can benefit from the findings by better understanding why they are great and continuing to do the right things. Success without understanding why is dangerous.
+
+- All companies face difficulties, but great companies are able to bounce back and emerge stronger. If companies stop practicing all the findings that made them great, they will eventually decline. 
+
+- Two examples show how straying from the findings (Level 5 leadership, Hedgehog Concept) can lead to difficulties:
+
+1) Gillette: 18 years of great performance, then stumbled recently. Analysts want a charismatic CEO to shake things up, which goes against the findings. 
+
+2) Nucor: 14 years of great performance, then declined amid management turmoil and a move away from its Hedgehog Concept. The future remains uncertain.
+
+- However, most good-to-great companies are still going strong, with 7 of 11 generating over 20 years of great performance so far. The median is over 25 years of great performance. Here is a summary of the sources:
+
+- In 1982, American Motors Corporation (AMC) filed for Chapter 11 bankruptcy. The company had been struggling for years due to increased competition and poor strategic decisions. 
+
+- Bethlehem Steel, once the second largest steel producer in the U.S., filed for bankruptcy in 2001. The company had faced increasing competition from Japanese and domestic steel producers. Efforts to lower costs and restructure ultimately proved insufficient.
+
+- In 1985, Tandy Corporation acquired the Eckerd drugstore chain for $1.2 billion. However, Tandy sold Eckerd to J.C. Penney in 1996 at a loss. Tandy’s foray into retailing proved unsuccessful.
+
+- Great Western Financial Corporation was a leading U.S. savings and loan association. Under CEO James Montgomery, Great Western followed a conservative growth strategy focused on mortgage lending. The thrift remained profitable and independent until acquired in 1997.
+
+- RJR Nabisco was formed in 1985 through the merger of Nabisco Brands and R.J. Reynolds Industries. The merger loaded the company with debt and led to a high-profile bidding war for control of the company in 1988. RJR Nabisco was ultimately acquired in 1999 by Philip Morris.
+
+- Scott Paper Company, a producer of paper and paper products, was acquired by Kimberly-Clark in 1995. Under “Chainsaw Al” Dunlap, Scott Paper cut costs aggressively through restructuring and downsizing in the early 1990s. However, the company struggled in its core businesses, leading to the sale.
+
+- Silo, a discount appliance retailer, was acquired by Dixons Group in 1989. Dixons acquired Silo to gain a foothold in the U.S. market but ended up closing Silo in 1992 after several years of losses. 
+
+- Upjohn was a pharmaceutical company acquired by Pharmacia in 1995. Upjohn produced several successful drugs but also faced issues like recalls, lawsuits and FDA actions against some of its medications. 
+
+- Warner-Lambert was an American pharmaceutical and consumer products company, acquired by Pfizer in 2000. Under CEO Joseph Hagan in the early 1980s, Warner-Lambert pursued a strategy of diversification into medical technology and turnarounds of acquired companies. 
+
+- Burroughs was a computer company that merged with Sperry to form Unisys in 1986. In the 1970s and early 1980s, Burroughs had difficulty competing with IBM in the mainframe computer market, leading to declining performance. The merger with Sperry was aimed at achieving greater scale.
+
+- Chrysler became the third largest automobile manufacturer in the U.S. in the 1980s under CEO Lee Iacocca. Iacocca steered Chrysler to profitability through cost cuts, new product introductions, and loan guarantees from the U.S. government. Chrysler was acquired by Daimler-Benz in 1998.
+
+- Harris Corporation is a technology company that provides communications and IT solutions to government and commercial customers. Under CEO G. Richard Hartley in the 1980s and 1990s, Harris Corp focused on growth through strategic acquisitions and diversification into new product areas like office automation networks and semiconductors. The company remains independent.  
+
+- Hasbro is a leading global toy and board game company. Under CEOs Merrill Hassenfeld and Alan Hassenfeld, Hasbro grew rapidly in the 1980s through acquisition, capturing licenses to popular movies and TV shows, and focusing on fewer, bigger hits. Hasbro remains independent. 
+
+- Rubbermaid produced plastic and rubber consumer products. Under CEO Stanley Gault, Rubbermaid achieved strong growth in the 1980s through new product innovation, marketing, and cost-cutting. However, declining sales in the late 1990s led to the company's acquisition by Newell in 1999. 
+
+- Teledyne was a conglomerate that produced aerospace and industrial goods. Under CEO Henry Singleton, Teledyne grew through strategic acquisitions in the 1970s and 1980s. The company was dismantled in the 1990s through spin-offs and sales of underperforming businesses. Here is a summary:
+- Philip Morris was more disciplined than R. J. Reynolds in staying focused on their core business after the surgeon general's report on smoking in 1964. While Philip Morris redefined its Hedgehog Concept and focused on building global brands of consumables like tobacco and beer, R. J. Reynolds strayed outside its core business by acquiring a shipping container company and an oil company. These acquisitions were poorly thought out, drained R. J. Reynolds of resources, and ultimately failed, requiring the companies to be sold at a loss. 
+- R. J. Reynolds' diversification demonstrated a lack of discipline and strategic thinking. In contrast, Philip Morris' discipline and focus on its Hedgehog Concept led it to outperform R. J. Reynolds in the stock market by over 400% from 1964 to 1989.
+- Few companies have the discipline to determine their Hedgehog Concept and rigorously build within it. But those that do have the most opportunity for growth. It is difficult to say no to big opportunities, even "once-in-a-lifetime" ones, if they do not fit within the three circles of the Hedgehog Concept. 
+- Nucor provides an excellent example of building a company within its Hedgehog Concept. Its concept was harnessing culture and technology to produce steel. Everything about the company was built to reinforce its simple concept, including having only four layers of management, an egalitarian structure with few class distinctions, and rewards and sacrifices that were shared across the company. In contrast, Bethlehem Steel had a bloated management, lavish perks for executives, and a culture focused on status - and it ultimately failed. 
+- The authors recommend starting a "stop doing" list to build discipline and consistency. Rather than an ever-expanding "to do" list, identify things that should be stopped to provide more focus and alignment with your Hedgehog Concept.
+
+The key takeaways are:
+1) Discipline and consistency within your Hedgehog Concept are key to great performance and opportunities for growth. 
+2) Saying no to opportunities outside your Hedgehog Concept, no matter how attractive they seem, is essential to maintaining focus and discipline. 
+3) Aligning aspects of your organization and culture with your Hedgehog Concept, as Nucor did, reinforces it and leads to sustained great results. 
+4) Stop doing things that distract from your Hedgehog Concept in order to build the discipline that consistency requires. A "stop doing" list is a good tool for this. Here is a summary:
+
+- Successful companies build a culture of discipline that avoids bureaucracy and hierarchy. They give employees freedom and responsibility within a framework.
+
+- George Rathmann learned from Abbott Laboratories the importance of rigorously measuring progress against concrete objectives. At Abbott, every cost and investment was tied to an individual responsible for it. This accountability and discipline enabled creativity. 
+
+- The culture of discipline means:
+
+1. Giving employees freedom and responsibility within a clear framework.
+
+2. Recruiting self-disciplined people who will do whatever it takes to fulfill their responsibilities.
+
+3. Avoiding tyrannical managers. Leadership is about managing the system, not the people.
+
+4. Consistently focusing on the Hedgehog Concept. Systematically eliminate anything that distracts from it.
+
+- The airline pilot analogy illustrates freedom and responsibility within a framework. Pilots operate within a strict system but have crucial decision-making responsibility. Successful companies build a consistent system with clear constraints but give people freedom and responsibility within that system. They hire self-disciplined people and manage the system, not the people.
+
+- At Circuit City, store managers had ultimate responsibility for their stores but operated within the company’s framework. Headquarters provided resources and support but gave local managers freedom to lead. This combination of freedom and responsibility within a framework allowed Circuit City to expand rapidly. Here is a summary:
+
+- Teledyne was a conglomerate that paid $17.5 million in 1992 to settle criminal charges related to defense contracting fraud. The company struggled in the early 1990s but saw a "good fit" with the acquisition of Allegheny in 1996. 
+
+- The summaries mention Teledyne's legal and financial troubles in the early 1990s but a potentially positive development with the Allegheny acquisition in 1996. Overall, the summaries paint a picture of a company facing difficulties but working to turn things around through strategic acquisitions and changes in leadership. Here is a summary of the key points:
+
+- Good-to-great companies are defined as those with stock returns that went from average or below average to far superior for 15+ years. The companies studied include Abbott, Fannie Mae, Gillette, Johnson & Johnson, Kimberly-Clark, Kroger, Nucor, Philip Morris, Pitney Bowes, Walgreens and Wells Fargo.  
+
+- Jim Collins and his research team interviewed executives at the good-to-great companies to understand their transformations. They found there was no single defining action or miracle moment. Rather, there were consistent patterns across companies.
+
+- Level 5 Leadership: Good-to-great companies had leaders who were humble, determined, and focused on the success of the company, not themselves. They had a mix of personal humility and professional will.
+
+- First Who, Then What: Good-to-great companies focused on getting the right people on the bus, the wrong people off the bus, and the right people in the right seats. They found the right people and figured out where to drive later.
+
+- Confront the Brutal Facts: Good-to-great companies faced the brutal facts of their reality but never lost faith. They maintained unwavering faith that they would prevail in the end, despite the brutal facts. 
+
+- The Hedgehog Concept: Good-to-great companies had a simple, crystalline concept that guided all decisions. The hedgehog concept refers to being the best in the world at one thing. It was a perfect alignment of passion, economics, and excellence.  
+
+- A Culture of Discipline: Good-to-great companies created a culture of discipline where people had freedom and responsibility within a framework. There was consistency and rigor but people felt productive and responsible.
+
+- Technology Accelerators: Good-to-great companies used technology to accelerate progress, not drive transformation. Technology is not the primary driver of change but a catalyst.
+
+- The Flywheel and the Doom Loop: Good-to-great transformations happened gradually over time through consistency and discipline. This built momentum and created a flywheel effect. Bad companies went in the opposite direction with a Doom Loop of inconsistent, undisciplined actions.
+
+- Preserving the Core and Stimulating Progress: Good-to-great companies stayed focused on their hedgehog concept but were always adapting and improving within that concept. They balanced continuity and change. Here is a summary:
+
+Walgreens was criticized for being too “old and stodgy” to thrive in the Internet age. However, Walgreens did not panic. Instead, it proceeded slowly and deliberately. It first experimented with a basic website. It then gradually developed a strategy to integrate the Internet into its existing business model of providing prescription medications conveniently. By moving slowly, Walgreens was able to build a sophisticated Internet presence that complemented its strengths. 
+
+In contrast, Drugstore.com rushed into Internet retailing but ultimately struggled. Its stock price rose dramatically but then fell as it failed to achieve profitability. This illustrates that technology alone does not make a company great. Great companies apply technology to strengthen their existing business model and competitive advantage.
+
+Walgreens has a long history of successfully adopting new technologies, from its early computer network connecting all stores to scanners and robotics. However, Walgreens only adopts technology that helps it better deliver convenience and increase customer profitability. Its core business concept—its “Hedgehog Concept”—drives its use of technology, not the other way around.
+
+Other good-to-great companies, like Kroger and Gillette, were also pioneers in using technology to accelerate their momentum. But the specific technologies they adopted varied. The key was how they applied technology to strengthen their business model, not the technologies themselves. Kroger used bar code scanners to better manage inventory, while Gillette focused on advanced manufacturing technology to produce low-cost razor blades.  
+
+In summary, great companies do not adopt technology for technology’s sake. They are deliberate and patient, and they apply technology to enhance and accelerate their existing business model. They never let technology drive their strategy. Their strategic concept guides how they apply new technologies. Here is a summary:
+
+The first step in taking a company from good to great is not coming up with a vision or strategy. Rather, it is getting the right people on the bus and the wrong people off the bus. The leaders figured first who they needed and then where to take the company. 
+
+Three key points:
+
+1. If you get the right people, you can easily adapt to change. The right people will be motivated to succeed no matter the direction. But if you have the wrong people, it does not matter what direction you go in, you will not be a great company.
+
+2. With the right people, you do not need intensive management. The right people will be self-motivated to achieve the best results.
+
+3. Great people are more important than vision. You can have a great vision, but without great people, you will not achieve it. 
+
+The case of Wells Fargo illustrates this. In the 1970s, CEO Dick Cooley focused on hiring great talent whenever he found it. He knew the banking industry would undergo change but did not know how. By hiring excellent people, he knew they would be able to adapt and navigate the company to success. When deregulation hit banking, Wells Fargo was able to adapt easily thanks to the great people Cooley had put on the bus.
+
+In summary, the first and most important step to going from good to great is getting the right people and team. With the right people, great results will follow. Vision and strategy come after that. The main points are: get the right people, manage less, and people matter more than vision. Here is a summary:
+
+The key lesson from the Stockdale Paradox is:
+You must retain faith that you will prevail in the end, while confronting the most brutal facts of your current reality. Successful people and organizations do not lose hope despite facing immense difficulties and setbacks. At the same time, they honestly acknowledge and address their problems, no matter how grim. 
+
+To illustrate this concept, Collins shares the story of Admiral Jim Stockdale, a POW during the Vietnam War. Stockdale noted there were two groups of POWs: the “optimists” and the “realists.” The optimists believed they would be released by Christmas, then Easter, then Thanksgiving. When the holidays passed and they remained imprisoned, “they died of a broken heart.” The realists, like Stockdale, confronted the fact they were in a dire situation with no end in sight. Yet they never lost faith they would prevail. Stockdale said, “You must never confuse faith that you will prevail in the end with the discipline to confront the most brutal facts of your current reality.”
+
+Collins argues that this paradoxical thinking — maintaining unwavering faith while facing harsh facts — is key to transitioning from good to great. The good-to-great companies all lived this duality. Regardless of how bleak things seemed, they had faith they would not just survive but thrive. At the same time, they were “relentless” in confronting their weaknesses and addressing the realities of their situation. They did not rely on charisma or motivational slogans. Instead, they created a culture where the truth could be heard and addressed. Here's a summary:
+
+•Most good-to-great companies were led by insiders, not charismatic outsiders. Ten of the eleven good-to-great CEOs came from inside the company. 
+
+•The CEO of Walgreens, Cork Walgreen, was a quiet and dogged leader. He resolutely led the company out of the food service business over five years despite initial opposition. Like other good-to-great leaders, he displayed "stoic resolve" and a "workmanlike diligence."
+
+•Good-to-great leaders attributed much of their success to luck rather than their own brilliance.  They looked out the window to give credit to others and factors outside their control when things went well (the "window") but looked in the mirror to take responsibility when things went poorly (the "mirror"). In contrast, comparison companies blamed external factors for poor results but took personal credit for success.
+
+•It's unclear if you need a Level 5 leader—a humble, resolute, and duty-driven leader—to make the transition from good to great. However, all good-to-great companies had Level 5 leaders in key positions during that transition.
+
+•Level 5 leadership cannot be achieved by all people. Some lack the core factors—humility, will, and grace—to make that transition. For others, though, the seed of Level 5 leadership is there, waiting to be developed. But it requires the right environment and a deliberate choice to grow.
+
+•In summary, sustained transitions from good to great are rare and require the right leadership, often Level 5 leadership from within. Charismatic outsiders are not the key. The road is long, but the rewards are substantial for those able to embark on that journey. Here is a summary:
+
+The author analyzed the stock performance of 11 “good-to-great” companies relative to the general stock market over a 30-year period centered around a transition point when each company's performance began to outpace the market. Each company showed a pattern of fluctuating stock returns relative to the market in the 15 years before the transition point, followed by sustained returns above the market in the 15 years after the transition point. 
+
+The author also analyzed 17 "comparison companies" that did not show sustained transformation. These companies showed a more erratic pattern of stock returns relative to the market, with no clear transition point or period of sustained superior performance. The comparison companies frequently swung from one strategic direction to another and experienced leadership instability. 
+
+In contrast, the good-to-great companies built momentum through a "buildup" stage before breakthrough. They had more stable leadership and followed a consistent "hedgehog concept." However, even some of the good-to-great companies eventually lost their momentum or were acquired after key leaders left or successors made poor decisions. 
+
+Sustaining greatness is difficult and requires building a company culture centered around core values and a hedgehog concept that guides decisions and strategic shifts in an aligned manner. Frequent radical changes in strategy and layoffs are signs a company may be reacting without a strong hedgehog concept. The good-to-great transformation is not a one-time event but an ongoing process of renewal and improvement.
+
+In summary, the analysis highlights the difficulty of sustaining long-term business transformation and performance, even for companies that appear to do everything right during their initial transition. Great companies continually strengthen their cultures, hedgehog concepts, and leadership in order build momentum through multiple turnovers and shifts in the business environment. Doing so allows them to avoid the common pitfalls of reactive management styles, inconsistent strategies, and reliance on a single charismatic leader. Here is a summary:
+
+The good-to-great leaders were modest and humble. They did not have gargantuan personal egos. They were quiet, reserved, and shy. They did not seek fame and glory. They were self-effacing and understated. They did not believe their own press clippings. In contrast, many unsuccessful leaders had huge egos that contributed to the decline of their companies. 
+
+Though modest and humble, the good-to-great leaders also had an unwavering resolve to do whatever was necessary to make their companies great. They were fanatically driven and determined. They would not accept mediocrity or settle for good enough. They were willing to make difficult decisions to improve effectiveness, even if it meant firing family members or selling parts of the company. 
+
+The good-to-great leaders like Darwin Smith, Colman Mockler, and George Cain were largely insiders who were promoted from within. In contrast, leaders like Al Dunlap and Lee Iacocca were often outsiders brought in as “saviors” with great fanfare, but they were not able to sustain the success and improvements they initiated.
+
+So in summary, the good-to-great leaders blended extreme personal humility with intense professional will. They were modest and understated, but also fanatically driven to do whatever was needed to make their companies great. And they were usually homegrown leaders who worked their way up from inside the company rather than saviors brought in from the outside with loud fanfare. Here is a summary of the key metrics analyzed in the study:
+
+Sales growth: Growth in total revenue and sales over time, adjusted for inflation. Higher is better.
+
+Profit growth: Growth in net income over time, adjusted for inflation. Higher is better.
+
+Profit margin: Net income divided by total revenue. Higher is better. 
+
+Return on sales: Net income divided by total revenue. Higher is better.
+
+Sales per employee: Total revenue divided by number of employees, adjusted for inflation. Higher is better.
+
+Profit per employee: Net income divided by number of employees, adjusted for inflation. Higher is better.
+
+PP&E: Total property, plant, and equipment. Can be higher or lower depending on the company and industry.
+
+Dividend payout ratio: Dividends paid divided by net income. Can be higher or lower depending on the company's situation.
+
+Selling, general, and administrative expenses: These expenses as a percent of total revenue. Lower is better.
+
+Research and development: These expenses as a percent of total revenue. Can be higher or lower depending on the industry and company strategy.
+
+Collection period: Accounts receivable divided by total revenue, multiplied by 365. Lower is better. 
+
+Inventory turnover: Cost of goods sold divided by inventory. Higher is better.
+
+Return on equity: Net income divided by shareholders' equity. Higher is better.
+
+Debt-to-equity: Total liabilities divided by shareholders' equity. Lower is better.
+
+Long-term debt-to-equity: Long-term debt divided by shareholders' equity. Lower is better.
+
+Interest expense: This expense as a percent of total revenue. Lower is better. 
+
+Stock price-to-earnings: Stock price per share divided by earnings per share. Can be higher or lower depending on investors' growth expectations.
+
+In summary, the key metrics point to growth, profitability, productivity, efficiency, and financial strength. The optimal values for most metrics are higher or lower growth, higher profit margins and returns, lower costs and debt levels, shorter collection and turnover periods, and reasonable stock valuations. Of course, ideal values depend on the company, industry, strategy, and overall situation. Here is a summary:
+
+- The author and his research team spent years analyzing what separates good companies from great ones. They came up with a conceptual framework by building a theory, seeing it break under evidence, and rebuilding it. The final framework consists of concepts that were significant variables in 100% of the good-to-great companies. 
+
+- The transformation from good to great follows three stages: disciplined people, disciplined thought, and disciplined action. Within each stage are two key concepts. The flywheel captures the entire process of becoming great.
+
+- Level 5 Leadership: Good-to-great leaders are humble, reserved, and professional. They are more like Lincoln and Socrates than Patton or Caesar.
+
+- First Who...Then What: Good-to-great leaders first get the right people, then figure out the direction. People are not the most important asset; the right people are.
+
+- Confront the Brutal Facts: Good-to-great companies embrace the Stockdale Paradox. They have unwavering faith they will prevail, and also confront the brutal truth of their situation.  
+
+- The Hedgehog Concept: Great companies simplify to a concept that reflects a deep understanding of three intersecting circles. They are not necessarily the best in the world at their core business. 
+
+- A Culture of Discipline: When you have disciplined people, you don't need hierarchy. Disciplined thought, no bureaucracy. Disciplined action, no excessive controls. Discipline plus entrepreneurship produces great results.
+
+- Technology Accelerators: Good-to-great companies use technology as an accelerator, not a primary driver of transformation. Technology by itself does not cause greatness or decline.
+
+- The Flywheel and the Doom Loop: There is no one defining action or program that makes the leap from good to great. It's the buildup of momentum from pushing a flywheel, turn after turn. Dramatic change programs will likely fail.  
+
+- The findings are timeless principles, the “physics” of great organizations. Specific practices will change, but the laws of great performance endure. The companies studied faced immense change, yet the principles still applied. The book is about the principles of turning good into great, in any organization. Here is a summary:
+
+The cross country coach could not understand why her team was so successful. They did not work any harder than other teams and did simple things. Yet they consistently won state championships for both boys and girls. 
+
+Their success was due to focusing on the “hedgehog concept” - they run best at the end. Everything they did aimed to have the runners perform their best at the end of workouts, races and the season. For example, they tracked not the runners’ times at the 2-mile mark but their places. The coaches then gave the runners “head bones” based on how many runners they passed at the end. This taught the runners to pace themselves and have confidence in finishing strong.
+
+The coach also eliminated distractions and “rah-rah” activities, focusing the team on the core activities of running and winning. This built a culture of discipline where the runners took responsibility for winning. 
+
+The coach built the program by first getting the right people - those who shared the values and could build a great team. Success then bred more success, attracting more great people and achieving a “flywheel effect.”
+
+The coach and assistants were not working harder than others. They just focused on the right things and avoided wasting time on the wrong things. By applying simple but powerful concepts, they made the experience better and achieved great results. The coach was motivated by the meaning and purpose of building an excellent running program and giving kids a great experience. For her, settling for mediocrity was depressing but achieving excellence was energizing.
+
+The key message is that achieving greatness does not require excessive hardship. It comes from focusing on meaningful work about which you care deeply. If you have to ask why you should try to achieve greatness, you are probably in the wrong line of work. The question is not why but how - how to create greatness. The quest to build something great can be in any area of life, not just work. In the end, this pursuit can grow you into a Level 5 leader. Here is a summary of the key ideas from Built to Last:
+
+1. Clock Building, Not Time Telling: Build an enduring organization, not one built around a single charismatic leader or a single idea. Focus on building an organization that can prosper through multiple product life cycles and generations of leaders.
+
+2. Genius of AND: Embrace both extremes of a number of dimensions at once: purpose AND profit, continuity AND change, freedom AND responsibility, etc. Don't choose one or the other; figure out how to achieve both. 
+
+3. Core Ideology: Instill core values and core purpose that remain fixed while strategies and practices endlessly adapt to a changing world. The core ideology provides a compass and inspiration for people throughout the organization.
+
+4. Preserve the Core/Stimulate Progress: Hold core values and purpose fixed while stimulating change, improvement, innovation, and renewal in all other areas of the organization. Change strategies and practices; pursue Big Hairy Audacious Goals (BHAGs); set new targets and new standards of progress—all while honoring the core.
+
+- A good BHAG emerges from understanding, not bravado. It taps into people's passion and focuses effort, but still makes sense within the three circles (what people have passion for, what drives the economic engine, and what the company can be best in the world at). The Boeing case study illustrates how they pursued a BHAG that catapulted them into a new market by building on their strengths. 
+
+- Greatness does not depend on size or ambition alone. It is about building something that makes a lasting contribution and establishes a high standard of excellence. The concepts in Built to Last and Good to Great can simplify our lives and increase effectiveness by providing clarity on what really matters. The goal is not to add more things to do but to focus on the vital few principles that really drive great results.
+
+That covers the key highlights and main takeaways from the book Built to Last. Let me know if you would like me to elaborate on any part of the summary. Here is a summary:
+
+- Gillette invested heavily in developing and applying advanced manufacturing technologies to produce high-quality, low-cost razor blades. Technologies like laser welding were pivotal to their success. 
+
+- When Jim Johnson took over as CEO of Fannie Mae, he found the company lagging in technology. He hired a consultant who helped Fannie Mae upgrade its technology over 5 years, moving it from a 2 to a 3.8 on a 4-point scale. New technologies helped streamline their processes and cut costs. However, technology was not the primary driver of Fannie Mae's transformation. It came later and accelerated existing momentum.
+
+- Likewise, the good-to-great companies did not start their transformations with pioneering technology. They first developed their Hedgehog Concepts, then applied technologies that reinforced their concepts. If a technology did not fit with their Hedgehog Concept, they ignored it. But once they found relevant technologies, they became pioneers in using them. In contrast, the comparison companies made little use of technology or used it without a coherent vision.
+
+- Surprisingly, in interviews, good-to-great executives rarely mentioned technology as one of the top factors in their companies' transformations. Though they were technologically sophisticated, technology was not the primary focus or driver of change. The media frequently celebrated their pioneering use of technology, but the executives themselves talked little about it.
+
+- For example, Nucor was famous for pioneering mini-mill steel production and electric arc furnaces. But when asked for the top factors in Nucor's transition, Ken Iverson did not mention technology in his top five. Technology was an enabler of momentum at Nucor, not the primary creator of it. The key factors were people, vision, and discipline.
+
+In summary, technology did not create momentum in the good-to-great companies but was used to accelerate existing momentum once the right technologies were identified to align with the company's vision and Hedgehog Concept. The key factors in their transformations were people, ideas, and discipline - not technology alone. A coherent vision and strategic concept had to come first to make good use of technology. Technology, though important, was not the primary focus or creator of change. Here is a summary:
+
+- Warner-Lambert underwent several restructurings in the late 20th century under different CEOs, resulting in a “doom loop” of lurches between strategies that prevented sustained momentum. 
+
+- Acquisitions were often misused, with companies acquiring other companies to drive breakthrough results rather than as an accelerator once momentum had already built up. These big acquisitions rarely succeeded.
+
+- New leaders would often come in and change direction, stopping the flywheel that previous leaders had got spinning. The example of Harris Corporation is given, where a new CEO halted momentum from a successful flywheel built around printing technology and instead pursued unsuccessful office automation. 
+
+- The flywheel is a “wraparound idea” where each component reinforces the others. It requires consistency over time through multiple leaders and generations to achieve maximum results.
+
+- The buildup-to-breakthrough flywheel pattern starts with Level 5 leaders focused on the quiet process of pushing the flywheel rather than flashy programs. Getting the right people in the right seats, confronting the brutal facts, and developing a Hedgehog Concept are all important pushes to build momentum. Breakthrough is achieved through the discipline to make good decisions aligned with the Hedgehog Concept.  
+
+- If the flywheel is diligently pushed in a consistent direction, momentum will accumulate and breakthrough will eventually happen, though it can take time. The challenges then become accelerating momentum and sustaining enduring greatness.
+
+The summary outlines how the doom loop of inconsistent strategies and misguided acquisitions prevented the comparison companies from achieving sustained momentum and breakthrough results. In contrast, diligently building up momentum behind a clear and consistent flywheel is what enabled the good-to-great companies to ultimately achieve breakthrough and enduring greatness. Here is a summary:
+
+- Mr. Hartford continued to dominate A&P's board for 20 years after his death, showing the company's unwillingness to face reality. 
+
+- A&P experimented with a new store called The Golden Key that customers liked, but executives closed it because they did not like its implications. 
+
+- A&P lurched between strategies, looking for a quick fix and refusing to accept that customers wanted different stores. Price cutting led to cost cutting and a downward spiral.
+
+- Kroger also experimented with new store formats and accepted that its traditional stores would fail. It revamped its entire system with the new model, becoming the top US grocery chain.
+
+- The good-to-great companies made many good decisions by diligently pursuing the truth, whereas A&P refused to face the "brutal facts". Addressograph suffered a similar fate under its visionary but deluded leader Roy Ash.
+
+- In contrast, Pitney Bowes had a "neurotic" culture that was "hostile to complacency" and obsessed with confronting difficult realities. Executives spent little time celebrating success and much time discussing potential obstacles.
+
+- The Addressograph case shows how strong leaders can become disconnected from reality and lead their companies to ruin. A&P and Addressograph refused to confront unpleasant truths, whereas Pitney Bowes insisted on "turning over rocks and looking at the squiggly things underneath". Here is a summary:
+
+- The author and a research team of 21 people studied companies that transitioned from good to great performance over a 15-year period. 
+- They started by identifying 11 "good-to-great" companies that showed a pattern of average stock returns for 15 years, then returns of at least 3 times the market average over the next 15 years. 
+- They then selected two groups of "comparison companies" - direct comparisons in the same industry and with similar opportunities; and unsustained comparisons that initially shifted from good to great but failed to maintain it. In total, they studied 28 companies.
+- The research was an intensive, iterative process of gathering and analyzing huge amounts of data to identify what distinguished the good-to-great companies. They took an empirical, evidence-based approach without a preconceived theory. 
+- Their key insight was that the crucial factor was not what the good-to-great companies had in common, but what distinguished them from the comparison companies. They sought to identify the key differences by a process of "contrasting" the two groups.
+- Some of their most significant findings were what they did NOT find - the "dogs that did not bark." Contrary to common assumptions, factors like executive compensation, strategic planning, technology changes, mergers and acquisitions, managing change, and charismatic CEOs were NOT distinguishing factors between the good-to-great and comparison companies.
+- Rather, the key distinguishing traits they eventually identified were factors like leadership, people, focus, and discipline. The transformation from good to great was the result of a slow, gradual, perpetual buildup of understanding, skills, and momentum rather than a revolutionary breakthrough program or event.   Here is a summary:
+
+- Wells Fargo and Fannie Mae succeeded by first focusing on getting the right people on the bus before figuring out where to drive it. This discipline and rigor in people decisions was key to their transition from good to great.
+
+- In contrast, many comparison companies followed a “genius with a thousand helpers” model, relying on a single towering leader. These companies often struggle when that leader departs. 
+
+- Jack Eckerd of Eckerd Corporation was a genius at selecting the right stores but failed to assemble an equally talented executive team. When he left to pursue politics, the company declined. In contrast, Cork Walgreen of Walgreens built an outstanding executive team, ensuring the company’s success even after he stepped down.
+
+- Henry Singleton of Teledyne also followed the “genius with a thousand helpers” model. The company revolved around his forceful personality and struggled after he departed. 
+
+- The key point is that sustainable great results depend on building a great management team, not just relying on a single genius or visionary leader. Great vision without great people is irrelevant. Here is a summary:
+
+The key issue is that dealing with difficult problems can be stressful and unpleasant. As a result, people often procrastinate and wait to address these issues. However, by waiting and delaying action, the problems remain unresolved and key stakeholders are left wondering why nothing is being done.  
+
+The research found that good-to-great companies did not have higher executive turnover. But they did have a pattern of either keeping executives for a long time or removing them quickly. The leaders of these companies took time to carefully select the right executives. Then they would do whatever they could to keep them. However, if they realized they had the wrong person, they would act to remove them. Two questions that helped determine if they had the wrong person were: 1) If it was a new hiring decision, would you hire this person again? 2) If the person told you they were leaving for a new opportunity, would you be disappointed or relieved?
+
+Good-to-great companies put their top people on their biggest opportunities, not their biggest problems. For example, Philip Morris identified international expansion as a key growth opportunity despite international sales being only 1% of revenue. So the CEO put his top executive, George Weissman, in charge of international operations. This was a brilliant move that allowed the company to become very successful internationally. In contrast, RJR Reynolds failed to do this and fell behind Philip Morris globally.
+
+When selling off problem business units, good-to-great companies retained their top talent. For example, when Kimberly-Clark sold its paper mills, leaders made it clear they would keep their best people. The people wanted to be part of building something great, even if it meant leaving behind the business they had spent their careers in.
+
+The top executive teams at good-to-great companies exhibited Level 5 leadership. While executives may have debated and argued over decisions, they unified behind the final choice and did what was best for the company rather than their own interests. At Philip Morris, executives would vigorously debate to find the best solution but then fully support the final decision.
+
+It is possible to build a great company and a great life. Leaders like Colman Mockler, the CEO who took Gillette from good to great, were able to effectively balance work and life by focusing on a few key priorities: family, outside interests, and work. Despite challenges, they were able to maintain this balance during difficult times. Here is a summary of the book Good to Great by Jim Collins:
+
+- The author and his research team embarked on a 5-year research project to determine how good companies transform themselves into great companies that produce sustained superior performance. 
+
+- They identified companies that made the transition from good to great and sustained it for 15 years. They compared these "good-to-great" companies to a control group of similar companies that did not make the transformation.
+
+- The good-to-great companies achieved returns that beat the market by an average of 7 times in 15 years. If you invested $1 in these companies, it would be worth $471 compared to $56 for the market. These returns were remarkable considering these companies were previously unremarkable. 
+
+- The findings contradict conventional wisdom. The key conclusions are:
+
+1. Level 5 Leadership: Leaders who are humble, determined, and disciplined.
+
+2. First Who: Getting the right people on the team is more important than what or where. Get the right people, then figure out vision and direction.
+
+3. Confront The Brutal Facts: Leaders must confront the brutal truth, yet maintain faith that they can prevail. 
+
+4. The Hedgehog Concept: Focus on one single idea or concept that you are passionate about. Simplicity within the three circles of what you can be the best at, what drives your economic engine, and what you are deeply passionate about.
+
+5. A Culture of Discipline: Disciplined people, disciplined thought, and disciplined action.
+
+6. Technology Accelerators: Technology is an accelerator of momentum, not a creator of it.
+
+7. The Flywheel: Success is built on a cumulative process – pushing on the flywheel to build momentum. It's a gradual process of consistent push that builds momentum.
+
+8. Good to Great to Built to Last: Some companies make the good to great transition but fail to sustain it. The companies that go from good to great to built to last have sustained great companies 15 or more years. 
+
+- The author believes almost any organization can become great by applying these findings. Success is not primarily dependent on resources, technology or markets - it is based on the right mindset, drive, and application of these key concepts.
