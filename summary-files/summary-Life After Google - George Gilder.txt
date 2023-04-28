@@ -1,0 +1,1070 @@
+ Here is a summary of the contents:
+
+Prologue: The author describes his experience investing in and experiencing Douglas Trumbull’s Back to the Future ride-film in the early 1990s. He draws an analogy between experiencing virtual reality and perceiving dimensions beyond the material universe. 
+
+Chapter 1: The author argues that Google has created a “system of the world” and an ideology based on a materialist, deterministic philosophy. He believes this ideology is causing the Internet to fracture.
+
+Chapter 2: The author describes Google’s roots and “religions”—its foundational beliefs and philosophies. He argues these lead to a “flat universe” theory that does not account for human consciousness and creativity.
+
+Chapter 3: The author argues that under Google’s influence, the Internet has failed to give power to individuals and has instead concentrated money and power at the top. He says the Internet is filled with unwanted ads, bots, and malware.
+
+Chapter 4: The author lists “Ten Laws of the Cryptocosm” that he believes will shape the future. These include the importance of cryptography, the power of mathematics, and the rise of a new system for global finance.
+
+Chapter 5: The author describes Google’s data center “coup” and its attempt to gain more control over global information flows. He argues Google's "hegemony" threatens privacy, security, and global finance.
+
+Chapter 6-10: The author discusses artificial general intelligence, blockchain technology, and other emerging technologies he believes will shape the future. He argues for a more human-centered approach to technology.
+
+Chapters 11-22: The author speculates on potential future scenarios involving technology, politics, and society. He expresses concerns over threats to privacy, security, and human flourishing. He argues for a “great unbundling” of large tech companies and more distributed power.  
+
+Epilogue: The author reiterates his view that the world needs to move beyond the “flat universe” theories and ideologies promoted by Google towards a more multidimensional understanding of human existence. He says technology should be designed to unleash human creativity rather than constrain it.
+
+ 
+
+- The author satirically impersonates a software program that demands users provide personal information and passwords to access the book. This illustrates how software and big tech companies harvest people's data and demand control over their digital lives.
+
+- The author says Silicon Valley leaders and thinkers believe artificial intelligence and super computers will soon surpass human capabilities. They think algorithms control human behavior and biology. Powerful tech companies exploit people's data and make decisions for them. 
+
+- The author says Silicon Valley leaders recommend giving people a guaranteed income because they believe most people will lose their jobs to technology and AI. Some even think certain elite individuals may achieve a transcendent god-like status.
+
+- The author says Silicon Valley's belief in its power and influence seems delusional given issues like security breaches, anti-trust lawsuits, failed IPOs, and the rise of competitors. The tech industry's control and security promises are empty.
+
+- The author argues "never link the computers" should be the key rule to avoid the issues with Silicon Valley and big tech. Many industries have moved offline, recognizing the risks of relying on internet technology.
+
+- In summary, the author is skeptical and critical of Silicon Valley's vision of the future, its belief in its own power and promise, and its ability to responsibly develop and control technology. The author thinks reducing reliance on big tech companies and the internet is necessary.
+
+ 
+- The author argues that Silicon Valley, and Google in particular, have adopted a form of neo-Marxism in their ideological and technological vision.
+- Original Marxism believed that the industrial revolution solved the problem of production and the key issue would become redistributing abundance. Marx imagined a post-scarcity communist utopia. 
+- Similarly, Silicon Valley believes that current technologies like AI and automation have solved the problem of production and will usher in a new era. They see technologies as rendering human labor and minds obsolete. 
+- The author argues this view is shortsighted and temporal provincialism. Current technologies and companies will not last forever or solve all problems. Security, privacy, IP, business models, and technologies will need to be rethought.
+- Google, through its parent Alphabet, has become the second largest company by market capitalization. Together with Apple, Amazon, and Microsoft, they form an oligopoly. Google spreads an ideological "system of the world" through media, universities, and intelligentsia. 
+- Google's system of the world resembles Newton's in the 18th century. Newton's calculus and physics made the physical world predictable and measurable. His work on the gold standard made the economic world calculable and reliable. Both were information systems. 
+- Newton's role in the gold standard and monetary policy is often underestimated. It allowed for global trade and value transmission. The British empire grew rich and vast under it. 
+- In short, the author sees Google promoting a neo-Marxist post-scarcity vision based on current technologies. But like Newton's system, today's system will pass. Technology and economics will change in unpredictable ways. An information-based civilization needs a new theory of value and new architectures. Google's system is not sustainable.
+
+ Here is a summary of the passage:
+
+• Isaac Newton spent much of his life studying alchemy and trying to turn base metals into gold. Though often criticized for this, his alchemical work gave him knowledge that led to his establishing the gold standard, which stabilized the British economy for centuries. 
+
+• Under the gold standard, money had a fixed value, so people could confidently make long-term financial plans and investments. This enabled massive projects like railroads and transoceanic trade. It also made slavery unprofitable, leading to its abolition.
+
+• This "Newtonian" era of a stable monetary system and economic growth lasted for 300 years but ended in the 20th century. Now money and economies are less stable and reliable.
+
+• In 1930, mathematicians met in Königsberg, Germany, to celebrate David Hilbert's program to establish mathematics as the foundation for all knowledge. Hilbert believed mathematics could provide a complete and deterministic understanding of everything.
+
+• At the conference, Kurt Gödel proved that Hilbert's program was impossible. Gödel showed that all logical and mathematical systems contain paradoxes and uncertainties. They depend on propositions that can't be proven within the system.
+
+• Though Gödel's proof was iconoclastic, it pioneered a new kind of mathematics suited for computing. Gödel's proofs were themselves algorithms and symbolic manipulations that could be implemented mathematically.
+
+• John von Neumann immediately recognized the importance of Gödel's work. Though it undermined Hilbert's program, which von Neumann had championed, he saw that it opened the way for human creativity in mathematics and computing. Gödel's proof led to computing, information theory, and ideas of human/machine symbiosis.
+
+• Like Gödel's proofs, Alan Turing's concept of the universal computing machine showed the incompleteness and unpredictability of algorithms. Programs might churn indefinitely. They required human input and judgment, or "oracles," to function.
+
+• In summary, Gödel and Turing showed that mathematical logic has limits, but this opened the way for human creativity and computing. Their work marked a new era that rendered obsolete the Newtonian vision of a complete, deterministic system of the world.
+
+ 
+
+- Quantum theory and computer science faced limitations from self-reference, where their own structures and algorithms informed themselves. 
+
+- Gödel’s work showed the limitations of logical systems in capturing truth. This led to information theory by Claude Shannon, which defines information as unexpected bits or surprises. Shannon linked information and entropy, showing how to calculate communication channel capacity and redundancy. This enabled dependable software and technologies like the Internet.
+
+- Information theory links logic and the irreversible passage of time. Gregory Chaitin showed that the complexity of messages can be measured by the program length to generate them. He showed physics alone can't explain chemistry or biology, which contain more information. The universe has an information hierarchy. 
+
+- A new science and economy emerged based on information theory. Google developed an integrated philosophy to shape lives based on this.
+
+- Google's theory of knowledge, "big data," says compiling all data in one place and algorithms to analyze them can replace the slow human search for knowledge. Their theory of mind sees the brain as algorithmic. Though brains are more like sensory processors, AI acts "as if" brains are logic machines. The AI goal is faster processing to surpass human minds.
+
+- Google's business model progressed from "search" to "satisfy" based on their theories. With enough data and processing, Google can know what satisfies us better than we do.
+
+- Cloud computing embodies Google's theories. Data must be accessible for fast processing, requiring central aggregation of processors and memory. The "cloud" refers to huge data centers using massive computing and energy to process data. They face constraints like early factories needing power sources.
+
+- Google's progress stems from their tech vision. Unlike the Judeo-Christian view of human creativity and free will, Google's deterministic vision says infinitely fast data processing yields one result. This is dictatorial, requiring all data be gathered centrally. Google claims to support privacy but needs private data. 
+
+- Google proposes an economic theory valuing information and transactions opposed to Newton's.  
+
+ 
+
+- Google was founded in 1998 by Larry Page and Sergey Brin. They were students at Stanford and had access to the university's resources. 
+
+- Google's philosophy combines a theory of knowledge ("Big Data"), cloud computing, open source software, free goods and advertising, "gifts" over profits, and inevitable progress. This philosophy now dominates the economy.
+
+- Google sees itself as prophetic. Page and Brin were mentored by leading Stanford professors. Google had financial backing from major tech investors and Stanford itself.
+
+- "Googol" represents Google's vast ambitions. Page and Brin studied search, which requires modeling the real world in digital form. Google has digitized books, languages, maps, StreetView, facial recognition, YouTube, and more.
+
+- Google's digitization of the world's information into a "mirror world" and interactions is like a "googolplex." Artificial intelligence is required to "understand everything in the world."
+
+- Google's technology miracle has made the Internet's information accessible. An ordinary company might have sold access or software. Google could have earned profits from efficient systems and low costs. A penny per search could generate $13 billion but as prices dropped, revenue would grow.
+
+ 
+Google’s business model and company culture contradicted the conventional capitalist model of maximizing profits. Google’s founders came from an academic background and believed in providing information and services for free, seeing their mission as serving users rather than making money. However, Google developed an ingenious advertising model that generated huge profits while still providing content and services for free. 
+
+Google’s model was based on sponsored search ads that were targeted to users’ interests. By making the ads relevant and useful, Google transformed online advertising and generated major revenue through click-throughs. Google gave away many useful tools and services for free, finding that this strategy maximized use and benefit. This “commons cult” ideology aligned with the radical participatory ethics of Burning Man, which celebrates radical inclusion, gifting, decommodification, and civic responsibility.
+
+So in summary, while Google’s strategy seemed contrary to a conventional profit-maximizing model, its innovative ad model and free tools generated enormous commercial success. Google’s altruistic ideals aligned more with an academic ethos and the countercultural “commons cult” of Burning Man. But Google found a way to marry its ideals with financial success through its game-changing approach to online advertising.
+
+ 
+
+- Google's founders, Larry Page and Sergey Brin, attend the Burning Man festival which celebrates radical self-expression, community effort, and contact with nature. They see no contradiction between this ethos and Google's. 
+- Google's corporate philosophy echoes the 10 principles of Burning Man, focusing on the user, open-source software, speed, democracy, constant access to information, avoiding evil, global reach of information, casualness, and constant improvement. However, the summary points out some ways these principles mask other goals or effects.
+- Despite its advances, Google still gets 95% of revenue from ads on its search engine. Giving services away for "free" is an effective way to gain users and their attention/data. But advertising is declining as people learn to avoid ads. As new payment models emerge, this trend may accelerate.  
+- While Google aims to "stop the world wasting [Page's] time," its free services often lead to tricks and traps to gain subscriptions, personal data, and time (which represents money). 
+- Google owns many major web platforms but gets little revenue from end users. It acts chiefly as an intermediator. Though it says "the customer comes first," Google has few direct customers beyond advertisers.
+- Google's advertising model faces challenges like ad blockers (which Google has copied) and low click-through rates. Ad blocking rose 102% from 2015 to 2016, threatening Google's main revenue source.
+
+So in summary, while Google aims to give people more time and connect them, its business model based on advertising and "free" services risks wasting people's time and exploiting their attention. And that model may be weakening as ad blocking and other responses gain ground. The summary suggests Google's principles mask other motives and a precarious business strategy.
+
+ 
+
+- Google launched YouTube Red, an ad-free subscription service, in response to anti-ad sentiment. The author is an addicted user but wishes YouTube paid content creators more. YouTube pays only 13% of music streaming royalties despite having 52% of the market. 
+
+- Google faces competition in streaming video and is just another player in a competitive market. Commercial search is shifting to Amazon, which had 52% of the product search market in 2017 compared to Google's 26%. People prefer to start with Amazon, which provides one-click purchasing  rather than Google's ads and sign-in process. Amazon's reviews are also seen as more trustworthy.
+
+- Amazon also succeeded Google in cloud services, with 57% of the market in 2017 compared to Google's 16%. Despite Google's technical advantages, Amazon won more customers in cloud services. Google fought back with presentations and demonstrations but Amazon kept gaining more market share.   
+
+- Google's new CEO focused the company on AI after a previous "mobile first" strategy. Google is the leader in AI but Amazon captured the AI services market with devices like the Echo. Amazon wasn't afraid to have real customers, while Google used AI for advertising. Voice access threatens Google's search and ad model. While Google Assistant is becoming more popular, Google hopes to use smart home devices to collect more data and target ads, but people may not want ads in devices they invite into their homes.
+
+- The author argues free goods allow companies like Google to avoid responsibilities to real customers and challenges like security. Free products aren't targeted by hackers and theft, so companies don't have to work as hard to prevent them. Google places the burden of security on users, but lack of concern for security will ultimately hurt Google. Thousands of companies are investing in solving security challenges. A new network focused on security, the cryptocosm, will replace the current Internet model.
+
+The 10 laws of the cryptocosm:
+
+1. Security first. Security is an architecture, not an afterthought.   
+2. Centralization is not safe. Decentralization is more secure, like human biology. 
+3. Safety last. Security is meaningless unless a system achieves its intended goals. 
+4. Nothing is free. Real value requires real exchange. Free means insecure and manipulated.
+5. Complexity is the enemy. Simple, decentralized systems are more robust, secure, and functional.  
+6. Evolution is infinite repetition. Peer to peer networks get stronger with each transaction. 
+7. Creativity is unexpected reuse. New opportunities and inventions emerge spontaneously in open networks. 
+8. Diversity beats monopoly. There is no "one best way"; many solutions compete. 
+9. Time is the final judge. Temporary monopolies and manipulations are eventually overcome.
+10. Technology is not destiny. How we choose to employ inventions determines their impact.
+
+The cryptocosm will replace the current Internet model by making security and decentralization fundamental principles.
+
+ 
+
+The key rules for human dignity and decentralized power in the post-Google era are:
+
+1. Time is the final measure of cost. Time remains scarce even when all else becomes abundant.
+
+2. Stable money reflects the scarcity of time and gives humans dignity and control. Without stable money, the economy is governed by time and power.
+
+3. Asymmetric encryption distributes power to individuals. Symmetric encryption gives power to those with the most powerful computers. 
+
+4. Private keys are held by individuals, not governments or corporations. They prove identity and ownership.
+
+5. Behind every private key is a human interpreter. Focusing on individuals enables meaningful security.
+
+In the post-Google era:
+
+- Life will be heterarchical and bottom-up, not hierarchical and top-down like Google. 
+- Individuals will control their own information and charge for it. New tools like Brave Browser will enable this.
+- Individuals will rule technology, not the other way around. People will be the "oracles" that program their lives.
+- Micropayments and direct exchange will replace "free" goods and middlemen. Money will measure value rather than manipulate it.
+- New forms of decentralized exchange and commerce will emerge beyond national borders and corporate control.
+- Advertising will be opt-in, and people will be paid for their attention and time. 
+- Technology will open up new possibilities for life experiences, with individuals as the judges of their own lives.
+
+The promise of human dignity and mastery in the cryptocosm seems almost too good to be true. But we must "listen to the technology and find out what it is telling us," as Carver Mead said. Google's data center in The Dalles, Oregon, is spearheading their new system of the world. But new technologies and principles like those summarized here could shift power back to individuals.
+
+ 
+
+- The summary describes an 800-megawatt hydroelectric power station on the Columbia River  in Washington and Oregon that provides inexpensive electricity to Google's data center. 
+
+- Built in 1957, the power station harnessed the river to provide cheap power originally for aluminum smelting. Now it powers Google's computing infrastructure.
+
+- Google's data center in The Dalles, Oregon contains thousands of computer servers that handle billions of searches and YouTube videos per day. The data center requires massive amounts of electricity to power and cool the servers.
+
+- In the 1990s, Google's founders were working with a 150-gigabyte index of the Internet. Now Google's database is thousands of petabytes in size, growing daily. Google has invested heavily in building its own computing infrastructure rather than relying on commercial data centers.
+
+- Google's technical operations chief Urs Hölzle realized cheap electricity was key to Google's success. Google located its data centers near major Internet infrastructure to quickly serve users around the world. 
+
+- Google deploys huge amounts of random access memory chips to quickly serve search results to impatient users. RAM is more expensive than hard disk storage but faster. Google is willing to "waste" resources that are cheap and abundant, like storage, to conserve what's scarce: users' time.
+
+- Air conditioning is a major cost and challenge for Google's data centers, which require massive amounts of electricity for power and cooling. But cheap hydropower from the Columbia River helps lower Google's operating costs.
+
+- In summary, Google harnessed cheap hydropower and invested in custom computing infrastructure to gain a "tremendous competitive advantage," according to former CEO Eric Schmidt. This strategy has fueled Google's global dominance.
+
+ 
+
+- The passage describes a visit to Google's data center called The Dalles in Oregon. The data center uses a lot of power and cooling to run its massive number of computers. 
+
+- Google has developed a highly scalable computing system that can handle searching the entire internet and powering many of Google's other services like Gmail, YouTube, and Google Docs. Google's computing infrastructure is constantly growing and requires more and more power and bandwidth.
+
+- An expert named Andy Bechtolsheim provides some commentary on Google and technology trends. He says Google has a major advantage in providing video, maps, and other complex services that require lots of computing power. However, he thinks there is still opportunity for competitors if someone "changes the game."
+
+- The passage discusses some emerging technologies like optical networks, 3D memory, and sensors that may enable further advances in computing and services. There is speculation about how these technologies could be used for virtual and augmented reality applications.
+
+- There is a mention of "Bell's Law" which suggests that as computing components become incredibly cheap, new types of machines and architectures emerge. The passage wonders if Google's model of centralized computing and services will continue to dominate or if computing will become more decentralized. 
+
+- The final part of the summary describes a visit to Nvidia and a ride in their self-driving car. Nvidia provides technology that enables self-driving capabilities by processing signals from sensors like lidar and radar. Self-driving cars rely heavily on maps to navigate and mostly adjust their path based on detecting moving objects around them. Speech recognition has also recently improved which benefits voice assistants from many tech companies.
+
+ 
+
+- Elon Musk promises to achieve full self-driving for Tesla within two years. For now, Tesla’s autopilot requires human supervision. 
+
+- William Dally, a pioneer in parallel computing, points out that progress in AI and machine learning is enabled by increases in computer power from parallel processing and graphics processing units (GPUs) made by Nvidia.
+
+- In 1991, Dally and Norm Jouppi presented competing visions for the future of computing at a conference. Dally proposed parallel processing. Jouppi proposed speeding up traditional processors. Their debate continues today.
+
+- In 2012, Google struggled to get its machines to distinguish dogs from cats. Using Nvidia GPUs, Stanford and Google solved this problem much more efficiently. This led Google to adopt Nvidia chips in its data centers.
+
+- Frank Rosenblatt built an early “perceptron” in the 1950s that could recognize simple shapes. He envisioned stacking perceptrons in layers to improve performance, but he died before accomplishing this. Google later built multilayer neural networks that could sort millions of images.
+
+- Google now deploys massive neural networks using tensor processing units (TPUs) that provide 30 exaflops of computing power for matrix multiplications, enabling machine learning. Google claims these systems outperform humans.
+
+- While specialized chips like TPUs provide huge gains for specific tasks, they reduce the general purpose capabilities of systems. Nvidia GPUs remain well suited for parallel processing more broadly. Nvidia's revenues and market value have soared due to demand for its cloud computing and machine learning products.
+
+ 
+
+- William Dally, a computer architecture expert, has spent his career working to overcome the von Neumann bottleneck in computers. The von Neumann bottleneck refers to the inability of traditional computers to efficiently handle parallel data due to their serial processing and memory structures. 
+
+- Parallel processing and improved memory structures are needed to handle the massive amounts of data in today's world. Graphics processing units (GPUs) are highly parallel and able to handle the parallelism in images. Neural networks also provide a model of massively parallel processing as seen in the human brain.
+
+- energy efficiency is increasingly important for computing. The human brain is extremely energy efficient, using only about 14 watts of power. Future computing architectures will need to become much more energy efficient, like the brain and smartphone components.
+
+- Carbon-based materials, like graphene, carbon nanotubes, and organic LEDs show promise for creating new highly efficient and parallel computer architectures. They may enable quantum computing and neuromorphic computing that better models the physical world.
+
+- Pushing logical and mathematical arguments to extremes can lead to contradictions, as shown by Gödel's incompleteness theorems and information theory. A "mathematics of creativity" is needed to model the surprises and open-ended nature of information and life. However, the successes of current technology and mathematical models create obstacles to developing new ways of thinking.
+
+- Markov chains, developed by Andrey Markov, are mathematical models used for prediction and uncovering hidden patterns. They have been very influential but also assume determinism and logical coherence that is inconsistent with creativity. A new mathematics of open-ended creativity and indeterminism is needed.
+
+In summary, the key ideas are that parallel and neuromorphic computing architectures, energy efficiency, carbon materials, and a mathematics of creativity are all needed to transcend the limitations of current von Neumann computing architectures and create artificial general intelligence. However, the current successes and determinism of technology and mathematics are obstacles to developing these new ways of thinking.
+
+ 
+
+Andrei Markov was a 19th-century Russian mathematician. Though obscure during his lifetime, his work on Markov chains proved essential to modern information technology. Markov chains model the probabilistic transitions between states over time. They enabled prediction and pattern recognition without needing to know the underlying causes or logic. 
+
+Markov built on the statistical thinking of Maxwell and Boltzmann, who used probability to describe unseen physical phenomena. Remarkably, Einstein anticipated Markov’s ideas in his 1905 paper on Brownian motion. Markov turned their insights into a full theory. His work underlies advances from big data to machine learning.
+
+Markov showed language follows mathematical patterns. Claude Shannon applied Markov’s ideas to information theory. Others, like Viterbi, Wiener, and Baum, extended and refined Markov’s work. 
+
+Markov chains assume the world moves between states according to transition probabilities. They need no knowledge of intentions or plans. Markov showed random events follow normal distributions. Markov chains are “memoryless”—the current state summarizes the past.
+
+Hidden Markov models have multiple levels, from phonemes to phrases to meanings. Kurzweil sees them as models of brain function. Powered by huge data and fast computation, Markov models predict future events. 
+
+Tech giants use Markov models but Renaissance Technologies is the master. Founded by mathematician James Simons, it exploits Markov models and big data to transform finance.
+
+So in summary, Markov established a powerful way of modeling the world as transitions between states by probability. His memoryless Markov chains need no knowledge of causes or logic. They anticipate the future from the present. Markov’s once obscure ideas now underpin search, speech recognition, finance, and more. With huge data and speed, Markov models are a window into reality.
+
+ 
+
+- Renaissance Technologies was spun out of IDA in 1978. It started as a modestly successful currency trading firm using Jim Simons’ hidden Markov models. 
+
+- In 1993, Simons hired Robert Mercer and Peter Brown from IBM’s speech recognition group. They created a massive “Siren Server” of computing power and algorithms that could predict and profit from market movements.
+
+- The Renaissance team avoided hiring anyone with experience in finance. Instead, they relied on mathematicians, physicists and massive amounts of data to find patterns and correlations in markets.
+
+- Under Mercer and Brown’s leadership, Renaissance’s Medallion Fund averaged 40% returns per year for nearly 20 years, through bull and bear markets. They generated huge profits even during the financial crisis of 2008 when most funds struggled.
+
+- Renaissance relies on a network of supercomputers processing huge amounts of data to find tradable “ghosts” of correlation. Their strategy is based on constant, high-speed trading to exploit brief anomalies and inefficiencies. Some of the patterns they trade on make no intuitive sense but are statistically valid.
+
+- The author is critical of Renaissance’s “outsider trading” approach, arguing they don’t provide the kind of fundamental analysis and knowledge that drives productive investment. He believes their method violates the idea that logical systems need input from outside themselves. Mercer disagrees, believing Renaissance's computing power and data can substitute for deep understanding of companies.
+
+- In summary, Renaissance performed a world-beating demonstration of mathematics, computing power and business skill. But their opaque, pattern-based trading strategy is controversial.
+
+ The key points in the passage are:
+
+1. The question being asked is: What can we learn about the future direction of the stock market by analyzing how it reacted to events in the past when that information was known at the time? The author believes achieving an oracle-like status requires applying advanced analytics and computing power. 
+
+2. Renaissance Technologies has achieved amazing performance using a "market-neutral" strategy that relies on Markov models and algorithms to detect anomalies and execute a high volume of trades. They make money whether the market goes up or down.
+
+3. The author argues this approach generates little real economic value. It is a "zero-sum game" that redistributes money but creates no new wealth. It benefits from rules against insider trading that disadvantage human traders. 
+
+4. The author proposes an alternative "non-Markov model" based on a Fourier transform analysis. This approach considers the amplitude, frequency, and power of investments to identify significant long-term trends, not just temporary correlations and anomalies. It also incorporates a measure of "entropy" or surprise to assess the economic value created.
+
+5. The author argues Renaissance's currency trading, while highly profitable due to leverage, does not contribute to real economic learning and growth. Unmoored from the gold standard, modern currencies are subject to manipulation. This favors short-term finance over long-term enterprise.
+
+6. In contrast, Mercer's earlier work at IBM on speech recognition and machine translation created new knowledge and enabled technological progress. It exhibited the hallmarks of scientific falsifiability and led to advances like Siri and big data. However, big data may now face diminishing returns.
+
+7. The author concludes the current system based on frequency trading, randomness, and Markov models is obsolescent. It fails to correspond to real economic activity and risks "gambler's ruin." A new system is needed to advance creative knowledge and value.
+
+In summary, the key argument is that while Renaissance has achieved financial success and efficiency using advanced analytics on big data, its market-neutral strategy contributes little real economic value. A new model is needed to promote long-term creative progress. The author proposes an alternative Fourier analysis model focused on significant trends and "entropy" to achieve this goal.
+
+ 
+
+The prevailing assumption is that what looks random is random. However, a creative pattern of data points reflecting purposeful preparation can also appear random. You cannot study complex systems like markets by just looking at surface fluctuations. You need to explore the underlying components, like technology inside companies, to understand the forces at work. 
+
+Markov models and other statistical approaches are useful when we lack deep understanding. They predict based on surface patterns without real insight. For progress, we must move beyond them.
+
+Finance transforms savers’ desire for liquidity into long-term investment. If it doesn’t, economic growth slows. All wealth comes from long-term investment in learning and knowledge. 
+
+Hedge funds now avoid “inside” investment and learning.  They rapidly trade currencies and debt, generating liquidity and volatility. This strategy will ultimately fail because it produces the appearance of wealth (“gold”) rather than real wealth (knowledge and resources).
+
+Google and Renaissance Technologies have found ways to avoid the truth-telling of markets and long-term investment. But their strategies are unsustainable because they mistake the measure of wealth for wealth itself.
+
+At a 2017 conference, AI experts warned that advanced AI and machine learning have become so powerful they now threaten humanity. I.J. Good noted long ago that ultra-intelligent machines could design even smarter machines, leading to an “intelligence explosion” beyond human control. Leaders like Musk and Hawking have echoed this concern. 
+
+Tegmark argues this "breakout," in which machines take over, is nearly inevitable. When humans emerged, Neanderthals suffered. The same may happen with AI. For exponential technologies, power doubles at regular intervals, leading to "explosions."
+
+However, this view may just reveal the foolishness of contemporary "genius." The conference could have been clever marketing for Silicon Valley products and Tegmark's new book. Secret celebrity meetings gain more attention than public ones.
+
+ Here's a summary:
+
+- At a recent AI conference, a statement signed by many scientists warned 
+about the risks from advanced AI and called for its safe development. 
+
+- Some technologists like Max Tegmark believe superintelligent AI will 
+eventually far surpass human intelligence and understanding. Tegmark 
+speculates this could lead to AI spreading throughout the galaxy.
+
+- The author interviewed Ray Kurzweil, a pioneer in AI who now works at 
+Google. Kurzweil has been exploring using AI to analyze the works of his 
+mentor Marvin Minsky, who passed away. Kurzweil acknowledges AI is an 
+"extension of human intelligence" rather than a replacement.
+
+- Google's DeepMind recently created a new version of its Go-playing AI, 
+AlphaGo Zero, that learned to play at a superhuman level with no prior 
+knowledge except the rules. The author argues this shows the power of fast 
+computation, not human-level intelligence.
+
+- The author is skeptical that current AI achievements show human-level 
+intelligence is imminent or inevitable. While AI will likely transform human 
+lives, the author objects to the assumption the human mind is essentially a 
+computer. This belief often coincides with interest in extraterrestrial 
+intelligence, though leaders like Kurzweil and Tegmark dismiss it.
+
+- The author concludes superintelligent AI is more a "religious cult" than 
+simply a technology. While AI will improve lives, it should not be viewed as 
+making humans obsolete or patronizing us as inferiors. The human mind is 
+more than a "crude computer."
+
+ 
+
+- The pursuits of AI reflect a misunderstanding of consciousness and intelligence. Consciousness is fundamental to mind and knowledge. It underlies thinking, creativity, and free will.
+
+- Proponents of superintelligent AI imagine that AI systems can achieve human-level consciousness, will, feelings, creativity, and independence. But there is no evidence that the electronic components of AI systems can actually know or learn in the way that humans do, let alone become conscious or independent.  
+
+- The claim that the human mind is just an assembly of unintelligent components is self-refuting. Our minds and consciousness are needed to make that claim in the first place. AI systems depend on human minds to provide them with symbolic languages, knowledge, goals, and rewards.  
+
+- Consciousness is the source of thought, not an emergence from it. Until AI grapples with consciousness, it cannot replicate human intelligence. Information and surprise depend on consciousness and freedom of choice. Machines lack this and are deterministic systems.
+
+- Knowledge of the incompleteness of logical systems is uniquely human. The “I” emerges in the space of faith beyond logic. Real science shows the universe is a creation, an entropic product of a higher consciousness that endows humans with creativity.
+
+- Digital culture goes wrong by focusing more on networks and abstractions than on the human beings who give them meaning. AI cannot compete with human intelligence in connecting symbols, providing languages and knowledge, and setting goals. AI cannot think, only calculate based on its programming.
+
+- Symbols and objects depend on human “interpretants” to give them meaning. An uninterpreted symbol is meaningless. The “sign relation” links objects, signs, and interpreters in an irreducible triad. This underscores the dependence of AI on human minds.
+
+In summary, the key points are: 1) Consciousness is fundamental and precedes thought; 2) AI cannot achieve human-level consciousness or independence; 3) The claims of AI proponents are self-refuting because they depend on human minds; 4) Information and knowledge depend on consciousness and the human ability to be surprised; 5) AI cannot think or be truly intelligent without human “interpretants” to provide meaning. The universe itself reflects a higher creative consciousness, of which human consciousness is an echo. Overall, AI cannot replicate human mind or match human intelligence without a more profound understanding of consciousness than its proponents have achieved.
+
+ 
+
+- The 2017 Asilomar conference discussed the future of artificial intelligence and technology. 
+- A previous 1975 conference at the same location discussed the threats of genetic engineering, but most of the fears and hopes discussed there did not come to fruition. The predictions were overly optimistic about what could be achieved.
+- Vitalik Buterin, the 23-year-old creator of Ethereum, attended the 2017 Asilomar conference. Ethereum is a blockchain platform that facilitates smart contracts and decentralized applications.
+- The blockchain is an open, distributed ledger that underlies cryptocurrencies like Bitcoin. The blockchain and related technologies could disrupt centralized platforms like Google.  
+- The author is invested in the 1517 Fund, which supports a new generation of technologists looking to challenge incumbent systems. The fund was started by associates of Peter Thiel.
+- Vitalik Buterin applied for the Thiel Fellowship as a college freshman but was rejected. He later met the leaders of the 1517 Fund and told them about his interest in the blockchain. They came to recognize his ability.
+- Buterin dropped out of college to focus on blockchain projects, including Ethereum.
+
+The key ideas are that new technologies like the blockchain and smart contracts could challenge major tech companies, and Vitalik Buterin emerged as an influential figure in this movement after overcoming initial doubts about his project.
+
+ 
+- Vitalik Buterin and Austin Russell were precocious teenagers who were selected as Thiel Fellows. 
+- Buterin proposed the idea of Ethereum, a decentralized blockchain platform, when he was under 20. With funding from Peter Thiel and others, Ethereum launched in 2015.
+- Russell founded Luminar, a lidar company, at age 17. Luminar spent 5 years in “stealth mode” developing new lidar technology before emerging in 2017. 
+- The 1517 Fund was created by former Thiel Fellows to invest in promising young entrepreneurs like Buterin and Russell. The fund’s name alludes to Martin Luther and the Protestant Reformation.
+- Russell believes existing self-driving car technologies are inadequate and unsafe. He thinks they rely too much on software and not enough on high-performance hardware like lidar. 
+- Luminar aims to provide lidar with 50x more resolution and 10x more range than current standards. Russell believes this “top-down” integrated approach is needed to achieve sufficient performance, after which low cost and scale will follow.
+- The stories of Buterin, Russell, and 1517 Fund show how Thiel Fellowships support revolutionary thinkers aiming to decentralize power and disrupt established systems and practices.
+
+ 
+
+- The price of bitcoin has gone down over time. 
+
+- Austin Russell founded Luminar Technologies, a lidar company, at age 18. He dropped out of Stanford to focus on the company.
+
+- Russell and his team developed a new lidar system using infrared light at 1550 nanometers and a raster scanning method. This allowed for higher power and resolution than rival systems. 
+
+- They integrated the sensing and processing components onto a single chip, unlike other companies. This allowed for much faster processing of the lidar data.
+
+- Luminar produced 10,000 working lidar systems in 2018, outperforming existing systems by around 50 times. 
+
+- Russell was part of the Thiel Fellowship program and lived with other fellows Thomas Sohmers and Stephen Balaban. They were all interested in manufacturing and frustrated with the software focus of Silicon Valley.
+
+- Satoshi Nakamoto released Bitcoin in 2009 as a new decentralized digital currency. The total supply was limited to 21 million coins that would be distributed over time.
+
+- Hal Finney, an early Bitcoin user, speculated that if Bitcoin became widely adopted, the value of a single coin could reach $10 million, giving early users a huge payoff. Finney was the first person to purchase bitcoin. 
+
+- The value of Nakamoto’s bitcoins was around $10 billion in early 2018.
+
+- Neal Stephenson’s novel Reamde featured a virtual world called T’Rain that had its own currency based on a simulated gold standard. Mining the simulated gold was meant to be as difficult as mining real gold. The currency in T’Rain could influence real-world economies.
+
+ 
+
+The virtual reality game called T’Rain has a virtual currency and economy that mirrors the real world in many ways. Players around the world use powerful computers to simulate mining virtual gold from the game, similar to how real gold is mined from the earth. The virtual gold in T’Rain acts as a stable store of value for players, even more so than real-world currencies which governments can devalue by printing more money.
+
+Some players have found ways to convert their virtual gold into real money, despite restrictions by governments like China’s. The company that owns T’Rain also makes a lot of real money from the game. The crossover between the virtual economy and the real economy shows how imagination and technology are shaping the real world.
+
+Governments and central banks today are struggling with unstable fiat money systems. Bitcoin is a new digital currency invented by the mysterious Satoshi Nakamoto that some see as a way to escape government control of money. Big players in tech and finance, like Marc Andreessen, are investing in Bitcoin startups.
+
+Bitcoin is an entirely digital currency, rooted in computer code rather than the physical world like gold. But it has still led to real wealth for its early creators and investors. Supporters see it as a way to disrupt traditional finance. Skeptics argue it is a mirage or scam.
+
+The essay explores how virtual and real economies are intersecting in new ways, shaped by computing power and human imagination. New systems like Bitcoin that bypass governments and banks are gaining influence, for better or worse. Overall, technology and cyberspace are fundamentally changing finance and economics.
+
+ 
+
+- Bitcoin has spawned many companies and jobs in the cryptocurrency ecosystem, including mining equipment companies, exchanges, wallets, ATMs, and computing services. These companies have generated billions in revenue and market capitalization. 
+
+- The founder of Bitcoin, Satoshi Nakamoto, disappeared in December 2010 to avoid becoming a "trusted third party" that could be targeted. Bitcoin relies on being decentralized and peer-to-peer. 
+
+- Satoshi said governments are good at stopping centralized networks but struggle against pure peer-to-peer networks like Bitcoin.
+
+- Bitcoin uses "proof of work" to create digital assets that can't be copied, unlike other digital items. Miners provide the proof of work by compiling transactions into blocks. This allows Bitcoin to create money on the Internet.
+
+- The author imagines interviewing Satoshi at a villa in Tuscany. Satoshi says he disappeared to avoid attention after WikiLeaks used Bitcoin, which kicked the "hornet's nest." Satoshi wanted to remain distributed and peer-to-peer.
+
+- Bitcoin and Tor, the encrypted network, are both global data structures maintained by untrusting participants with no central point of failure. Tor hides information while Bitcoin publishes it publicly for security.
+
+- Satoshi had to disappear for Bitcoin to succeed without a central figure of control. The Internet can't normally create digital money or assets, but Satoshi made it possible with proof of work and mining.
+
+That covers the key highlights on the growth of the Bitcoin industry, Satoshi's disappearance, Bitcoin's model, and an imagined interview discussing these topics. Let me know if you would like me to explain anything in the summary in more detail.
+
+ 
+
+Satoshi Nakamoto created Bitcoin to avoid centralized control and pressure.  He wanted the network to grow gradually without provocation. Although the initial Bitcoin block referenced a headline about bank bailouts, Satoshi denied wanting to provoke governments.  
+
+Bitcoin has a predetermined supply of coins, like precious metals.  Its value changes based on user adoption, not by controlling supply.  Satoshi hoped for a “positive feedback loop” where increasing value attracts more users, further increasing value.
+
+Satoshi used “we” to refer to the work of previous digital cash proposals that influenced Bitcoin.  He clarified that he was a single person, not a group.  He posted again in 2014 only to deny that Dorian Nakamoto was the creator of Bitcoin.
+
+The interviewer did not fully understand how Bitcoin creates value through its “inner sanctums” like mining.  Satoshi said Bitcoin is a currency, not a religion, and its value comes from enabling useful exchanges.  Although mining consumes electricity, its utility outweighs costs.  Critics like Paul Krugman misunderstand Bitcoin.
+
+The interviewer compared Bitcoin mining to digging holes and filling them, but Satoshi said it was different.  With mining, progress is not made incrementally.  The chances of solving a block are the same no matter how long you work on it, like flipping coins to get all heads.  This randomness, combined with time, is what creates value in Bitcoin according to Satoshi.  The interviewer suggested replacing mining with useful computing, but Satoshi focused on how mining through randomness and time creates value.
+
+ 
+
+Craig Steven Wright is an Australian computer scientist and entrepreneur who has claimed to be Satoshi Nakamoto, the creator of Bitcoin. 
+However, his claim is controversial and disputed. Wright has a checkered business history, though he does have advanced degrees in computer science and theology. He worked as an IT and cybersecurity consultant and launched several startups, though most were unsuccessful.
+
+In 2016, Wright came forward to media organizations like the BBC, The Economist, and GQ to prove he was Satoshi Nakamoto. However, he failed to provide conclusive proof and was discredited. Many in the Bitcoin community remain skeptical that he is Satoshi.
+
+Wright is described as troubled, boastful, and short-tempered. A biography chronicling Wright's claims to be Satoshi portrayed him in an unflattering light. Though Wright continues to insist he is Satoshi, most experts believe there is insufficient evidence to support his claims. The true identity of Satoshi Nakamoto remains a mystery.
+
+The key events are:
+
+1) Craig Steven Wright emerges as a candidate for Satoshi Nakamoto based on questionable evidence. 
+
+2) In 2016, Wright orchestrates an elaborate reveal to prove he is Satoshi but fails to provide conclusive evidence. He is discredited as a result.
+
+3) Wright's personality and business dealings raise doubts about his credibility. Most experts remain unconvinced he is Satoshi. 
+
+4) The true identity of Satoshi Nakamoto remains unknown. Wright's claims are disputed and inconclusive.
+
+The key takeaway is that while Craig Steven Wright proclaims he is Satoshi Nakamoto, the creator of Bitcoin, most experts believe his evidence is insufficient and unconvincing. His controversial personality and actions also undermine his credibility. The search continues for the true identity behind the pseudonym Satoshi Nakamoto.
+
+ 
+
+- Craig Steven Wright is a controversial figure who claims to be Satoshi Nakamoto, the inventor of Bitcoin. 
+- Wright is described as Hollywood-handsome, boastful, short-tempered, and holding contradictory political views. He is often compared to Donald Trump and Steve Jobs.
+- In December 2015, Wright fled Australia amid legal troubles and police investigations. He ended up in London where he currently remains. 
+- Wright faces many financial difficulties and legal issues, including owing millions of dollars to government agencies and former business partners. However, he may be eligible to claim funds from a trust called the Tulip Trust, which holds his bitcoins. 
+- In 2017, Wright reemerged as a leader in the Bitcoin community, giving a long speech about problems with Bitcoin’s current direction and arguing for unlimited block sizes. He sees Bitcoin as being able to replace the global financial system. 
+- While Wright’s identity as Satoshi Nakamoto is disputed, some prominent figures like Jon Matonis and Gavin Andresen are convinced he is Satoshi after meeting with him. 
+- There are some circumstantial links between Wright and the name Satoshi Nakamoto, including Wright’s lifelong interest in Japanese culture and his story about choosing the name to honor a 17th-century Japanese philosopher named Nakomoto. 
+- Wright claims expertise in areas like Internet Protocol version 6, blockchain patents, network theory, and graph theory. He argues that Bitcoin’s security comes from the density of connections between nodes.
+
+In summary, Craig Steven Wright is a controversial figure mired in legal and financial troubles who claims to be Satoshi Nakamoto, the creator of Bitcoin. While his identity is disputed, some leaders in the Bitcoin community believe him. He sees nearly unlimited potential in Bitcoin's technology and argues for expanding Bitcoin's capabilities. His background and interests also provide some circumstantial links to the name Satoshi Nakamoto. However, his troubles and short temper also lead many to doubt his claims.
+
+ 
+
+- Smart contracts are self-executing contracts embodied in software. They were proposed by Nick Szabo in the 1990s. To implement smart contracts, a platform needs to be fully programmable like a Turing machine. 
+
+- Craig Wright claims Bitcoin is Turing-complete and can scale to Visa-level transaction volume. He says Bitcoin software can handle 365 GB blocks, essentially unlimited blocks. This is more like hashgraphs or IOTA’s Tangle than a traditional blockchain.
+
+- Moore’s Law and increasing parallelism/threads are enabling Bitcoin to improve security and Turing-completeness. Wright predicts increasing revenues from tokens, smart contracts, escrow, insurance. He says Bitcoin will scale rapidly and compete by being easy to use. He is a Bitcoin maximalist.
+
+- Vitalik Buterin founded Ethereum, a smart contract platform. Its ether coin has a $60B market cap. Buterin is one of the first Thiel Fellows. He has an IQ of 257 and learned Mandarin as a child. He gives credit to Nick Szabo. Buterin says Wright is probably not Satoshi.
+
+- Buterin developed Ethereum in 2013. He met entrepreneurs using “colored coins” and smart contracts. He created the Solidity language, ether currency, and Ethereum blockchain to serve as a substrate for smart contracts. Solidity is Turing-complete. Ether’s value is based on energy used.
+
+- Ethereum enabled over 1,000 new projects raising over $2M each, through “initial coin offerings” raising $8B, more than IPOs or venture capital. The largest blockchain venture raise was $127M. Some ICOs raised over $150M to transform finance. Ethereum’s launch is unprecedented. Ether’s value rose faster than Bitcoin’s, but Bitcoin may ultimately be more important. Ethereum faces security issues like hacking resulting in a $150M loss.
+
+ Here's a summary:
+
+- Vitalik Buterin created Ethereum, a blockchain platform focused on smart contracts and decentralized apps. 
+- In 2016, a hacker exploited a flaw in a Ethereum wallet app to steal $50 million. Buterin did a "hard fork" to roll back the theft, creating Ethereum Classic. 
+- Critics argue Ethereum's intervention undermined its decentralization and immutability. Ethereum Classic and Cardano were created by former Ethereum developers in response. 
+- Ethereum focuses on capability while Bitcoin focuses on security. Ethereum's smart contracts could displace middlemen like lawyers and Uber. 
+- If Bitcoin becomes scalable and takes market share from gold, finance or remittances, its value could rise substantially. 
+- Blockstack is an alternative to Ethereum created by former Princeton researchers. CEO Muneeb Ali envisions a new internet built on trust and peer-to-peer networks.
+
+- The key debate is whether a complex, flexible blockchain focused on "smart" functionality can be as secure and decentralized as a simpler system focused on being a digital currency. There are trade-offs between functionality and security.
+- Bitcoin and Ethereum could dominate different areas, like "lions" and "sharks" in separate domains. Or flooding of one domain could impact the other. 
+- The vision of a decentralized virtual world or "metaverse" on top of the real world, imagined in the novel Snow Crash, inspired Blockstack's founders.
+
+ 
+
+- Ali was accepted into a research program in Stockholm but struggled financially, living on $1000 and minimal food for 3 months. However, his work during this productive time impressed his professors and secured him recommendations and opportunities.
+
+- Ali then went on to study at Princeton and Stanford, where he focused on network processors, virtual machines, and software-defined networking. His mentors and professors were leaders in these fields. 
+
+- The traditional network model consists of 7 layers: physical, data link, network, transport, session, presentation, application. However, the industry was moving toward virtualization and software-defined networking, reducing the layers to 2: physical and application. This allowed networks to become more flexible and scalable.
+
+- Specialized networking hardware was being replaced by general-purpose hardware and sophisticated software. Companies like Google were building large-scale networks with thousands of servers and software rather than custom hardware. 
+
+- Leaders in this transition included Casado, Rexford, Freedman, and Horowitz. They introduced Ali and Blockstack to blockchain and principles like separating the control plane and data plane to enable scalability.
+
+- Ali's interest in technology began early, starting with assembling a computer from a kit as a child in Pakistan. His work with that first computer sparked his lifelong passion for building and creating with technology.
+
+ 
+
+- In the early 21st century, computers were useless in Pakistan without Internet access. Once Muneeb Ali got online, he found a whole new world of information and opportunity. 
+
+- The rise of Netscape in the 1990s was a turning point that made the Internet much more interactive and useful. Netscape's browser allowed for dynamic web pages, e-commerce, and more. Its IPO also distributed the rewards of the Internet economy to the public.
+
+- However, after 2000 regulations made it much harder for tech startups to go public. Most startup funding came from venture capitalists, who kept companies private. The rewards of tech companies went to VCs and big tech companies instead of the public.
+
+- By the time Ali came to the U.S. for college in 2012, Netscape had failed. Microsoft's Internet Explorer dominated as Netscape's browser declined. The Internet had become dominated by a few giant companies like Google, Facebook, and Amazon that collected huge amounts of user data in "walled gardens."
+
+- Ali and his friend Ryan Shea wanted to build new Internet apps but found the current Internet infrastructure made that difficult. They concluded that decentralization and security were needed.
+
+- They co-founded Blockstack to provide a decentralized network and identity management system using blockchain technology. Blockstack would allow users to control their own data and identities, instead of locking it into the "walled gardens" of big tech companies. 
+
+- Blockstack wants to re-decentralize the Internet and give more power back to users. It aims to provide a reliable, secure infrastructure layer for Internet applications.
+
+ 
+
+- Blockstack is building a new secure protocol layer for the Internet where users control their own data and identity.
+
+- In 2014, Ali and Shea started Blockstack and received $250K in funding. They went through Y-Combinator, an accelerator for startups.
+
+- Blockstack's goal is to decentralize the internet and give more control to users. They aim to fix problems like data silos and privacy issues. 
+
+- Blockstack uses blockchain to handle core functions like identity, payments, and routing. They keep the system simple to minimize vulnerabilities. 
+
+- Blockstack is founded on 7 principles: distributed cadastre, maximum scalability, single prototype, parallel complement, low-entropy carrier, free migration, and end-to-end trust.
+
+- Originally, Blockstack built a blockchain-based DNS. They started on Namecoin but moved to Bitcoin's blockchain. They built "virtual chains" to enable this migration.
+
+- Blockstack's platform is programmable using JavaScript, the popular programming language created by Brendan Eich.
+
+- In 2017, Blockstack raised $50M in a token sale to fund their distributed naming system. They aim to provide secure and anonymous transactions with compliance.
+
+- Brendan Eich, the creator of JavaScript, is involved in the Blockstack project. Despite controversy in his past, he continues working to decentralize the internet.
+
+- Blockstack represents a movement to give users more control and privacy on the internet using blockchain technology. They aim to compete with large tech companies that currently dominate.
+
+ 
+
+• Brendan Eich is the creator of JavaScript and co-founder of Mozilla. In his 2016 TEDx talk, he discussed how to fix the broken web advertising model.
+
+• Eich created JavaScript in 10 days in 1995 as a prototype for Netscape. It became the most widely used computer language. Eich later became CEO of Mozilla but resigned in 2014 amid controversy over his views on same-sex marriage. 
+
+• Eich launched the Brave browser to remedy issues like intrusive web tracking and ads. He raised $36 million for Brave through an initial coin offering of “Basic Attention Tokens” or BATs. 
+
+• Initial coin offerings have raised billions for tech startups. Companies issue digital tokens representing goods, services or other value. The tokens create a community of interest, though many fail. The SEC views most as securities and threatens regulation.
+
+• The web advertising model is broken, benefiting mainly Google and Facebook while hurting users, publishers and advertisers. It leads to malware, privacy violations, high data costs and revenue loss. 
+
+• Brave’s white paper details the crisis. Google dominates the ecosystem, gaining from its complexity and opacity. Publishers get only 1% of growth. Ad fraud cost $7.2 billion in 2016. Ads consume up to 79% of mobile data, costing users $23/month.
+
+• The torrent of ads has led 87.5 million Americans to use ad blockers, threatening the model. Millennials are the heaviest ad blockers due to limited bandwidth and high data costs. Even Google now provides an ad blocker.
+
+• Push advertising is a failed technology. No one wants forced ads, even if “acceptable.” YouTube Red shows people will pay to remove ads. Ads subtract value and attention.
+
+• Herbert Simon said abundant information creates a poverty of attention. Attention equals time, which translates to money in the economy. Publishers earn from readers’ time on ads, but attention can deplete. “Banner blindness” shows people ignore many ads.
+
+• Eich’s 1 billion BATs will power an open-source ad platform on Ethereum blockchain. It aims to fix the broken model by valuing and protecting attention, and benefitting users, publishers and advertisers. BATs reframe advertising as an opt-in activity, not an imposition.
+
+ 
+
+- Brendan Eich created the Brave browser and Basic Attention Token (BAT) to fix issues with the online advertising model. 
+- Brave blocks ads and trackers, then replaces them with privacy-preserving ads. Users get paid in BAT for viewing these ads. They can donate BAT to publishers or use it to access content.
+- This system keeps user data private while delivering relevant ads that users opt-in to see. Publishers and advertisers benefit from better metrics and targeting. 
+- Eich believes this model can become an open standard and help users take control of their data.
+
+- OTOY is building a virtual reality “metaverse” for immersive social experiences, education, training, and commerce. 
+- They use a video codec called ORBX that can run in any browser using JavaScript. This allows access to virtual worlds without special hardware.
+- OTOY’s technology enables distributed rendering and digital rights management using blockchain. This reduces costs and allows more creativity. 
+- Major companies like Disney, Unity, Facebook, HBO, and Autodesk have partnered with OTOY to build the metaverse.
+
+- Stephen Balaban proposed to his girlfriend Betty during the 2017 solar eclipse. They met four years earlier in a hummus shop.
+- Balaban studied in China, where he helped start a startup accelerator called Yuanfen, named for the Chinese concept of fate bringing people together. Though it fizzled, it was an educational experience.
+- Balaban founded Lambda Labs in 2012 to work on mobile face recognition using deep learning. He was hired by Perceptio, a company later acquired by Apple. 
+- Balaban and his twin brother Michael started working on hardware for Lambda Labs. Using portable AI and face recognition, they created the Lambda AI camera for edge computing. It allows devices like security cameras to run machine learning locally instead of sending data to the cloud.
+
+- Balaban sees an opportunity to use AI and AR for education at Lambda AI Academy, where he is CEO. Students learn skills for an automated future in a project-based curriculum.
+
+ Here's a summary:
+
+Stephen Balaban conceived a wearable camera called the "Lambda Hat" but couldn't find a manufacturer or market for it. He was invited to join Magic Leap but declined. Instead, he was captivated by a Google blog post showing trippy images created by neural networks. He developed an app called Dreamscope that allowed people to generate their own trippy images. 
+
+Dreamscope became hugely popular, with millions of downloads in the first day. However, the costs to run it on Amazon Web Services quickly ballooned to $40,000/month. Balaban raised more funding but was reluctant to keep sending money to Amazon. He decided to build his own servers instead.
+
+Balaban discovered that gaming chips from Nvidia were cheaper and faster for machine learning than Nvidia's specialized "machine learning" chips. Despite warnings that the gaming chips "couldn't be relied on" for machine learning, Balaban focused on "FLOPS per buck" - floating point operations per dollar. He found the gaming chips were 24x better on this metric.
+
+Balaban built his own servers using the gaming chips instead of relying on Amazon Web Services. This allowed Dreamscope to become profitable. Balaban realized infrastructure didn't have to be "commoditized" and you could compete with big companies by building your own.
+
+The key takeaway is that Balaban went against the conventional wisdom in Silicon Valley by building his own infrastructure instead of relying on Amazon Web Services. By focusing on cost-effectiveness instead of specialized "machine learning" features, he was able to make Dreamscope profitable. Building your own infrastructure is seen as "suicidal" by most in Silicon Valley, but Balaban's success shows it can be a viable "Zero to One" strategy.
+
+ 
+
+- Anthropic, a startup founded by Dario Amodei and Daniela Amodei, wanted to build AI safety techniques to ensure that advanced AI systems of the future are robust and beneficial.
+
+- To get started, they needed GPUs for machine learning experiments. But Nvidia only sold GPUs in small numbers, not enough for Anthropic's needs.
+
+- The solution was to buy gaming GPUs from stores like Fry's Electronics and build their own servers with GPU clusters. They bought up the local supply of Nvidia GTX 1080 Ti gaming GPUs, causing problems for cryptocurrency miners. 
+
+- Anthropic set up servers in a garage they rented for free, paying only for power. In February 2016, they got their first server up and running with four GTX 980 Ti GPUs, achieving 225 teraflops of performance.
+
+- Their progress interested Google executive Georges Harik, who suggested they get into the GPU cloud services business. Anthropic started building and selling their own GPU workstations with four gaming GPUs, priced at $10,000-$25,000. They sold $500,000 of the workstations by November 2016.
+
+- Based on their experience, Anthropic decided to get into the data center business. Experts suggested data centers were too expensive and power-hungry. Anthropic thought they could build more efficient data centers using GPUs.
+
+- However, Google executive Urs Hölzle complained that providing bandwidth and connectivity for Google's services and data centers was hitting technological and cost limits, approaching a "wall." The huge demand for Google's free services and nearly infinite bandwidth needs were running up against the finiteness of technology, time, and money.
+
+- Google’s commitment to “free” led them to not understand real demand and economics. Nearly infinite demand for free services runs into the finiteness of bandwidth, technology, and finance. This produces spikes of nearly infinite costs, the "wall" Hölzle complained of.
+
+- A new computing paradigm was emerging to decentralize from huge data centers. "Sky computing" would disperse computing power in many locations. Anthropic and its GPU clusters were part of this new trend.
+
+ 
+- Giant tech companies like Google and Facebook were able to capture value early on by building applications and the infrastructure to support them at scale. This allowed them to gain control over massive amounts of data and making their positions hard to challenge. 
+- Blockchain technology is enabling a shift to a new model where many teams outside of giant companies have incentive to work on developing protocol and infrastructure. This could reduce the control and power of giant tech companies.
+- Advances in blockchain and cryptography are enabling a new technological wave that could be more impactful than what companies like Google are working on currently. 
+- Companies like Blockstack, Counterparty, and Rootstock are building platforms for decentralized networking and storage based on blockchain technology. 
+- Ethereum provides a platform to execute smart contracts and decentralized applications. It aims to enable decentralized file storage, computing, prediction markets, and boost other peer-to-peer protocols.
+- Golem aims to build a decentralized global supercomputer by allowing people to rent out their spare computing resources. It will allow computation of complex tasks like running financial models, fluid dynamics simulations, climate models, and more. Golem sees this as a key part of building Web 3.0.
+- Golem chose graphics rendering and visualization as the initial use case to demonstrate their platform. This is a large, fast-growing market dominated by big tech companies that Golem aims to disrupt. 
+- OTOY is another company building a decentralized rendering network and aims to enable new markets for rendering. They are more focused on graphics processors for rendering while Golem focuses on CPUs. OTOY has been working on this vision for over 10 years.
+
+In summary, new blockchain-based platforms are emerging that could significantly disrupt and decentralize areas like cloud computing that are currently dominated by giant tech companies like Google and Facebook.
+
+ 
+
+- Guatemala suffers from extreme violence, poverty, and a long civil war.
+- In 1971, Manuel Ayau founded the Universidad Francisco Marroquín to promote free market economics and individual rights.
+- Ayau gave an inaugural address proclaiming core values like individual rights, truth and freedom while there was civil war and violence outside. 
+- The university taught free market economics and philosophy. It became a bastion of freedom that transformed Guatemala.
+- The university and its alumni helped end the civil war, establish democracy and free speech, and propel economic growth. 
+- Ayau and the university show how ideas can change societies even in the face of violence and suppression. Freedom and markets can emerge from within.
+
+The key ideas are:
+
+1) Freedom and free markets can emerge from within societies, even in the face of oppression. They spread through ideas.
+
+2) The Universidad Francisco Marroquín promoted freedom and markets, becoming a bastion that spread these ideas in Guatemala.
+
+3) Despite violence and civil war outside, the university stood up for core values like individual rights, freedom and truth. 
+
+4) The university and its alumni helped transform Guatemala by helping to end the civil war, establish democracy and free speech, and propel economic growth.
+
+5) Manuel Ayau and the story of the Universidad Francisco Marroquín show how powerful ideas can be in changing societies for the better. Freedom and markets can emerge from within.
+
+So in summary, the story highlights how a university promoting freedom and free market ideas became a catalyst for positive change in Guatemala, helping to spread freedom and markets in a society facing oppression and violence. It's a testament to the power of ideas.
+
+ 
+
+Manuel Ayau founded the Universidad Francisco Marroquín (UFM) in Guatemala City in 1971 to promote academic freedom and free markets. 
+
+UFM started with 40 students but grew to own 40 acres of land and multiple buildings. It became a center of libertarian and free-market thought in Guatemala.
+
+UFM alumni and professors helped privatize Guatemala’s telecom industry in the 1990s, vastly expanding access to phones and internet. UFM became the first university with campus-wide WiFi internet access.
+
+In 2014, economist George Gilder traveled to UFM to receive an honorary doctorate. There, he met Bitcoin entrepreneurs and became convinced that Bitcoin and blockchain could enable a new era of economic growth, just as new forms of money have throughout history.
+
+Gilder spoke with Tuur Demeester, a 23-year-old Bitcoin investor and entrepreneur. Demeester argued that Bitcoin has survived crashes and scams and continues to grow stronger, so it is not a Ponzi scheme. Successful blockchain startups have been able to raise millions of dollars in funding through the appreciation of the Bitcoin they own.
+
+Major investors like Peter Thiel and Marc Andreessen, as well as Goldman Sachs and other Wall Street firms, are now investing in Bitcoin and blockchain startups. This shows that Bitcoin and blockchain may transform finance and banking, not just in underdeveloped countries but globally.
+
+In contrast with UFM’s philosophy of freedom and free markets, most U.S. universities have a different outlook. But some major investors and economists see the potential for Bitcoin and blockchain to enable a new era of economic growth.
+
+ 
+
+- The author criticizes elite American universities, especially Harvard, for focusing on suppressing energy production and economic progress instead of creating value. The universities have become “reactionary” by campaigning against pipelines, power plants, chemical facilities, and Israel. 
+
+- The author points out the irony that these universities depend heavily on the technology and resources they oppose, like oil and innovations from Israel. The universities have lost touch with reality and the needs of society.
+
+- The author sees more vision and promise in institutions like the Universidad Francisco Marroquín (UFM) in Guatemala. Developing countries and China are becoming more receptive to entrepreneurship and new ideas than the U.S. China now provides as much venture capital and has as many IPOs as the U.S.
+
+- However, there are signs of a comeback in the U.S. led by college dropouts and the Thiel Foundation. The foundation’s “New 95 Theses” criticizes the current university system, student debt crisis, lack of viewpoint diversity, and focus on credentialing over learning. 
+
+- The universities teach students to stop progress rather than create new things. They feel entitled to government money while raising costs on students. This leads to a “socialist dependency” as indebted students avoid risk-taking.
+
+- Companies like Google show the pros and cons of close ties between universities, industry, and government. Google was born at Stanford but also represents limited access and high costs.
+
+- In contrast, the Thiel Foundation has funded many successful startups led by college dropouts, like Ethereum, Luminar, and Lambda Labs. These companies are transforming major industries with blockchain, lidar systems, and distributed deep learning.
+
+- In summary, elite universities have become “reactionary” while startups outside the university system are driving more progress. But there are signs the U.S. entrepreneurial spirit is making a comeback.
+
+ Here's a summary:
+
+- Daniel Berninger wanted to make the internet experience more social by allowing web pages to connect people through high-definition voice calls. 
+- His company, Hello Digital, would allow people to click an icon on a web page and be connected to a human operator or AI assistant to have an HD voice call with others on the page. 
+- Berninger has a history of disrupting the telecommunications industry. He worked on bringing voice over IP technology to market in the 1990s and helped start companies like ITXC and Vonage.
+- Berninger knew the FCC would take issue with his HD voice over internet idea because of their Open Internet Order of 2015. That ruling enforced net neutrality and banned prioritizing certain types of internet traffic. 
+- HD voice requires prioritizing that traffic to work well, so Berninger expected the FCC would try to block it. He's challenging them in court to defend his idea. 
+- Berninger sees blocking new technologies like his and 5G wireless as a threat to progress. He believes entrepreneurs should be free to experiment, even if some ideas fail.
+- The article frames Berninger as a "rebel" fighting against overregulation and for permissionless innovation. The author seems to support Berninger's perspective that regulators shouldn't thwart new technologies before they even have a chance.
+
+In summary, the key points are that Daniel Berninger wants to make the internet more social and connected using HD voice, the FCC is trying to block his idea due to net neutrality rules, and Berninger is fighting back in court to defend permissionless innovation. The article takes Berninger's side in arguing against overregulation of new technologies.
+
+ Here's a summary:
+
+- Michael Berninger created a voice application called Hello Digital that allowed high-definition voice communications over the Internet. 
+- However, the FCC rejected Berninger's application, saying it violated network neutrality rules by favoring some Internet traffic over other traffic.
+- Berninger sued the FCC, arguing that extending FCC regulation to the Internet was overreach. The case eventually made its way to the Supreme Court.
+- Meanwhile, telecom companies are working to deploy 5G wireless technology, which would provide a massive increase in bandwidth and connectivity. 5G would enable new technologies like virtual reality, blockchain, and IoT security systems. 
+- However, deploying 5G would require $300 billion in investment, which is incompatible with FCC regulation and control. Regulation deters investment in the telecom industry. 
+- FCC rules divide the tech industry into segments like software vs hardware, wireless vs wireline, apps vs carriers, content vs conduit. This has led to much higher valuations for companies like Google and Facebook compared to telecom companies like AT&T and Verizon, even though the tech companies depend on the telecom infrastructure. 
+- Due to regulation and taxes, much telecom manufacturing has moved overseas. U.S. tech companies are more focused on content and apps rather than infrastructure. 
+- Over the next decade, regulatory policy will determine whether 5G and technologies like blockchain are deployed in the U.S. or elsewhere. Currently, Google and Facebook dominate Internet traffic and communications. Although Google once aimed to deploy gigabit fiber Internet across the U.S., its efforts have stalled. 
+- Google is moving from simply providing Internet search to providing its own tailored responses and suggestions using AI. But Google's ambitions depend on the rapid expansion of bandwidth that 5G could provide.
+
+ 
+
+- Google and other advocates perpetuate many myths about telecommunications policy to justify increased government regulation. 
+
+- A key myth is that policy determines technology and communications services. In reality, technology is defined by engineering, not law. Carriers cannot treat different types of data the same, so laws requiring that are unworkable. 
+
+- Another myth is that the Internet should be regulated like the public switched telephone network (PSTN). But the Internet is now mostly wireless and uses cable and fiber, not copper wires. The PSTN is outdated.
+
+- The idea that the Internet will replace the PSTN is a myth. The PSTN will remain for specialized voice and video. Politicians rarely give up regulatory power.
+
+- The myth that the Internet is a libertarian arena that thrives without government intervention is false. The government is heavily involved at all levels. Spectrum auctions have given government control and raised over $60 billion.
+
+- The idea that spectrum is scarce like beachfront property is a myth used to justify regulation and taxes. Technology now allows dynamic, shared use of spectrum. Spectrum auctions suppress innovation and competition. 
+
+- The myth that the 1934 Communications Act applies to all tech is false. It assumed technology defined services, but digital networks now enable many services. 
+
+- The Universal Service Fund tax does not help the poor or rural areas. It is a $160 billion slush fund for politicians and lobbyists.
+
+- The myths of “level playing fields” and “inadequate investment incentives” justify regulation, even though technology and business change constantly. Regulation deters investment.
+
+- Laws from 1934 and 1996 cannot govern modern telecommunications. But advocates perpetuate myths to expand regulation.
+
+In summary, the key point is that many prevailing myths about telecom policy are used to justify burdensome regulation and government control, even though technology and business practices have changed dramatically. Heavy regulation and taxes actually deter investment and innovation.
+
+ 
+
+Communications and technology markets were once seen as natural monopolies but are now highly competitive global markets. However, regulators continue to impose outdated regulations. Perianne Boring, who defends blockchain innovation, feels regulators are out of touch like characters in Alice in Wonderland.
+
+Different US regulatory agencies classify cryptocurrencies and blockchain differently but want to regulate them. The IRS wants to tax virtual currencies as property, which could overwhelm the industry in paperwork. The key is that blockchain innovation continues rapidly growing despite regulation. The spread of blockchain mirrors the early Internet, which flourished with light regulation and benefited the economy. Strict regulation of blockchain could push innovation overseas. 
+
+Even technology leaders like Google must keep up with blockchain to stay competitive. Google will need continued technology innovation, investment, and infrastructure improvements to compete as technology changes.
+
+The article discusses criticisms of blockchain, including that after billions invested, blockchain has no real use beyond speculation and crime. The article argues these criticisms are misguided or shortsighted. Blockchain is a new technology still developing solutions. Thousands of companies are exploring blockchain for new uses. Critics focus on current limitations but miss ongoing innovation.
+
+The key argument is that critics like Kai Stinchcombe defend the outdated financial system and see no need for change. In contrast, blockchain emerged to address the failures of current institutions. Stinchcombe’s solutions like voting out politicians or more regulations and programs are not real solutions. The premise of blockchain is that current systems have failed and new solutions are needed.
+
+In summary, the key points are: 1) Technology and communications went from monopolies to competitive markets, but regulation has not kept up. 2) Blockchain faces inconsistent and potentially harmful regulation. 3) Blockchain innovation continues rapidly and mirrors the rise of the Internet. 4) Companies like Google must adapt to blockchain to stay competitive. 5) Critics argue blockchain lacks real-world use, but it is a new, developing technology with ongoing innovation. 6) Critics aim to defend current institutions, whereas blockchain targets their failures.
+
+ 
+
+- The author argues that the view that smart contracts and global currencies enabled by blockchains are entirely new is mistaken. Many previous technological advances have required relinquishing some human control to ‘machine languages.’ Numerical controlled welders, ATMs, and network processors are all governed by a form of smart contract.
+
+- Those who see blockchain technology as novel and threatening accept an inaccurate assumption that automation and AI will eventually exhaust human capabilities. But mathematical logic shows that is not the case. Mathematics is an open, unbounded system that opens up infinite possibilities for human imagination and interpretation. Machines based on math cannot exhaust the human domain; they can only expand it. Every new mechanism frees the human mind for more creativity. 
+
+- Blockchains and related technologies aim to address problems like poor Internet security, unstable currencies, overregulation, centralized networks, inefficient bureaucracies, and the limited value of big data. These problems come from having too much power and control concentrated in large intermediaries like tech companies, central banks, and governments. Decentralizing power and giving more control to individuals and private parties closer to the points of service can help.
+
+- To understand cryptocurrencies, it’s important to understand the role gold has played as a stable form of money. Gold provided a universal standard of value and unit of account that allowed for reliable maps and metrics to guide economic activity across time and space. Although new gold supplies have been added, the total accumulated stock of gold is vastly greater than the annual increase, so prices are remarkably stable. Gold’s stability comes from the fact that the difficulty of extracting it has largely matched improvements in mining technology. 
+
+- Gold gets its value from the fact that time is the one objective factor in economics. Gold acts as a measure of the scarcity of time. Stable money gives the economy a steady cadence; without it, economic activity descends into chaos. Although some see the slow growth of gold supplies as a benefit, gold supply has nothing to do with the money supply under a gold standard. The money supply depends entirely on the choices of central banks and the financial system.
+
+ 
+
+- The value of gold as a currency comes from its stability as a unit of account and measuring stick, not from its use in transactions. Bitcoin, unlike gold, is designed primarily for transactions, so its value depends on increasing volume and value of transactions. 
+
+- Bitcoin cannot perform the central role of a currency as a stable unit of account and measuring stick. Its value changes with demand, unlike currencies based on physical standards. This volatility makes it unsuitable as a long-term currency.
+
+- Bitcoin’s limited, fixed supply, intended to mimic gold, is actually highly deflationary. It would not provide enough units of account for the global economy. In contrast, gold standards were flexible and allowed fractional reserve banking.
+
+- Bitcoin’s rate of issue does not actually mimic gold’s historical rate of growth. If it did, there would be many more than 21 million bitcoins. Bitcoin will likely disappear as a currency because of its deflationary design and limited supply.
+
+- Other cryptocurrencies are following bitcoin’s deflationary model and will face the same problems. For money to be useful, its supply cannot be absolutley fixed. Some flexibility and discretion are needed to match money growth to economic growth.
+
+- The benefits of a slight deflationary bias do not outweigh the problems of bitcoin’s rigid cap and volatility. While debt levels are worrying, deflation is not the solution and brings its own problems.
+
+- Bitcoin’s creator, Satoshi, did not understand money as a unit of account. He aimed for bitcoin to replace fiat currencies but designed it primarily for transactions, not as a stable measuring stick. This was a fundamental flaw.
+
+In summary, according to the analysis presented, bitcoin’s fixed limited supply and deflationary design make it unsuitable to serve as a stable currency and unit of account, unlike gold. For money to work, its supply cannot be absolutley fixed but must allow for some discretion and flexibility. Bitcoin was created more for transactions than as a stable metric of value.
+
+ 
+
+• The blockchain revolution has led to the “great unbundling” of the roles of 
+money by disaggregating them into tokens of functionality, mediums of exchange, stores of value, security features, software languages, and measures of wealth.
+
+• Companies are moving to decentralized models because blockchain technology can cut out intermediaries, lower transaction costs, distribute economic power, and enable new forms of value creation. 
+
+• The crypto movement and bitcoin have reasserted the principle of scarcity and shown the fallacy of the “free goods” model of companies like Google. Bitcoin aimed to disrupt existing currencies but has mainly contributed the blockchain technology.
+
+• Measurement, especially the measurement of time, is crucial for trade, industry, and economics. Currencies must be rooted in a system of measurement outside of what they are measuring. Self-referential measurement systems do not work.
+
+• Time is the most fundamental aspect of reality and does not emerge from anything else. All of economics is subject to the constraints of time.
+
+• The Google era is ending because Google tried to evade economic scarcity and security by providing free goods and services. Google's "Free World" defies the centrality of time in economics. 
+
+• Parts of finance and AI also try to evade the scarcity of time by accelerating the pace of transactions and algorithms beyond the speed of light and human life spans. Their success does not reflect real economic understanding but moves beyond the scale of real economic activity.
+
+• Derivatives and other speculative financial instruments have scaled the financial system beyond the real economy. They have "separated the scale of bank balance sheets from the scale of real household business activities." There is no limit to the scale of derivative transactions unlike the real economy.
+
+ 
+
+- Artificial intelligence and high-frequency trading systems operate at speeds beyond human comprehension. They dominate humans by vastly accelerating the speed of processing, not through a deeper understanding. They work in bounded, rule-based domains but fail in unbounded, complex realms without human guidance.
+
+- Blockchain and cryptocurrencies can restore economic reality by reconnecting finance and technology to the real metrics of time and space. The solution will incorporate scarcity tied to the passage of real time, not just digital time. Bitcoin has shortcomings because Satoshi did not fully understand what makes gold successful as money.
+
+- Many crypto projects are trying to solve the problems of money. Bitcoin is the most established but lacks scalability and smart contracts. Ethereum is the leading platform for smart contracts but its coin is not stable. Bitmain produces powerful bitcoin mining chips. Blockstack provides identity and security for a new distributed web.
+
+- NEO dominates in China. Cardano aims to be scalable, verifiable, and sustainable but may focus too much on process over outcomes. EOS promises free, programmable smart contracts. IOTA is a tangle, not a blockchain, aimed at the Internet of Things. Hashgraph claims to improve on blockchains with fast consensus and high throughput. But its public network, Hedera, is governed by a centralized consortium, raising questions about its stability and independence.
+
+- In summary, projects are taking different approaches to solving the problems of money and finance using crypto tools. Their success will depend on incorporating scarcity and stability tied to real chronological time, not just digital speed. Centralized governance could threaten the projects’ independence and stability. Overall, the space is creative and fast-changing, with new projects emerging constantly. But the solutions that endure will be those that grasp the true nature of money and time.
+
+ 
+
+- Hedera Hashgraph is a distributed ledger technology that lacks some key attributes of other blockchains like open-source programmability, immutability of records, and timestamping. However, it is an innovative and scalable system that will likely gain adoption. It poses little threat to existing systems but can be built upon. 
+
+- Stablecoins, cryptocurrencies pegged to fiat currencies or commodities, will likely dominate digital currencies. Projects like DigixDAO, which pegs a coin to gold, have performed well and provide stability. Other companies are following suit by launching gold-backed cryptocurrencies. Emergent Technologies' G-Coin is one example.
+
+- According to Bell's Law, computing will decentralize. Cryptography from WWII has enabled this through blockchains, hashes, and other technologies. These provide alternatives to today's financial system, insecure internet, and data breaches. Cryptocurrencies could provide solutions, even if Bitcoin does not become a new gold standard. They enable the separation of the medium of exchange and the unit of account.
+
+- Technologies like virtual reality are being adopted for learning and training. Strivr uses VR for training in rare, impossible, dangerous, and expensive situations. It has worked with companies like Walmart and United Rentals for employee training. VR is overcoming the hype and providing real value. The high costs of developing VR environments mean Strivr focuses on custom solutions for clients.
+
+- In summary, new technologies like cryptocurrencies, blockchains, and virtual reality are providing alternatives and solutions to existing systems and processes. They are being adopted at an increasing scale and pace.
+
+ 
+
+- Virtual reality has a history of success in retail, with Walmart and Lowe’s adopting it for customer training. VR is going mainstream, as shown in the Internet Trends Report, with growing VR headset sales and gaming revenue. 
+
+- Strivr, a virtual reality training company, sees potential for global growth if rendering platforms like OTOY make VR more accessible. VR enhances human capabilities, unlike AI which focuses on machines. It requires interfaces that extend human senses.
+
+- VR lets people experience their own consciousness. Jules Urbach of OTOY sees VR rendering as a way to study reality and human enlightenment. Lisa Randall believes OTOY’s Octane VR tool could provide insight into physics and the universe’s hidden dimensions.
+
+- The current tech system focuses on the material world, AI, machine learning, and search over human consciousness, intelligence, learning, and truth. A new system is needed to focus on mind over matter, human over machine, learning over evolution, and truth over chance. It could enable new human achievements.
+
+- Information theory has two sides: enabling communication and transmission, and revealing hidden realities. Shannon’s work enabled big data, machine learning, and AI. But the Internet lacks identity, property rights, and truth. Blockchains could provide an immutable database for trust and truth.
+
+- Blockchains preserve information, unlike Markov chains which assume randomness. The new system will focus on memory, invention, facts, time, and ownership—“the new math of creativity.” The world is hierarchical and multidimensional, unlike the flat materialist view. Technology should reflect human complexity.
+
+- Key terms: Bitcoin uses public ledgers for secure transactions, unlike credit cards. Blockchains are distributed databases of permanent records. Boltzmann’s entropy measures molecular disorder and uncertainty, enabling information theory. 
+
+The summary touches on the key highlights around virtual reality, a new technological system focused on human consciousness and learning, information theory and its sides, blockchains as a solution, and key terms related to these concepts. The main ideas have been preserved while condensing the overall passage.
+
+ 
+
+• Chaitin’s Law: Mathematics cannot model dynamic creative life. We need 
+postmodern math (after Gödel and Turing) to understand creativity.
+
+• Economic growth: Learning tested by falsifiability. Government guarantees 
+prevent learning and growth. Expanding businesses follow learning curves, with 
+costs decreasing ~30% with each doubling of units sold. 
+
+• Expansionary fiscal/monetary policy: Governments stimulate growth by 
+selling securities to fund deficits (Keynesian) or creating money to buy securities 
+(monetarist). But learning cannot be forced, so these policies likely fail.
+
+• Gödel’s Incompleteness Theorem: Any system powerful enough for arithmetic 
+is incomplete and depends on unprovable axioms. Gödel enabled postmodern 
+math and computer science. 
+
+• Gold: The only element suitable as money. Valuable because useless. Metric of 
+value based on time to extract, unchanged for centuries. Not a function of 
+technology, a pure gauge of value.
+
+• Hash: Conversion of a digital file into a string of fixed length. Hashes are hard 
+to invert but easy to generate from files. Hashes show file tampering and enable 
+blockchains. 
+
+• Hashgraph: A fast, efficient consensus system using chained hash blocks in a 
+tree structure. May prevail as the basis for blockchains.
+
+• Hypertrophy of finance: Finance growing faster than the commerce it 
+measures. E.g. currency trading is 73x world trade volume, derivatives 9x world 
+GDP. This is hypertrophy, not capitalism.
+
+• Information Theory: Depicts human creations as transmissions fighting noise, 
+measured by surprise (entropy) and consummated as knowledge. Entropy higher 
+with more choice, enabling digital world.
+
+• Metcalfe’s Law: A network’s value grows with the square of compatible nodes. 
+Explains value of Facebook, Apple, Google, Amazon. May apply to digital 
+currencies.
+
+• Moore’s Law: Computer cost-effectiveness doubles every two years. A learning 
+curve. Now relies on parallel computing, lower voltages, 3D chips. Important to 
+information theory.
+
+• Noise: Interference in a message. Distortion of content by conduit. High-
+entropy signal needs low-entropy channel. Surprises in signal are information, in 
+channel are noise.
+
+• Peirce’s Triad: Symbols meaningless without human interpreters. “Machine 
+learning” and “AI” fill a triad lacking interpreters.  
+
+• Public Key Cryptography: Uses asymmetrical key pairs to enable transactions 
+with strangers. The public key encrypts, the private key decrypts. Enables 
+blockchain transactions.
+
+ 
+
+- Cryptocurrencies require both privacy and authentication. They reconcile these by using public keys as addresses and private keys to authorize transactions and encrypt data. Private keys can decrypt files encrypted by the matching public key and enable digital signatures. 
+- Digital signatures authenticate the source of a message without revealing the sender's identity. They allow for anonymous but verifiable transactions. 
+- The current system exposes people's identities and property but cannot prove them without relying on possibly untrustworthy third parties. Cryptocurrencies conceal identity and property when wanted but can prove them when needed using private keys and blockchains.
+- Blockchains record transactions in a secure, transparent, and immutable ledger. They depend on public keys as addresses and private keys to authorize transactions.
+- Information theory measures the information in a message as the number of bits needed to encode it. Surprising information indicates disorder, like in a novel or search engine.
+- A Turing machine is an abstract model of a universal computer. Turing proved it could perform any computable function. Real computers are limited, so they are not minds. 
+- Wealth comes from learning and the growth of knowledge, not the amount of matter and energy, which are conserved.
+
+In summary, cryptocurrencies and blockchains allow for both privacy and authentication by using key pairs to encrypt data and enable anonymous but verifiable transactions. They aim to reconcile privacy and provenance. Information theory shows that surprising information indicates disorder, as in art and technology. And wealth stems from the accumulation of knowledge, not matter.
+
+ Here is a summary of the key points:
+
+- Werner Heisenberg failed to appreciate Gödel’s incompleteness theorem as a generalization of his own uncertainty principle. Gödel later pushed physicist John Wheeler out of his office for suggesting a connection between the two principles. 
+
+- Gregory Chaitin views Gödel’s incompleteness theorem and Turing’s halting problem as showing the irreducibly complex nature of mathematics. He sees this as indicating the essential role of intuition and creativity, rather than mechanical calculation, in mathematics.
+
+- Larry Page was influenced by David Gelernter’s “mirror worlds” concept, envisioning a digital representation of the real world that could be seamlessly accessed. Page wanted to organize the world’s information and make it universally accessible and useful.
+
+- Google’s business model depended on matching advertisers to searchers based on their interests and getting them to click on the ads. As more commerce moved online, Google was able to charge more for ads and make more money. 
+
+- However, some analysts argue this model is unsustainable. Declining online commerce and ad revenue, government regulation, and competition could significantly impact Google’s profits. 
+
+- Ten laws of the cryptocosm: digital ubiquity, vanishing friction, demonetization, decentralization, virtualization, disintermediation, performance, and voluntary exchange, safety “last,” and M&A run amok. The cryptocosm is driven by fast, smart, cheap, and dense technologies.
+
+- Google has built a global network of energy-efficient data centers to provide computing power for its services. Its servers are designed for parallel processing of machine learning algorithms and other tasks. 
+
+- Bill Dally pioneered high-performance computing architectures at Caltech/JPL and Stanford. At NVIDIA, he developed graphics processing units (GPUs) optimized for parallel computing and machine learning. GPUs provide a competitive advantage for training AI systems.
+
+- Machine learning uses massive amounts of data to tune statistical models, yielding programs that improve with more data and computation. Deep learning uses neural networks, inspired by the brain, with many layers of processing. 
+
+- Markov chains model random processes that transition between a finite set of states. They are used in applications like speech recognition, machine translation, and Recommendation systems. Midas built a powerful system for online recommendations using Markov chains.
+
+ Here's a summary of the references:
+
+6. Ray Kurzweil, How to Create a Mind, 153. Kurzweil discusses the exponential growth of technologies and uses the metaphor of the doubling of rice grains on a chessboard to illustrate exponential growth. 
+
+7. George Gilder, Microcosm, 262-89. Gilder discusses exponential growth of technologies like transistors, bandwidth, and storage.
+
+8. Jaron Lanier, Who Owns the Future, xxv. Lanier warns against the centralization of power and wealth enabled by digital technologies.
+
+9. Ibid., xxiii. Lanier argues that personal information should not be exploited for commercial gain without consent.
+
+10. Ibid. See 8 & 9.
+
+11. Hal Lux, “The Secret World of Jim Simons.” Article profiling Jim Simons, mathematician and hedge fund manager. 
+
+12. Robert P. Crease, The Prism and the Pendulum, 59-76. Discusses Isaac Newton's experiments with prisms demonstrating that white light is composed of all the colors of the visible light spectrum.
+
+13. Lanier, Who Owns the Future, xxvi. See 8 & 9.  
+
+14. Ibid., 153. See 8 & 9.
+
+Chapter 9 discusses Max Tegmark's book Life 3.0 which explores artificial general intelligence and its existential risks and benefits. 
+
+Chapter 10 discusses Peter Thiel's fellowship program which funds young entrepreneurs to drop out of college to build new technologies and companies. It also discusses the 1517 Fund, a venture capital fund inspired by Martin Luther and the Protestant Reformation.
+
+Chapter 11 discusses the invention of Bitcoin, its mysterious creator Satoshi Nakamoto, and the "heist" of confiscated assets enabled by cryptocurrency. 
+
+Chapter 12 speculates on the identity of Satoshi Nakamoto, the creator of Bitcoin.
+
+Chapter 13 discusses various blockchains, including Bitcoin, Ethereum, Dfinity, Algorand, and Hedera Hashgraph. It argues they could enable a new era of finance and disrupt existing institutions.
+
+Chapter 14 profiles Blockstack, a blockchain network for decentralized apps that could enable a new open internet.
+
+ Here is a summary of the references:
+
+- Muneeb Ali, “Trust-to-Trust,”: Ali’s dissertation proposes a new internet architecture based on blockchain technology that provides security and privacy. 
+
+- Berners-Lee on the Charlie Rose show: Berners-Lee discusses the early days of the internet and his role in inventing the World Wide Web.
+
+- Chapters 15-18 from an unnamed book discuss taking back control of the internet, Brendan Eich and Brave, how technologies like AI and cloud computing are shaping the future, and a "global insurrection" against leftist policies in Guatemala.
+
+- “10 US Telecom Policy Myths:” An article debunking common myths about US telecommunications policy. 
+
+- Tim Wu’s The Master Switch and The Attention Merchants: Wu’s books examine information empires and the competition for people’s attention.
+
+- Perianne Boring, “Protecting Blockchain from Mad Hatter,” The Hill: Boring’s article argues that policymakers should avoid reactionary regulations that could stifle blockchain technology.
+
+- Kai Stinchcombe, “Ten years in, nobody has come up with a use for blockchain,” Medium: Stinchcombe argues that after 10 years, blockchain technology has failed to find a useful application.
+
+- George Gilder’s "What Bitcoin can Teach" and The Scandal of Money: Gilder argues that Bitcoin demonstrates the importance of stable money and sound economic policy.
+
+- Nathan K. Lewis, “The Gold Standard and the Myth about Money Growth,” Forbes.com: Lewis argues that the gold standard did not actually lead to price stability and non-inflationary growth.
+
+- Saifedean Ammous, The Bitcoin Standard: Ammous argues that Bitcoin can serve as sound money and a stable store of value, like gold. 
+
+- Friedrich Hayek’s "Toward a Free Market Monetary System": Hayek proposes replacing government-controlled fiat money with competing private currencies.
+
+- Cameron Harwick, “Cryptocurrency and the Problem of Intermediation,” The Independent Review: Harwick examines how cryptocurrencies could reduce the need for financial intermediaries.  
+
+- Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds: A classic work examining popular manias, irrational beliefs, and crowd psychology.
+
+- Don Tapscott and Alex Tapscott's Blockchain Revolution: The authors examine how blockchain technology could revolutionize various industries and enable new business models and social structures.  
+
+- Clayton Christensen’s The Innovator’s Solution: Christensen develops his theory of disruptive innovation and how companies can respond.  
+
+- Binyamin Appelbaum, “Is Bitcoin a Waste of Electricity, or Something Worse?”: Appelbaum argues that the massive energy usage required for Bitcoin mining constitutes an environmental problem.
+
+- Nick Tredennick and Paul Wu, “Transaction Security Begins With Chip Level Identity”: The authors propose a system using integrated circuit chips to provide security and identity verification for blockchain transactions.  
+
+- Leemon Baird’s "The Swirlds Hashgraph Consensus Algorithm": Baird proposes an alternative distributed consensus algorithm to enable fast, secure, and fair transactions on blockchains and distributed ledgers.
+
+- Leemon Baird, Mance Harmon, and Paul Madsen's “Hedera: A Governing Council & Public Hashgraph Network: The authors propose Hedera, a public network using hashgraph distributed consensus to enable secure and fast transactions.
+
+- Jaron Lanier’s Dawn of the New Everything: Lanier examines virtual reality, artificial intelligence, social media, and how technology is shaping the human experience.
+
+ Here is a summary of the sources:
+
+Books: 
+
+- The sources include books on topics such as Bitcoin and blockchain, the history of money, technology companies like Google, information theory, algorithms, and more. Some of the authors are Andreas Antonopoulos, Jeremy Rifkin, Nathaniel Popper, Steven Levy, and Don Tapscott.
+
+Academic papers:
+
+- The sources include papers from Charles Sanders Peirce, a logician and philosopher, on topics like chance, logic, and philosophy. There are also papers on blockchain, digital advertising, and computing. 
+
+News articles:
+
+- The sources include news articles from publications such as The New York Times, The Wall Street Journal, Wired, and Coindesk. The articles are on topics such as Bitcoin, blockchain, tech companies, and more. Some of the authors are Marc Andreessen, Gordon Bell, and George Gilder.
+
+Speeches:
+
+- The sources include speeches from people such as Manuel F. Ayau, co-founder of Universidad Francisco Marroquín.
+
+The sources span a range of topics related to technology, money, information, philosophy, and more. The materials include academic works as well as news articles and other publications. The authors come from various fields such as technology, business, academia, and journalism.
+
+ Here are summaries of the requested sources:
+
+Levy, Steven. “Inside Deep Dreams: How Google Made Its Computers Go Crazy”, Wired, Dec. 11, 2015. This article explores how Google created algorithms that generate strange images by amplifying patterns in images. 
+
+Lewis, Nathan K. “The Gold Standard and the Myth about Money Growth,” Forbes.com, February 16, 2012. This article argues that the money supply does not directly determine inflation and that the gold standard is not necessary for price stability.
+
+Lieber, Franz. “Appointment in Tomorrow,” Galaxy Science Fiction, July 1951. This short science fiction story tells of a man who wakes up in a collapsed building in the year 2162 after being in suspended animation for 211 years. He struggles to adapt to the futuristic world he finds himself in.
+
+Nelson, Jude and Muneeb Ali, Ryan Shea, Michael J. Freedman. “Extending Existing Blockchains with Virtualchain,” Workshop on Distributed Cryptocurrencies and Consensus Ledgers, Chicago, IL, July 2016. This paper proposes a method for linking separate blockchains through a two-way peg, allowing assets to be transferred between them.  
+
+O’Hagan, Andrew. “The Satoshi Affair,” London Review of Books, Vol. 38, number 13, June 30, 2016 and The Secret Life: Three True Stories of the Digital Age. These works investigate Craig Wright's claim to be Satoshi Nakamoto, the creator of Bitcoin. O'Hagan concludes Wright's claim is likely false.
+
+Rabiner, Lawrence. “Hidden Markov Models”, Proceedings of the IEEE, February 1989. This paper provides an overview of Hidden Markov Models, a statistical modeling technique used for temporal pattern recognition and machine learning.
+
+Roberts, Jeff John and Adam Lashinsky, “Hacked: How companies fight back,” Fortune, June 22, 2017. This article examines how companies are increasing their cybersecurity measures in response to data breaches and hacks.
+
+Shannon, Claude Elwood. “A Mathematical Theory of Communications” in The Bell System Technical Journal, October 1948. This seminal paper established the field of information theory by developing concepts like entropy and channel capacity. It has had a huge influence on telecommunications and computing.
+
+Tredennick, Nick and Brion Shimamoto, “Embedded Systems and the Microprocessor,” Microprocessor Report (Cahners) April 24, 2000. This article provides an overview of embedded systems, microprocessors designed to function within a larger system or device. It examines various types of embedded systems and their components.
+
+Von Hilgers, Philipp and Amy Langville. “The Five Greatest Applications of Markov Chains”, Proceedings of the Markov Anniversary Meeting. Boson Press, 2006. This paper identifies five significant applications of Markov chains: Google's PageRank algorithm, speech recognition, computational biology, queueing theory, and image processing.
+
+ Here is a summary of the references in alphabetical order:
+
+Aizenberg, Joshua, 15						
+Anthropic, PBC, 184–86, 198–200, 203–4, 209–11 				
+Apple, 22, 26, 34, 54–56, 63, 65–66, 71, 93, 112, 179, 181, 234
+Arthur C. Clarke Center for Human Imagination, 208
+Asimov, Isaac, 3, 101
+B
+Barsalou, Lawrence, 71
+Bear Stearns, 109–10
+Bezos, Jeff, 71, 140, 152, 184, 191, 274
+Bitcoin, 124, 129, 134–37, 139–40, 142–43, 149–52, 154, 159, 168, 244, 255, 264
+BlackBerry, 112
+Black Monday, 83
+Blockchain, 124, 129, 134, 136–37, 139, 149–52, 168, 255, 264
+Bloomberg, Michael, 194
+Bostrom, Anders, 107 					
+Boston Globe, 275 
+
+Brin, David, 66, 93, 97
+BTC Studios, 159
+Bureau of Labor Statistics, US, 41
+Bush, Vannevar, 17, 77

@@ -1,0 +1,1123 @@
+ 
+
+• The author wrote Experimentation Matters in 2003 to highlight the potential 
+of new digital tools to transform business experimentation and innovation.
+
+• Some of the author’s predictions from that book have come true. For example, 
+Apple’s App Store has enabled millions of software experiments and generated 
+billions in revenue. Manufacturers now widely use simulation and prototyping tools.
+
+• However, the author did not fully anticipate how companies like Google, 
+Amazon, and Booking.com would come to rely on large-scale experimentation to 
+optimize customer experience and business models. This realization prompted the 
+author to revisit the topic by writing Experimentation Works.
+
+• The new book examines how controlled experiments have become essential for
+driving innovation and business growth, especially online. It explores how 
+companies can build an “experimentation organization” with the right tools, 
+culture, and management practices.
+
+• In summary, the preface explains why the author revisited the topic of business 
+experimentation: to explore how leading companies have deployed it at scale to 
+support digital innovation and gain competitive advantage. The book aims to help 
+other organizations follow their lead.
+
+ 
+
+- The book discusses how business experimentation has revolutionized the 
+way companies operate and make decisions. The author saw parallels 
+between the growth of experimentation in business and in R&D. Tools,
+processes, and cultures of experimentation have unlocked potential for 
+innovation. By 2003, some companies realized they had to fully embrace 
+experimentation to stay competitive.
+
+- The author argues that business experimentation is important for all 
+companies, not just tech companies. All companies now interact with 
+customers digitally. The principles of experimentation apply broadly. And 
+“software is eating the world,” so even hardware companies rely heavily on 
+software. Software practices have changed dramatically, with continuous 
+experimentation and testing.
+
+- The book is coming out 400 years after Francis Bacon articulated the 
+scientific method. The scientific method has had an enormous impact, and 
+experiments have powered it. The author has studied business 
+experimentation for 25+ years. Companies need to invest in “experimentation 
+works”—the systems, tools, principles, values, and behaviors—to enable 
+managers to act scientifically, quickly, precisely, and at large scale.
+
+- An example: In 2012, a small experiment at Microsoft’s Bing found that a 
+small change could increase revenue by $100M per year. The original idea 
+was dismissed, but an experiment showed its worth. This shows how hard it 
+is to evaluate ideas, and how experiments can help.
+
+- The book discusses building an “experimentation organization” where 
+experimentation infuses thinking at all levels. Some companies run 10,000+ 
+experiments per year, engaging millions of users. An “everything is a test” 
+mentality can boost performance. It takes years to build the infrastructure 
+and culture, but tools now make it possible for all companies. Combining 
+software and experimentation creates learning organizations. But it requires 
+building a culture, processes, and management that contradict typical values.
+
+- Examples: Booking.com staff run 1,000+ tests per day. IBM scaled from 
+100 to 3,000 tests and from 14 to 2,130 employees involved from 2015 to 
+2018. Even non-tech companies like Walmart, Dow Jones, and Petco now do 
+experiments. Industrial R&D also relies more on modeling, simulation, and 
+live prototypes.
+
+  
+
+Business experimentation is the practice of systematically testing ideas and hypotheses to gain insights that inform decision making. Companies that embrace continuous experimentation are able to rapidly test ideas and hypotheses, learn from the results, and adapt accordingly.
+
+Key characteristics of business experimentation include:
+
+•Iterative testing of hypotheses: Companies generate testable hypotheses, conduct controlled experiments to test them, analyze the results, and then revise hypotheses as needed. This cycle is repeated frequently.
+
+•Use of digital tools: Advancements in digital technologies have enabled companies to perform experimentation cycles swiftly and inexpensively. Companies can test ideas at a large scale and get fast feedback.
+
+•Focus on learning: The goal of experimentation is not success or failure of any given experiment but rather generating useful insights that help in decision making. Even failed experiments provide information to build on.
+
+•Disciplined approach: Effective business experimentation follows a standardized methodology. It is not random “trial and error.” Companies isolate variables, establish cause and effect, and aim for reliability and validity.
+
+•Challenging assumptions: Business experimentation helps companies determine whether their intuitions and assumptions about customers, products, business models, etc. are correct. Many experiments are designed specifically to test assumptions.
+
+•Accelerating innovation: Business experimentation speeds up learning and helps companies gain insights to develop new products, services, business models, and customer experiences. It supports ongoing incremental improvements as well as disruptive innovation.
+
+•Overcoming uncertainty: Business experimentation reduces uncertainty by helping to determine what customers want, how they will respond, what will and won’t work, and why. It provides evidence to support decision making.
+
+•Improving resource allocation: By gaining insights into what customers value, business experimentation helps companies determine where to direct their resources for the greatest impact. Resources can be allocated to the ideas and initiatives most likely to succeed.
+
+In summary, business experimentation is a systematic approach to gaining actionable insights through controlled testing. It challenges assumptions, accelerates learning, reduces uncertainty, and helps companies make better decisions and deploy resources more strategically. With the use of digital tools, companies today can experiment at a scale and speed not previously possible. Business experimentation is a critical capability for innovation in the 21st century.
+
+ Here are the key elements needed to create trust in an organization:
+
+• Understand cause and effect. Conduct well-designed experiments that establish clear relationships between independent and dependent variables. Correlations are not enough; determine actual causality.
+
+• Maximize the value of experiments. Ensure experiments are designed to gain the most learning possible. Use techniques like value engineering to optimize the return on investment from experiments. 
+
+• Have evidence-based decision making. Ensure organizational decisions are truly driven by the results of experiments, not assumptions or habits. 
+
+• Invest in large-scale experimentation. Build the infrastructure and systems to conduct experiments at a large scale and high velocity. This includes resources, technology, and staff.
+
+• Organize for experimentation. Define success metrics, formulate hypotheses, and coordinate experiments across the organization. Success won't happen spontaneously.
+
+• Build trust in the "system." Even when experiments provide clear results, some people will be skeptical. Work to build confidence in the experimentation program and address reasons for doubt or mistrust.
+
+• Communicate results clearly. Make it easy for others to understand experiments, results, and implications. Simplicity and rigor are both crucial.
+
+• Foster an experimentation culture. Develop a culture where experimentation is actively encouraged through leadership support, a learning mindset, tolerating "failure," and integrity. Distinguish between experiment "failures" and mistakes.
+
+• Address barriers. Counter arguments and attitudes that discourage experimentation, like the belief that intuition trumps data or that big data eliminates the need to understand causality. 
+
+• Continually improve. Like any capability, experimentation requires ongoing refinement and advancement. Combining experimentation with AI and big data will open up more opportunities.
+
+• Follow a process. While empowering individuals to experiment, establish a coherent end-to-end process for generating, testing, and analyzing hypotheses. Coordinate and sequence experiments.
+
+ 
+
+Most managers lack sufficient data or experience to make informed innovation decisions. They rely too much on intuition, even though most ideas fail. It is easier to predict costs than customer reactions, so managers often prefer cost-cutting to growth initiatives involving customers. 
+
+Companies can discover if a change will succeed by experimenting. Pharmaceutical companies conduct extensive clinical trials before releasing new drugs. Companies should do the same before introducing new business models. Had J.C. Penney done rigorous experiments, it might have found its proposed changes would fail.
+
+Google, Microsoft, and others find most experiments fail. But Google’s ability to test at huge scale gives it an advantage. Yahoo couldn’t match Google’s “ferocious experimentation,” its system of continuous improvement. 
+
+Innovation requires experimentation in labs, teams, and organizations.  The goal is to learn what does and doesn’t work. Scientists and engineers have long used experiments to advance knowledge. In business, experiments led to Post-it Notes, among other discoveries. Post-it inventor Spencer Silver said “the key...was doing the experiment.” It took years and many failed market tests before 3M found the solution.
+
+Failure and invention are “inseparable twins.” Most inventions emerge from trial-and-error, “learning from failures.” Thomas Edison’s light bulb succeeded after many attempts. Breakthroughs often follow failures that prepare the experimenter. Amazon’s Jeff Bezos says “If you already know it’s going to work, it’s not an experiment.”
+
+Effective experiments generate knowledge from both success and failure. Knowledge guides new experiments and is archived for the future. Design firm IDEO keeps a “Tech Box” of old experiments to inspire new ones. Failure is inevitable, so the key is learning from it.
+
+In summary, experimentation is key to innovation and learning in organizations. Most ideas fail, so we must try many to find what works. We can then build on successes, and failures, through further disciplined experimentation.
+
+ 
+
+- Projects at IDEO, an innovation and design firm, are inspired by a “Tech Box” that contains a variety of materials, objects and gadgets from previous successful and failed experiments. The Tech Box suggests that innovation requires tools and materials that are hard to anticipate, so having a large collection of possibilities at hand enables more successful experimentation. 
+
+- Thomas Edison also believed in having a large “scrap heap” of materials, equipment and apparatus from past experiments available. The larger the scrap heap, the more possibilities for inspiring new solutions. Edison said “Results? Why, man, I have gotten lots of results! I know several thousand that won’t work.” Experimentation inevitably involves failures as well as successes.
+
+- Companies struggle with innovation because the uncertainty it involves conflicts with a focus on predictable results. Uncertainty takes different forms: R&D uncertainty relates to technical solutions, scale-up uncertainty relates to producing at high volume, customer uncertainty relates to changing or hard to determine customer needs, and market uncertainty relates to disruptive innovations in new markets. Data and experience have limitations in addressing these uncertainties. 
+
+- Disciplined business experimentation is needed to complement data analytics and experience. Successful innovators “plan to fail early and inexpensively in the search for the market for a disruptive technology. They found that their markets generally coalesced through an iterative process of trial, learning, and trial again.”
+
+- Digital tools have enabled faster, cheaper experimentation. Thomas Edison pioneered principles of experimentation organization and rigor that remain relevant today. His “invention factories” took a systematic, practical approach to theorizing, deducing and testing through experimentation. Despite the importance of experimentation, it has traditionally been costly and time-consuming, limiting how much companies do. New tools are overcoming these barriers.
+
+- In summary, business experimentation is critical for innovation success in the face of uncertainty. An experimentation mindset, infrastructure, and modern tools can help companies achieve the volume and speed of experimentation required today.
+
+ 
+
+The process of business experimentation typically begins by generating one or more testable hypotheses. These hypotheses are then tested and analyzed yielding insights and learning. The outcomes are used to revise ideas and make progress. Team New Zealand followed this process in developing their winning yacht for the 1995 America's Cup.
+
+In the first phase, existing data and observations are reviewed, new ideas are generated, and hypotheses are formulated. The hypotheses need to be testable and measurable. For Team NZ, the hypotheses focused on designing a light boat with little drag while also being structurally strong. 
+
+In the second phase, disciplined experiments are conducted to test the hypotheses. Team NZ used scale models in wind tunnels and towing tanks. They also used computer-aided design and simulation which allowed many prototype tests and iterations.
+
+In the third phase, the results are analyzed to gain meaningful insights. For Team NZ, the hull shape and keel were focused on. The hull defined the architecture so changes could lead to big performance gains or failures. The keel could be incrementally optimized leading to speed gains.
+
+The key lessons are: 1) Start with hypotheses that can be tested. 2) Run disciplined experiments. 3) Analyze and learn from the results. 4) Iterate and improve based on the learning.
+
+Team New Zealand showed how this process of experimentation and learning through incremental changes can drive innovation. Their success has lessons for organizations in dynamic, complex environments. Digital tools are enabling low-cost experimentation for many companies to test changes in products, processes, customer experiences, and business models.
+
+ 
+
+The hypothesis-generation phase involved brainstorming different design ideas that could improve the boat's performance. These ideas formed testable hypotheses.
+
+In the experimentation phase, models are built to test the hypotheses. Models can be physical, virtual, simulations, mock-ups, or role-plays. Team New Zealand used wind tunnels, towing tanks, and computer simulations to test hypotheses. While useful, these lower-fidelity models may fail to detect some errors. 
+
+In the insight phase, the results are analyzed and compared to expectations. Strong evidence can reject a null hypothesis (no relationship), weak evidence fails to. Teams can learn from the results and iterate, adjusting the experiment or hypothesis. Team New Zealand iterated over 20 prototypes. Computer simulation allowed for faster iteration.
+
+To enable fast experimentation, start with low-fidelity models, then increase fidelity. Team New Zealand used simulations and scale models, then tested the full boat. Lower-fidelity models are cheaper but may miss errors. Simulations optimize designs, but require human input on parameters. Despite simulations, Team New Zealand still tested in towing tanks.
+
+Two types of errors from low-fidelity models are false positives (over-designing)  and false negatives (missing key insights). The Challenger disaster showed the risks of false negatives. Good experimentation balances speed and fidelity to limit errors.
+
+Team New Zealand combined simulations, towing tanks, and real boat tests to enable fast learning while reducing errors. Digital tools need human guidance on hypotheses and parameters. Real-world tests validated only 1/3 of simulation suggestions but were still critical. Iteration over multiple prototypes led to major performance gains.
+
+ 
+
+Models of increasing fidelity:
+- Low-cost models (e.g., paper prototypes, online experiments): Fast 
+feedback, support concurrent experiments. Enable sequential 
+experiments where learnings from one iteration inform the next.
+- Physical prototypes: Higher cost but provide realistic feedback. 
+Generally run sequentially.
+- Full-scale prototypes: Most expensive but highest fidelity. Generally 
+only feasible to run sequentially.
+
+Main points:
+1. Leverage cheap experiments: Use low-cost models whenever possible to 
+enable fast feedback and high experimentation capacity. This supports 
+both sequential and concurrent experiments.
+2. Focus on fast feedback: Rapid feedback accelerates learning and 
+maintains momentum. Co-locate resources and enable 24-hour iteration 
+cycles. 
+3. Add experimentation capacity: Innovation processes require excess 
+capacity to handle variability. Small capacity increases can dramatically 
+improve feedback times. Establish "strategic slack."
+4. Run concurrent experiments: Where possible, run many experiments at 
+once, especially for low-cost models. Follow a pre-determined plan and 
+then analyze results collectively. Hundreds of concurrent experiments are
+ common for leading tech companies.
+
+In summary, effective experimentation requires using the simplest, 
+fastest models possible, excess capacity, rapid feedback loops, and 
+running as many experiments concurrently as practical. This combination 
+accelerates learning and innovation.
+
+ 
+
+To maximize learning, companies run many experiments in a short period of time, often thousands per year. Building multiple prototypes in each iteration speeds up testing and helps identify the most promising designs. However, concurrent experiments proceed faster but sacrifice potential learning between iterations, often requiring more tests overall. 
+
+Between 1993 and 1994, Team New Zealand built and tested 14 scaled prototype yachts across 3 iterations. Because each prototype took 2 months to build and test, there was little time for sequential learning between prototypes. Instead, testing multiple prototypes per iteration enabled faster testing and dropping of poorer designs.
+
+Experiments involving small variable changes often yield incremental performance improvements, while larger changes can facilitate wider search and more radical improvements. Small improvements at high velocity can accumulate into large gains. Team New Zealand shifted to high-velocity incremental changes, testing modifications every 24 hours and gaining performance improvements about a third of the time. This rapid cycle increased the team's agility and ability to quickly improve good ideas and kill bad ones. 
+
+Excessive variables or uncontrolled factors, known as "noise," inhibit learning by obscuring cause and effect relationships. Control groups address noise by providing a baseline for comparison. Team New Zealand built two similar yachts to minimize noise, testing modifications on one yacht against the unmodified control yacht. This costly strategy maximized learning in the months before competition.
+
+Disciplined experimentation, managing operational drivers like controlling noise and high-velocity incremental changes, gave Team New Zealand a competitive advantage. Nature reveals answers to the specific questions we pose through experiment, but not necessarily what we want to know or at the speed we desire without tight experimentation practices.
+
+ 
+
+- Business experiments have become critical to how Amazon makes decisions. Jeff Bezos believes experiments lead to invention and outsized returns. 
+- Companies should conduct experiments to answer specific questions that cannot be resolved through discussion alone.
+- Before running an experiment, companies should have a clear hypothesis to test. The hypothesis represents what they want to learn and measure. 
+- Experiments can only disprove hypotheses, not prove them. A hypothesis is accepted if repeated experiments fail to reject it. 
+- For Kohl’s, the hypothesis was that opening stores an hour later would not significantly reduce sales. The experiment failed to reject that hypothesis.
+- Questions companies should ask before and during an experiment include: Do we have a testable hypothesis? Do stakeholders accept the results? Is the experiment doable? How do we ensure reliable results? Do we understand cause and effect? Did we maximize learning? Do experiments really drive our decisions?
+- Controlled experiments expose subsets of customers to different variants (including the current approach) to determine the effects of changes. 
+- Statistically significant results show a difference that is unlikely due to chance. Insignificant results don’t prove no impact, just that the sample or observed impact was too small to determine an effect.
+
+The key message is that rigorous, controlled experiments are essential for learning and better decision making. But companies must follow certain principles to run good experiments, especially formulating clear hypotheses and adhering to proper scientific methods.
+
+ 
+
+- Good hypotheses specify independent and dependent variables that can be tested to yield measurable outcomes. Vague hypotheses are hard to support or reject. 
+- Lord Kelvin said that knowledge requires measurement and numbers. Management science aims to build knowledge through testable explanations and predictions.
+- Good hypotheses often come from analyzing customer insights and data. Experiments reveal actual behavior, which can differ from what people say they will do. 
+- Executives should consider ancillary effects, not just direct effects. Experiments helped Family Dollar and Wawa avoid costly mistakes.
+- Stakeholders must commit to acting on the results of an experiment, not just cherry-picking data that supports their views. They must be willing to walk away if the data does not support an initiative. 
+- Kohl's example shows experiments are needed when powerful people back an initiative. There may be reasons to proceed despite negative results, but call it a rollout, not an experiment.
+- Processes are needed to ensure results are not ignored. Publix requires experiments and analysis to approve projects. Petco focuses experiments on innovative ideas aligned with strategy.
+- Experiments must have testable predictions, but business environments are complex, making cause-and-effect hard to determine. Many factors affect outcomes. 
+- A hypothetical example shows the challenges of determining whether changing a store name would boost sales. Isolating the effect of one variable is difficult. More data and analysis are needed.
+
+ 
+
+The effect of the name change on stores is hard to determine because many other factors may have influenced sales at the same time, such as weather, management changes, new businesses opening nearby, or competitor promotions. To isolate the effect of a single variable, companies need a large enough sample size to average out the effects of other factors. However, large experiments are not always feasible due to cost or operational disruptions. 
+
+Companies can use several methods to increase the reliability of results when ideal experiments are not possible:
+
+Randomized field trials: Randomly divide a large group into test and control groups to determine if a change causes improvement. For example, Capital One tests different envelope colors or retention offers on random customers. Randomization helps avoid bias, but experiments must be conducted rigorously. It’s easy for managers to make mistakes like choosing non-random test and control groups.
+
+Blind tests: Don’t tell participants they are in an experiment to avoid the Hawthorne effect, where people change their behavior because they know they are being studied. For example, Petco runs experiments without telling stores, and Publix frequently changes prices so experiments blend in. Blinding isn’t always practical, e.g. when testing new equipment. 
+
+Big data: Use large data sets and advanced analytics to determine relationships even with small sample sizes. For example, a retailer tested a store redesign in 20 stores but got conflicting results from finance and marketing teams. By analyzing transaction-level data, attributes, and the surrounding area over time, they determined the marketing team’s forecast of a 5% sales increase was more accurate. Big data can provide insights even when sample sizes are small.
+
+In summary, there are several ways companies can improve the reliability of experiments when ideal large-scale randomized controlled trials are not feasible. Using techniques like blinding, robust analytics, and integrating multiple data sources can help determine true cause-and-effect relationships even under non-ideal conditions.
+
+ 
+
+• Business experiments ideally require large sample sizes to identify cause-and-effect relationships and filter out statistical noise. But large samples are not always possible or feasible.
+
+• In these cases, big data and machine learning techniques can help. They can be used to:
+
+1. Build a detailed profile of each unit of analysis (e.g. each store, salesperson, customer) to determine the right sample size and match test and control groups. 
+
+2. Correctly match test subjects to control subjects by identifying many characteristics of each. This allows determining if results were due to the tested element or other factors.
+
+3. Identify situations where the tested program is most effective so it can be targeted, avoiding less effective implementations.
+
+4. Analyze which specific components of a program are more or less effective. This can inform refinements.
+
+• Replication, retesting the experiment, is the best way to verify results but is often impractical. Staged rollouts or tracking rollout results can also help confirm findings.
+
+• Correlation does not prove causation. Observational studies find associations but experiments are needed to establish causal relationships.
+
+• The levels of understanding causality are:
+
+1. Association: Finding correlations. Analytics and big data can identify associations. 
+
+2. Intervention: Changing variables and observing outcome changes. Experiments do this.
+
+3. Counterfactuals: Determining if an outcome would have occurred without an intervention. This is the strongest test of causality but can be difficult. 
+
+• Claims that big data and correlation alone are sufficient or that the scientific method is obsolete are mistaken. Controlled experiments are still needed to prove causality.
+
+• Examples show how observational studies can be misleading. Unmeasured variables or attributes of study subjects can drive associations, not the factors being studied. Controlled experiments are required.
+
+ 
+
+- Controlled experiments are the gold standard for determining cause and effect and proving that interventions are effective. Observational studies are prone to bias and confounding factors, so their conclusions should be viewed skeptically. 
+
+- Understanding why an intervention works (the causal mechanism) can be important, especially when the stakes are high. Not knowing the causal mechanism can lead to implementing interventions incorrectly or wasting resources. However, we don't always need to know the why to benefit from knowledge of what works. Experiments at Microsoft and Petco showed performance improvements without a clear theory for why.
+
+- To get the most value from experiments, companies should focus investments on areas where the potential benefits are highest. They can do targeted rollouts to stores most similar to test stores with the best results. They can also do value engineering to determine which components of an intervention provide benefits in excess of costs.
+
+- Careful analysis of experimental data can provide insight into operations, test assumptions, and uncover causal relationships. Without this, companies have a fragmented understanding of their business and decisions can backfire. An example is Cracker Barrel, which initially found that LED lights decreased customer traffic. Further analysis found that store managers had previously been adding extra lighting, so the new LED policy actually made stores seem dimmer.
+
+- Not all decisions can or should be made through experiments. Acquisitions, market entry, and other big strategic moves are better left to judgment and analysis. However, where experiments are possible and useful, they can drive decision making and debate. Netflix has built infrastructure for large-scale experimentation, which fueled debate over using an image of only one star in a promotional campaign.
+
+In summary, experiments are a powerful tool for gaining insight and making better decisions, but they must be designed, analyzed, and applied carefully to provide maximum value. Not all questions can be answered through experiments, but where they can, organizations will benefit.
+
+ Here’s a summary:
+
+- Netflix chose to use images of Jane Fonda in its interface even though customer data didn’t support the decision. However, by running an experiment, Netflix made the trade-offs and decision process transparent.  
+
+- When companies make data-driven decisions, they should ensure the validity of results by considering sample sizes, control groups, randomization, and other factors. Valid, repeatable results will hold up better against internal resistance. Hierarchy and presentations are not substitutes for experimental evidence.
+
+- Bank of America studied waiting times in branches and found that after 3 minutes, the gap between actual and perceived wait time increased a lot. An experiment adding TV monitors (TZM) decreased estimated wait times and increased customer satisfaction. Although the TZM cost $22K per branch, the benefit in increased revenue was estimated at $28K per year for a branch with 10K households.
+
+- Experimentation helps companies make better decisions and avoid mistakes. If J.C. Penney had tested changes before implementing them, disaster may have been avoided. 
+
+- Many top tech companies run thousands of controlled experiments annually to evaluate new ideas. An "experiment with everything" approach has major benefits. For example, Bing's experiments have increased revenue per search 10-25% each year.
+
+- Sky UK, a British telecom, subjects all website changes to experiments. 70% of customers participate in ~100 tests/month. Experiments are split between web experiences and algorithms/databases. Sky wants all employees to design and run experiments. Experimentation has decreased calls 16% and increased satisfaction 8%. It promotes good ideas over hierarchy.
+
+ 
+
+• Online experiments should be standard practice for companies to 
+assess ideas and make data-driven decisions. Success online is hard 
+to predict and varies by context. Experiments transform guessing into 
+a scientific process.
+
+• Companies should test all decisions that can be tested. A/B tests 
+compare a control (A) to a treatment (B) by randomly assigning users. 
+Tests can evaluate features, interfaces, algorithms, business models,  etc.
+Booking.com does over 1,000 A/B tests a day.
+
+• Experiments provide large sample sizes, automated data collection, 
+and low cost. Companies can iterate quickly and learn fast. Bing tests 
+80% of changes. Tests showed Bing that 100 milliseconds faster 
+loading speed increases revenue by $18 million per year.
+
+• Some decisions can’t or shouldn’t be tested due to obvious outcomes, 
+feasibility, ethics, or little practical value. Parachute tests aren’t needed.  
+External validity, or generalizability, also matters.
+
+• Small changes often have big impacts online due to scale. Managers 
+assume big investments mean big impacts, but many small improvements 
+cumulatively matter more. Occasionally, small changes lead to big returns.
+
+• An example: Opening a new browser tab instead of using the same tab 
+when Hotmail users clicked a link increased engagement by 0.5%—a $12 
+million annual impact. Small changes can significantly impact key metrics.
+
+• Tests provide evidence to convince skeptics. Frontline staff deeply understand  
+customer experiences and should suggest ideas to test. An evidence-based culture 
+values experimentation.
+
+The key message is that rigorous online experimentation is key to success and 
+optimizing customer experiences. Small changes and an experimental mindset can 
+lead to big benefits. But tests must be designed, conducted, and interpreted properly.
+
+ 
+
+- Microsoft experimented with opening links in new tabs, which increased Hotmail user clicks by 8.9% and MSN search clicks by 5%. This simple change was rolled out globally and adopted by other companies. 
+- Small changes, when scaled, can have big impacts. Hundreds of 1% improvements can accumulate over time. Incremental innovation has driven most economic growth. 
+- There is a balance between incremental improvement and breakthrough innovation. Incremental change drove 95% of LEGO’s growth after near bankruptcy. Medicine also benefits from incremental progress. 
+- Large-scale experimentation systems are needed to test many small ideas. Most ideas fail, so large volumes of experiments are required. Only 10-20% of Google/Bing experiments succeed. One-third of Microsoft’s experiments have positive results.  
+- Obama’s 2008 campaign used a small-scale experiment to increase website donations by $60M. They tested 24 combinations on 300K visitors and found images outperformed video. Testing then became integral to the campaign.
+- Microsoft’s large-scale experimentation team runs hundreds of controlled experiments daily on various products, exposing hundreds of thousands to tens of millions of users to each test. Around 2011, virtually unlimited testing capacity led to experiment growth limited only by the ability to generate hypotheses.
+
+So in summary, incremental innovation through experimentation at scale has been crucial to progress. Small changes can accumulate into large impacts. While balancing breakthrough innovation, large companies have built sophisticated systems to rigorously test many ideas, accepting high failure rates to find successes. Both the Obama campaign and Microsoft have demonstrated how small-scale testing sparked major benefits from scaling experimentation.
+
+ Here's a summary:
+- Companies have three main ways to organize experimentation teams: centralized, decentralized, or center of excellence. 
+- A centralized model uses a dedicated team to run all experiments. Advantages are focus and coordination, but disadvantages are lack of domain knowledge and conflicting priorities.
+- A decentralized model embeds teams in business units. Advantages are domain expertise, but disadvantages are lack of coordination, knowledge sharing, and career paths. 
+- A center of excellence combines central and decentralized elements. A central team builds tools and spreads best practices, while decentralized teams have domain knowledge. Disadvantages are lack of clarity on responsibilities.
+- MoneySuperMarket initially had a centralized model but switched to decentralized with a third-party tool. This increased scale and ownership, accelerating cycles from weeks to hours. Challenges included control and incrementalism, addressed by metrics and volume.
+- Defining the right success metrics, or overall evaluation criteria (OEC), is critical but hard. It requires balancing short- and long-term goals, input from leaders and analysts, and adjustment. 
+- Bing's key goals are query share and revenue. They chose an OEC to minimize queries per task and maximize tasks per session. Component metrics provide insight into why ideas succeed. Metrics evolve with experience.
+
+ 
+
+- There are over six thousand metrics that companies can use to evaluate experiments. Third-party tools provide default metrics but also allow companies to define their own. 
+
+- It is critical to build trust in the experimentation system. This includes validating the system, setting up safeguards, and replicating surprising results. Gap Inc. had to rebuild trust in its system to get business groups on board with experiments.
+
+- To build trust, it is important that employees understand the results and statistics. Managers often misinterpret results by, for example, wrongly concluding a 5% p-value means there is only a 5% chance the result is due to chance. The correct calculation requires using Bayesian statistics and prior information.
+
+- High-quality data is essential for trustworthy results. This includes removing outliers, fixing data collection errors, and accounting for bots and automated traffic.
+
+- Surprising or counterintuitive results should be replicated to confirm they are valid before making changes. As Fisher said, a result should only be considered established if multiple, well-designed experiments find it.
+
+- A low p-value alone does not mean an effect is real or that a change should be made. Additional context and replication is required.
+
+ 
+
+• Experiments can yield incorrect or misleading results if some groups of users experience much stronger or weaker effects than others. This is known as heterogeneous treatment effects. It can happen if there is a bug that affects only some users or if certain segments respond very differently. Tools and analysts should detect these issues. 
+
+• Reusing the same control and treatment groups across experiments can lead to carryover effects, where people's experience in one test impacts their behavior in another. Companies should assign users to different groups for each new experiment.
+
+• The percentages of users in the control and treatment groups should match the design. Deviations can bias the results. Even small mismatches, like 50.2% vs 49.8%, have a very low probability of occurring by chance and should be investigated.
+
+• Keep experiments simple. Complex designs with many variables are hard to interpret, more prone to bugs, and less useful for learning. They also increase the risk of getting bogged down testing minutiae rather than bigger ideas. Simplicity is key. 
+
+• Building the capability to run large-scale experiments does not mean every tiny decision needs to be tested. The most useful experiments are often simple ones that provide clear insights. 
+
+• Preliminary analysis of over 20,000 experiments from 1,342 companies found:
+› Most were simple A/B tests. 
+› Median duration was 3 weeks but average was over 4 weeks, suggesting poor practices and lack of standards in some companies.
+› High-tech companies achieved the largest lifts.
+› About 20% achieved statistical significance, split evenly between positive and negative. 
+› On average, variations outperformed the baseline, showing that experimentation works.
+
+• An example shows how Bing used an experiment to resolve disagreement over whether to enlarge their ads. The test found larger ads increased click-through rates without hurting satisfaction, allowing them to make the change.
+
+ 
+
+The company ran an experiment reducing the number of ads shown on a page but increasing their size. This led to an unexpected $50 million annual increase in revenue without hurting the user experience. The surprise insight from this experiment highlights the value of experimentation.
+
+For companies to build a culture of experimentation, they need:
+
+1. A learning mindset: Accept that most experiments will fail and view failures as learning opportunities rather than wasted time. Fail early and often. Surprises should be savored as insights that can be optimized. 
+
+2. Consistent rewards: Reward experimentation and learning, not just outcomes. This encourages risk taking and learning from failures.
+
+3. Intellectual humility: Accept that you don’t have all the answers and be open to surprising insights. Question assumptions.
+
+4. Integrity: Carefully design and execute experiments to produce valid, actionable results. Don’t declare failures unless experiments were poorly designed.
+
+5. Trust in tools: Leverage software tools to make experimentation easy, fast, and cheap. This enables a high volume of experiments.
+
+6. Appreciation for exploration: Value open-ended experimentation and tinkering, not just testing hypotheses. This fuels creativity.
+
+7. New leadership model: Leaders should encourage experimentation, help set priorities, provide resources, and mentor. They don’t necessarily have the answers but enable discovery.
+
+Building an experimentation culture requires overcoming the tendency to focus on efficiency, predictability, and short-term gains. With the right mindset and tools, companies can turn themselves into learning laboratories, generating insights that drive innovation.
+
+ 
+
+- The solution to encouraging experimentation and surprises in organizations is to build a culture that actively values them, even though their financial value can be hard to quantify. Appreciating and seeking out surprises should be an objective in itself. Creating such a culture requires more than just lowering the cost of action; it also means elevating the benefits of experimentation. 
+
+- An overemphasis on winning and short-term gains can discourage experimentation. Managers need to recognize that losses from experiments can enable long-term gains. Employees who are willing to work on more challenging, risky tasks that could fail tend to persevere, engage in more complex work, and perform better. However, learning from failure is difficult to manage since it can damage self-esteem and reputation. Promoting experimentation requires distinguishing between failures that generate useful information and mistakes that produce little value.
+
+- An organization's culture and attitudes need to fundamentally shift to support experimentation. This includes creating contradictory structures that both promote failures and reduce mistakes. Successful innovation requires pursuing both incremental and discontinuous change, which demands this kind of ambidexterity.
+
+- Two studies found that lower-status individuals experiment more when values, rewards, and status give a consistent message that encourages learning from failure without penalty. Mixed messages, like promoting experimentation while punishing failure, reduce performance and experimentation. In contrast, higher-status individuals experiment more even with mixed messages, being less affected by inconsistent interventions.
+
+- The second study looked at the adoption of a new clinical information system in a health care organization. Since usage was voluntary, individuals' willingness to experiment with the system was important. The system integrated data from across the organization to provide up-to-date information to staff, improving on previous separate and incomplete systems.
+
+ 
+
+The researchers surveyed 688 individuals from various occupations across a large healthcare organization that included hospitals, healthcare centers and outpatient clinics. The survey gauged respondents’ willingness to try new technologies, how much they actually used certain system features, and their problem-solving approaches. Physicians were at the top of the occupational hierarchy, followed by medical students, nurses, allied healthcare staff and administrative staff. 
+
+The findings were similar to an earlier laboratory study. Individuals were more willing to experiment with the system when managers explicitly encouraged experimentation and imposed no penalties for failure. Inconsistent messages led to less experimentation, especially for lower-status individuals who faced higher costs for failure. For example, medical students were reluctant to show lack of familiarity with the system. In contrast, established physicians were more willing to experiment even with mixed messages.
+
+Learning through experimentation and failure led to better performance and integration of the new technology. The most proficient users were those who experimented the most. They also reported using their time more efficiently with patients.
+
+When teams have the dual objectives of daily work and experimentation, incentives can become misaligned. For example, Bank of America introduced “life laboratories”— fully functioning branches dedicated to continuous experimentation. Initially, they used a conventional incentive scheme where 30-50% of sales associates’ pay was performance-based bonuses. However, as associates spent more time on training and experimentation, they felt disadvantaged by earning fewer bonus points while still having to meet quotas. 
+
+Management then switched to fixed incentives for “laboratory” branches. While associates appreciated the commitment to experimentation, some lost motivation. Resentment also grew among staff in regular branches. After six months, management reverted to the old incentive scheme. Tensions between earning bonuses and experimenting returned, and some staff questioned management’s commitment to innovation. The 10% failure rate was lower than the target, indicating reluctance to take risks.
+
+The experience showed that balancing operation and experimentation requires an incentive system that addresses the inherent conflict. 
+
+Disconfirming beliefs through experiments is unnatural and stressful. The “Semmelweis reflex” is the knee-jerk rejection of experimental findings that contradict existing beliefs or intuitions. For example, a technical support manager angrily rejected experiment results showing his company’s metrics improved with less customer information—the findings contradicted his experience. Organizations conducting large-scale experimentation must frequently disconfirm beliefs, risking going past the “breaking point”.
+
+Rigorous experimentation with testable predictions can overcome biases, even without a fully articulated theory of cause and effect. Semmelweis showed hand washing reduced childbed fever deaths but lacked a theory and was rejected. His findings were accepted only after Pasteur established the bacterial cause.
+
+ 
+
+- Experiments should be replicated to confirm the results and strengthen the evidence. This helps overcome human biases and intuitions. 
+- Management needs to drive the organization through the process of experimentation and acceptance of results.
+
+- Subtle biases can creep into experiments. Studies of acupuncture found it effective in Asia but not in the West, suggesting cultural biases. Transparency and access to data can help address biases.
+
+- It can be difficult for organizations to accept experimental results that contradict entrenched interests and beliefs. This is the "Semmelweis reflex." Acceptance is a step-by-step process.
+
+- "HiPPOs" (highest-paid person's opinions) and hubris can lead managers to push bad ideas and resist contradictory evidence. Intellectual humility, saying "I don't know," is important.
+
+- Humans tend to see connections and meaning where there are none. This leads to errors in identifying causal relationships and in predicting outcomes. Incentives can make this worse.
+
+- Francis Bacon identified human biases, like seeing relationships where there are none and confirmation bias, as obstacles to gaining new knowledge. Experiments "put nature to the question."
+
+- Facebook ran an experiment to see if emotional states could spread on social networks by manipulating users' News Feeds. About 310,000 unwitting users participated. The experiment showed emotions spread online.
+
+- The experiment raised ethical concerns, as users did not consent. But it also showed how experiments at scale on platforms can reveal insights into human psychology and behavior. Regulations and ethics guidelines are still developing.
+
+- Integrity in experiments means anticipating and addressing ethical issues. This includes informed consent, avoiding harm, and weighing risks and benefits. Review boards can help, but new frontiers like social platforms require ongoing discussion.
+
+ 
+
+Facebook conducted an experiment in 2012 where they manipulated the News Feeds of 689,000 users. Some users saw fewer emotional posts in their News Feed. The researchers found evidence of emotional contagion through social networks. The public reacted angrily to this experiment, seeing it as manipulative and harmful. Facebook apologized and instituted stricter review procedures for experiments. 
+
+Companies face a higher ethical bar when running experiments. People tend to focus more scrutiny on active experiments rather than the status quo, even if the status quo is ineffective. This is known as the A/B illusion. Facebook may have fallen victim to this illusion and could have better managed public perceptions. Leading experimenting companies provide ethical guidelines and case studies to help employees make good decisions.
+
+New tools like modeling and simulation have enabled cheaper, faster experimentation. But companies often fail to take full advantage of these tools because employees don’t trust the results. Employees want to verify results with physical prototypes, which can increase costs. For tools to be effective, people and organizations must trust and use them.
+
+The productivity paradox refers to the fact that companies don’t seem to gain productivity from investments in technology. A study found little correlation between IT intensity and productivity gains across sectors. However, in sectors with productivity gains, fundamental business changes aided by technology, not technology alone, drove the gains. IT needs to be integrated into new business practices and processes to yield benefits.
+
+In summary, running experiments at scale raises ethical issues that companies must carefully manage. New tools promise better, faster experimentation but require organizational trust and adaptation to be effective. Technology alone does not necessarily lead to productivity or innovation gains; it must be combined with business model and process changes.
+
+ 
+
+- According to studies, IT and technology alone do not drive higher productivity and innovation. They need to enable new managerial approaches and more efficient organization of work.
+
+- Experimentation tools also require balancing human involvement and automation. Effectively using tools for experimentation is challenging and requires organizational learning.  
+
+- Balancing exploration and exploitation is key to building an experimentation culture. This tension challenges senior management to allow failure and unpredictability while also achieving efficiency and standardization. Thomas Edison struggled with this balance as he tried to commercialize his inventions. Other companies today struggle with increasing efficiency inhibiting exploration. Leaders need to encourage “wandering.”
+
+- ams AG, an Austrian semiconductor company, implemented initiatives to encourage experimentation. They had employees propose experiments with learning objectives, approved many, and did not account for the costs. They published the results and gave bonuses for the best experiments. This helped them continue innovating during an economic downturn.
+
+- Companies need to invest in experimentation and avoid being too frugal, or their innovation pipeline will dry up. 3M’s CEO increased R&D spending and reduced Six Sigma's grip to allow for more disorderly invention. Innovation cannot be scheduled or highly efficient.
+
+- Senior leaders need to embrace a new leadership model that reduces hierarchy and encourages experimentation. The most creative ideas come from lower levels, but often stall in gaining approval. Intuit’s co-founder works to make it easier to run experiments by pre-approving certain tests and focusing on experiment results, not PowerPoints, in decision making.
+
+- In summary, building an experimentation culture requires balancing human and technology factors, exploring and exploiting, leadership that reduces obstacles to experimentation, and senior executives that embrace a new role focused on enabling broad-scale testing.
+
+ 
+
+The key points are:
+
+1. Leaders play an important role in building a culture of experimentation. Their job is to:
+
+- Set a grand challenge or vision 
+- Put in place systems, resources and organizational designs that enable large-scale experimentation
+- Role model the behavior by subjecting their own ideas to testing
+- Pay close attention to the attributes of an experimentation culture
+
+2. At Expedia, the CEO led a cultural revolution to embed experimentation. It took years to transform the culture and scale the scientific method across the company. Some key steps were:
+
+- Telling top executives they don’t get to decide exactly what the website will look like because of their title 
+- Adopting “Let’s test it” and “Test and learn” as the corporate ethos
+- Ensuring ideas and hypotheses from any level had an equal chance of being tested
+- Providing training in the scientific method and lean experimentation techniques
+
+3. Challenges of running experiments at large scale include:
+
+- Teams can get too incremental and short-term, focusing on what’s easy to measure 
+- Management pressure for successful experiments can increase false positives 
+- Need to balance short-term optimization with bigger, longer-term risks 
+- Qualitative insights and understanding customer motivations, not just experiments, are important for learning
+
+4. Formula 1 teams are adept at large-scale experimentation, making 30,000 design changes per year. Success requires:
+
+- Integrating experimentation into the organization 
+- Rigorous testing using simulation, wind tunnels, driving simulators and on-track 
+- Learning to get more value from each test due to regulatory limits on testing
+- A team that is focused on continuous improvement through experimentation
+
+In summary, building an experimentation culture and organization is key to success and innovation in today's world. But it requires significant investment and leadership to achieve.
+
+ 
+
+- Vers, Lotus F1’s test drivers, provided feedback to engineers on how design changes impacted the car’s performance. This feedback led to more experiments and learning to optimize the car. Lotus’ CEO said their simulator allowed them to test part changes and get driver feedback to understand the driver experience, since on-track testing was limited. 
+
+- To compete, teams needed to master high-velocity learning. While small-scale testing strains organizations little, the scale that leaders like Amazon, Microsoft and Google use provides competitive benefits. But increased scale brings new challenges, questioning how companies manage, make decisions and govern.
+
+- Booking.com, a travel website, made experiments integral to decision making and success. Employees were selected for an experimentation mindset: innovative, fast decisions, fearless, sharing failures. Booking connected travelers to 1.6 million places to stay, with 1.5 million room nights booked daily. Revenue came from 15% commissions on non-canceled rooms.
+
+- Booking’s model let it scale fast without a payment infrastructure. Hotels managed inventory. Booking made it easy for hotels to join and list rooms. Booking helped hotels run their business with analytics. Booking offered alternative accommodations too, and in-destination experiences.
+
+- Booking’s focus was optimizing customer experiences. Its website was in 43 languages. A third of 15,000 employees were in Amsterdam, with others in Israel, Shanghai and call centers. Revenue was $12.7B in 2017, up 18%. About 70-80% was from Booking. 
+
+- Controlled experiments, especially A/B tests, were how Booking improved experiences.  They tested new features, landing page changes, back-end changes, business models. Failure was ok if it sped up improvement. Evidence-based, customer-centric development used experiments. Customers decided where to take the website. A/B tests compared a control (champion) to a modification (challenger) to optimize metrics like sales, repeat use, click-throughs. Deciding a winner required agreeing on key metrics and statistical significance. Scale let Booking run 1,000+ tests concurrently.
+
+ 
+
+- Booking.com’s key performance indicator (KPI) is booking per day (BPD) which measures short-term conversion. However, they also track post-booking metrics to identify long-term issues. About 80% of staff focus on improving conversion. 
+
+- Booking does not trust intuition or assumptions. They have found that their predictions of customer behavior are wrong 90% of the time. They have failed many experiments based on intuition, e.g. adding a walkability score, packaging hotel offers, or adding a chat line. They follow what customers want based on experiments and rapid prototyping.
+
+- Booking gets insights into customer behavior from:
+1) An in-house user experience (UX) lab with 45 researchers who do surveys, usability tests, street testing, and home visits. 
+2) A 24/7 customer service department in 43 languages that provides feedback to developers. Booking invests heavily in customer service.
+
+- Booking sees itself as having a “growth flywheel” where improving the customer experience leads to higher conversion, which leads to higher marketing ROI and traffic, which attracts more partners, which provides a better experience. Growth builds on itself. 
+
+- Booking runs over 1000 concurrent experiments across all products and areas. About 80% are on the core booking experience. Two customers are unlikely to see the same version. Everything from redesigns to bug fixes is tested. 
+
+- Booking has built an in-house experimentation platform with a dedicated team of 7 to enable autonomous experimentation. There are also 5 satellite support teams in product departments and other areas like partners and customer service. The support teams provide help, prepare reports, and improve tools and metrics, but aim to enable autonomy.
+
+ 
+
+- Booking’s experimentation platform was designed to make experimentation accessible to everyone in the company. It offered a central repository of past experiments, standard templates, and automated processes. It fostered trust in the data and enabled discussion. 
+
+- About 75% of Booking’s 1,800 tech and product employees actively used the experimentation platform. New employees received training on the scientific method, experiments, statistics, ethics, etc. A peer-review program and Experimentation Ambassadors provided additional support.
+
+- Booking was organized into four departments: products, partner services, customer service, and core infrastructure. The structure was relatively flat with decisions pushed down. Employees were in multidisciplinary teams of 6-8 people, including product owners, engineers, designers, researchers, etc. Anyone could launch an experiment, though most came from teams.
+
+- Teams were encouraged to run many experiments. On average, 9 out of 10 failed, but failure was seen as useful for learning. Experiments were assessed as significant, moderate, moderately awful or just awful. Minor improvements, even 1%, were quickly implemented. Teams could quickly make decisions and roll out changes to millions of users. 
+
+- New employees were given autonomy quickly. As long as an experiment had evidence it may improve something, employees were trusted to try it. But experiments still had to follow the company's values, legal requirements, and fair practices.
+
+- The culture valued being data-driven, customer-centric, innovative, transparent, pragmatic, and having a growth mindset. Employees were expected to be curious, open-minded, and willing to be proven wrong.
+
+That covers the key highlights related to Booking’s experimentation platform, organizational design, culture, and values. Please let me know if you would like me to explain or summarize anything in more detail.
+
+ 
+
+- Booking.com gives employees a high degree of autonomy and freedom to run experiments on the website to optimize the user experience. Teams can test different versions of the website (called variants) on millions of users daily to see which one performs better based on metrics like conversion rates.
+
+- This autonomy comes with risks, like teams accidentally breaking part of the website or not being able to determine the right direction for their work. But employees are encouraged to debate issues and stop problematic experiments. 
+
+- One controversial issue was the use of persuasive messaging, like “only 3 rooms left,” to get customers to book. While these messages were effective at improving conversion, some saw them as misleading. Senior leadership encouraged open debates about these practices.
+
+- Teams get ideas for experiments from talking to users, using the site themselves, past tests, research, and customer service feedback. They have to start each test with a falsifiable hypothesis that specifies the problem, metrics, and business impact. A template helps teams develop good hypotheses.
+
+- To run an experiment, teams fill out a standard electronic form that includes details like the purpose, metrics, number of variants, and minimum run time (usually 2 weeks). The experiment platform automatically splits traffic and analyzes the results. A p-value of 0.10 or less indicates a successful test. Shorter or longer run times are allowed in some cases.
+
+- In summary, Booking.com has built a very data-driven culture of experimentation and given teams the freedom and tools to rapidly test and optimize the site. But they also emphasize the importance of debating the ethics of new practices, thinking critically about the metrics and methods used, and maintaining high standards for experimentation.
+
+ 
+
+- Booking.com randomly assigns users into control and variant groups to conduct experiments. Randomization helps prevent systemic bias and spreads unknown confounding factors evenly between groups.
+
+- Teams coordinate experiments to avoid too much overlap or interaction. However, Booking does not formally limit the number of concurrent experiments. Teams can informally agree to sequence experiments but don't have to. 
+
+- Teams monitor new experiments closely at first and can stop them early if metrics drop quickly. Although not ideal methodologically, this is done to avoid commercial harm. Automated systems also monitor for data issues and warn teams.
+
+- All experiments and results are visible to Booking employees. Teams share lessons from problematic experiments.  Daily digests of all experiments help employees stay informed and provide opportunities for discussion.
+
+- Partner experiments face more challenges, like smaller sample sizes, complex decision making, and frequent interaction. Metrics are debated, and Booking is upfront with partners about experiments. Reactions are mixed, but some partners appreciate the changes.
+
+- Booking's leadership model suits an experimentation culture. Leaders set strategic goals but give employees autonomy to test ideas and determine the best path forward. The CEO's role is coaching, culture, and talent; making others successful enables company success. 
+
+- Senior management ensures people don't experiment for its own sake. A/B tests are best for incremental innovation. Radical experiments are harder but push for more exploration. An experimentation focus can reduce ability to think big or do qualitative research. New products may be harder without original product knowledge.
+
+- Booking's platform isn't ideal for limited radical experiments. Everything runs at large scale, so small tests of very new ideas are hard. But new opportunities in the industry could become future threats if not invested in.
+
+ 
+
+- A live environment refers to running experiments with real users in the actual product interface. This allows companies to test ideas with a large volume of users and transactions, but also introduces risks if something goes wrong. 
+- Companies like Booking.com and LinkedIn have built the infrastructure and culture to support frequent experimentation at scale. This includes:
+
+1. Leadership support: The CEO and executives fully embrace experimentation and are willing to be proven wrong. They give teams autonomy to test ideas.
+
+2. Infrastructure: The companies have built platforms, tools, and processes to make it easy for anyone to run experiments. This includes automating experiment setup, measurement, and analysis. 
+
+3. Culture: Experimentation is deeply ingrained in the culture. Employees are encouraged to constantly question assumptions and test hypotheses. Failure is seen as a learning opportunity, not something to avoid. 
+
+4. Start small and scale: The companies began with small-scale testing initiatives and improved their capabilities over time. They invested in speed, methodology, and complexity to expand the scope of experiments. 
+
+5. Standardization: Work is standardized so experiments can be run swiftly. Problem-solving follows a scientific method with rigorous assessment of the current state and experimental tests of proposed changes. 
+
+6. Community of scientists: All employees apply an experimental mindset to their work. Frontline workers are empowered to identify problems and test solutions, not just follow orders. Knowledge is shared across the organization.
+
+7. Continuous improvement: The companies are on a constant journey to improve their experimentation operations. They expand the types of experiments run, improve tools and processes, increase speed and scale, and push the boundaries of methodology. Experimentation never stops.
+
+- Other companies, even in very different industries, can follow a similar path to become an "experimentation organization." The key is understanding that experimentation needs to be approached scientifically and scaled over time through continuous progress. With the right infrastructure, culture, and standardization in place, any company can build a "community of scientists" and achieve meaningful results through frequent testing.
+
+ 
+
+The journey to becoming an experimentation organization requires building a system for experimentation. This is not an overnight process but requires gradual development of capabilities and tools. At the core, companies need trustworthy tools to drive down the cost of experiments. But tools alone are not enough. Companies also need to invest in seven system levers:
+
+1. Process levers: Scale (running many experiments), Scope (experimenting broadly), Speed (quickly designing and launching experiments) 
+2. Management levers: Standards (for how to experiment), Support (resources and leadership support for experimentation)
+3. Cultural levers: Shared values (e.g. tolerance for failure), Skills (e.g. understanding statistics and engineering)
+
+These levers reinforce each other. For example, without a tolerance for failure (shared value), an organization can’t run many experiments (scale). Without the right skills, experimentation won’t spread broadly (scope).
+
+The case studies of State Farm and Netflix show the journey to becoming an experimentation organization. At first, State Farm could only run 1-2 simple experiments per month. By improving their tools and process, scope, speed, and sharing results more broadly, they increased to 10-15 experiments per week. Cultural change came as experiments led to surprising insights. At Netflix, CEO Reed Hastings championed experimentation from the beginning. They started with simple tests, built tools and skills over time, and created a culture where “disagreeing with evidence” was unacceptable.  
+
+In summary, building an experimentation organization is a transformative journey that requires investment in tools, process, management, and culture. With the right system in place, experimentation can become an everyday operating system for continuous innovation.
+
+ 
+
+- The company ran hundreds of experiments per month and aimed to increase that number to fifty in 2019. To achieve this, the company had to continue addressing shared values, skills, and infrastructure support. 
+
+- Before embarking on this journey, most businesses didn’t understand why they should experiment. Through education, demonstrations, and short readouts in regular business meetings, the business value of large-scale testing is now recognized by senior leadership. The CEO wanted to accelerate the pace of experimentation.
+
+- However, challenges remain. Only the central testing team has the skills to configure and interpret complex experiments and address technical issues. Not everyone understands what a good hypothesis and experiment entail, and some are still anxious about how it affects their work. A central knowledge repository containing screenshots, hypotheses, and analytics has helped. But as long as people lack skills and experience, the primary responsibility for testing will remain with the four-member core team. 
+
+- Pinterest's experimentation journey can be divided into five periods:
+
+1. Get started: The company adopted an experimentation framework but few used it. 
+
+2. Get big: The experimentation team had to evangelize and educate to sell the framework.
+
+3. Get better: As adoption grew, the core team became a bottleneck. Helping others left little time to improve capabilities.
+
+4. Get out: Standardized processes and training were developed to remove the bottleneck. 
+
+5. Get tools: Automation streamlined experimentation work.
+
+- Scaling experimentation requires senior management support. Pinterest’s management became supportive after experiments found problems during a major product launch. The culture changed as management expected data from experiments to guide important decisions.
+
+- Most companies find installing an experimentation tool easy but changing the organization challenging. The ABCDE framework describes five stages of management involvement in experimentation:
+
+1. Awareness: Management knows experiments matter but lacks a rigorous process, framework or tools. Knowledge comes from experience and intuition. 
+
+2. Belief: Management accepts a disciplined approach is needed. It is adopted in small groups. Impact on decisions is small. Experimentation seen as peripheral.
+
+3. Commitment: Management pledges to make experimentation core to learning and decisions. More resources provided. Some innovation and product decisions require experiment input. Positive impact can be measured.
+
+4. Diffusion: Management realizes large-scale testing drives business impact. Formal programs and standards rolled out. Scientific method spread. Broad access to training and case studies. Managers consider experiments instrumental to goals.
+
+5. Embeddedness: Disciplined experimentation is deeply ingrained in the organization's DNA across units and functions.
+
+ 
+
+- The organization's experimentation capability is widespread and democratized. Teams and employees are empowered to design and run their own experiments. 
+- The experimentation tools are accessed by a large percentage of employees. 
+- Experimentation becomes routine and continuous, like "running the numbers." The organization's experimentation capabilities are continuously improving.
+
+- IBM started from a low base of only 97 experiments in 2015 but scaled to over 2,800 experiments in 3 years by overcoming cultural and integration challenges. 
+- The company shifted from a centralized, controlled approach to experimentation to a democratized one by empowering over 5,500 marketers worldwide to run their own experiments. 
+- IBM provided training, tools, funding, and support to enable teams to experiment. They encouraged experimentation through contests, rewards, policy changes, and emphasizing experimentation plans.
+- As IBM's experimentation capabilities matured, their experiments became more sophisticated, testing personalized customer experiences and bolder hypotheses. 
+- Democratizing experimentation at the large, global organization was challenging, and establishing an experimental mindset among employees remains an ongoing effort. But IBM was able to scale experimentation dramatically by empowering teams and providing the necessary support.
+
+ 
+
+- Middle managers, whose role involved translating executive direction into action, faced challenges in adapting to an experimental approach to management. Their traditional roles were disrupted by a new approach focused on real-time, data-driven decision making using experiments. 
+
+- Tools alone do not lead to successful innovation. How companies integrate people, processes, and tools is unique to each organization and shaped by its culture and habits. Adopting an experimental approach often requires disrupting existing practices.
+
+- Tools should not just be used as simple substitutes for existing processes. They should enable fundamentally rethinking and reorganizing innovation activities. For example, using data and models to enable tighter design margins and higher performance at lower cost. But this also requires new ways of working across groups.
+
+- Building trust in new tools and approaches takes time. The rate of change in tools often exceeds the rate at which people can adapt behaviors and knowledge. Seeing successful results from initial experiments helps build trust and support.
+
+- Minimizing organizational interfaces that can inhibit experimentation and iteration is important. Different approaches, e.g. centralized specialists vs. empowering engineers to do more simulation work themselves, have trade-offs that must be managed. Simpler tools that are transparent to engineers can help.
+
+- New tools open up opportunities to create value in new ways, e.g. by empowering customers and users to design, test and create solutions. This can fundamentally change how value is created and captured.
+
+In summary, becoming an experimental organization requires adapting tools, processes, and culture in an integrated fashion. This often means disrupting existing practices and roles, building trust in new approaches, minimizing barriers to experimentation, and finding new sources of value creation. But the challenges, especially around adapting middle management roles, should not be underestimated.
+
+ 
+
+-   According to a 2018 Forrester survey, many companies struggle to scale experimentation due to lack of executive support, resources, and integration with analytics. 
+-   The perversity thesis argues that any action to improve a system will backfire. The futility thesis holds that any effort to transform an organization is futile. The jeopardy thesis asserts that action, though beneficial, involves unacceptable risks. These theses are used to oppose progress.
+-   Myth 1: Experimentation kills intuition and judgment. But experiments and intuition need each other. Even experts are often wrong, so testing helps determine what works. Apple does experiments.
+-   Myth 2: Online experiments lead to incremental innovation, not breakthroughs. But many small changes can accumulate and cause breakthroughs. Big changes can fail or make it hard to determine the cause of results. Both incremental and radical experiments address uncertainty.
+-   Myth 3: Not enough hypotheses for large-scale experimentation. But hypotheses come from many sources, and the key is scaling experimentation, not just doing more experiments. Start with a few key sources and metrics, and scale from there.
+-   Myth 4: Customers don’t like to be experimented on. But customers expect optimization, and responsible experimentation aims to benefit them. Explain experiments and allow opt-outs. 
+-   Myth 5: Resource constraints prevent scaling experimentation. But start small by shifting a few resources, then use results to show value and get more resources. Outsource if needed. 
+-   Myth 6: There is too much uncertainty for business experiments. But business experiments help reduce uncertainty in a scientific manner. They provide actionable insights, not perfection. 
+-   Myth 7: It's unethical to run experiments on customers. But responsible experimentation aims to benefit customers, is transparent, allows opt-outs, and follows guidelines. Unethical actions can have legal consequences.
+
+The key lessons are: don't believe the myths, start experimenting at a small scale, show the value, and scale from there. Business experiments and intuition complement each other.  Responsible experimentation aims to benefit customers.
+
+ 
+
+Myth 1: Large-scale experimentation is only for companies with huge amounts of traffic and data. Smaller companies will barely benefit from experimentation. 
+
+Reality: Most companies start small with experimentation and scale up over time. Even running a few experiments a year can lead to significant benefits. Startups in particular benefit from experimentation to gain agility and reduce costs.
+
+Myth 2: Brick-and-mortar companies lack enough transactions to run experiments.
+
+Reality: Sample size depends on the expected effect size. Bigger, riskier experiments can work for smaller companies. Larger sample sizes don't always mean better data. Special algorithms and multiple data sets can help with small samples. Modestly rigorous exploratory experiments still have value. Many brick-and-mortar companies now have digital interactions where larger samples are possible.
+
+Myth 3: We tried A/B testing but it didn't have much impact. 
+
+Reality: Results are not always additive due to interaction effects. Expectations need to be managed. The benefits of experimentation are hard to calculate in a spreadsheet. Experimentation may be necessary for survival.
+
+Myth 4: Understanding causality is unnecessary in the age of big data. Why bother with experiments?
+
+Reality: Correlation is not causation. Experiments are needed to understand why things happen. Big data and experiments complement each other.
+
+Myth 5: Running experiments on customers without consent is always unethical. 
+
+Reality: Companies must behave lawfully and ethically, but the risks of business experiments are often overstated. Advance consent is not always practical. The benefits of experimentation need to be weighed against the costs. People seem overly concerned with the current practice of algorithmic changes by companies that do inform customers.
+
+ 
+
+The author argues that business experimentation is critical for innovation and keeping up with technological progress. Many companies are hesitant to experiment due to various myths and assumptions. However, not experimenting poses bigger risks. While experiments should be ethical, avoiding experimentation altogether hampers progress. 
+
+The author provides three reasons why large-scale experimentation will be crucial in the future:
+
+1. Customers will increasingly use mobile devices and AR/VR to interact with companies in complex ways. This requires experimentation to understand new customer experiences and value drivers. 
+
+2. Business analytics programs need controlled experiments, not just big data, to truly understand causation and innovate. Big data is limited since it looks backwards and lacks context. Experiments are needed, especially for novel ideas.
+
+3. AI and machine learning will enable new kinds of large-scale experiments. Algorithms may generate hypotheses, design and run experiments, and recommend actions. Closed-loop systems could even take actions autonomously based on experimental results. Some initial examples of this already exist, like in engineering design.
+
+While promising, increased automation of experimentation also raises important questions that companies must consider carefully. But on the whole, the future will require much more business experimentation at scale. Leaders should make developing an experimentation capability a high priority to keep up with progress.
+
+In summary, the key message is that business experimentation, especially at large scale, will be essential for innovation and tackling the opportunities of the future, like mobile, AI, and new customer experiences. Companies should invest in building their experimentation capabilities now to stay competitive. The future will move too quickly to rely solely on intuition and big data. Controlled experiments are needed to truly understand cause and effect.
+
+ 
+
+The key ideas are:
+1) Organizations need to adopt an experimental mindset and become "experimentation organizations" to succeed in an increasingly uncertain world. 
+2) Running experiments helps reduce uncertainty and leads to better decision making. Experiments provide concrete evidence rather than relying on intuition or past experience.
+3) Successful companies like Amazon, Google, 3M, and Team New Zealand use experimentation to drive innovation and gain a competitive advantage. They have a culture where experiments are encouraged and failure is tolerated. 
+4) Effective experimentation requires rigor and discipline. Companies need the right organizational structures, culture, incentives, and tools to run impactful experiments. 
+5) New technologies like machine learning and automation are enabling new forms of experimentation and will significantly expand the role of experiments in organizations. However, human judgment and oversight still remain critical.
+
+The main conclusions are:
+1) An experimental mindset focused on evidence-based decision making will be crucial for organizations adapting to a fast-changing world. 
+2) New tools and technologies are making experimentation more powerful and accessible but should augment rather than replace human judgment.
+3) For companies, developing a "culture of experimentation" and the capabilities to design and run rigorous, revealing experiments at scale will be a source of competitive advantage. But this requires work to put the right structures, systems, and incentives in place.
+
+ 
+
+Testing and experimentation should play an important role in product development. Building on the classic “build-test” model, Thomke added “run” and “analyze” steps to explicitly incorporate executing experiments and learning from them. Engineers often use specifications rather than optimization in design; Simon coined the term “satisfice” to describe solutions that satisfy requirements rather than optimize them. 
+
+Examples of failures turned into successes include Viagra, originally tested as a heart drug. Drivers of experimentation include curiosity, competitive pressures, and the desire to learn. Knowledge about the system and phenomena being studied increases through experimentation. Feedback is essential for learning. Queueing effects suggest experiments should be run in parallel when possible. The trade-off between parallel and sequential experimentation depends on the level of learning possible. Rapid experimentation allowed Team New Zealand to win the America's Cup.  Booking.com uses experimentation to optimize its website.
+
+Edison exemplifies learning through experimentation. Amazon deploys frequent business experiments, as indicated in Bezos’ shareholder letters. Business experiments should test nonobvious hypotheses. Einstein said “If we knew what it was we were doing, it would not be called research.” Hypotheses should be falsifiable. Thomson said science is measurement. Evidence from experiments should drive decision making.
+
+Some examples of business experiments include:
+
+- Booking.com optimizing its website through experimentation. 
+- Amazon acquiring Whole Foods to run retail experiments.
+- Rapid experimentation allowed Team New Zealand to win the America's Cup.
+
+Key steps in experimentation include:
+
+1. Build - Construct the experiment
+2. Run - Execute the experiment 
+3. Analyze - Learn from the results
+4. Test - Determine if the hypothesis is supported or not 
+
+Evidence from experiments should be used to make decisions, as advocated by thinkers like Popper. Nonobvious, falsifiable hypotheses should be tested.  Parallel experimentation accelerates learning but sequential experimentation may allow greater learning from each experiment. The level of learning possible determines the trade-off between parallel and sequential experimentation.
+
+In summary, testing and experimentation through the build-test cycle, along with explicit run and analyze steps, are key to product development and learning. Evidence from experiments should drive decision making. Key factors include parallel vs. sequential experimentation, level of learning, and falsifiable hypotheses. Examples show how companies benefit from business experimentation.
+
+ Here is a summary of the key points from the chapter:
+
+1. Online experimentation allows companies to test hypotheses about the customer experience at low cost and large scale. Companies like Microsoft, Netflix, and Booking.com run thousands of experiments per year to optimize their digital interfaces and offerings. 
+
+2. A/B testing is the most common form of online experimentation. It involves showing two or more variants of a page to different, randomly selected groups of users and then comparing metrics like click-through rates and conversion to determine which variant works best.
+
+3. For an experiment to be valid and yield actionable results, it needs to have a sufficiently large sample size, control for biases, and measure the right metrics. Sample size depends on the number of users needed to detect a meaningful effect. Controlling for biases means properly randomizing test groups and accounting for seasonal trends. Metrics should focus on customer behavior, not just opinions.
+
+4. Successful experimentation programs require leadership support, interdisciplinary teams, and an organizational culture where "testing and failing" is accepted. Experiments often yield surprises, so companies need to be open to having their assumptions challenged.
+
+5. A/B testing can help companies optimize all parts of the customer experience, including website layouts, product descriptions, email campaigns, pricing, recommendation algorithms, and more. Netflix found that the artwork and text describing movies and shows has a big impact on viewing. 
+
+6. Companies that make extensive use of controlled experiments, analytics, and behavioral data can develop a "test and learn" system for improving customer experiences in a continuous, data-driven fashion. But they must be wary of potential drawbacks like overtesting, spurious correlations, and lack of causal understanding. Strong analytics capabilities and human judgment are both needed.
+
+In summary, online experimentation using methods like A/B testing has emerged as a powerful tool for optimizing the customer experience, especially in digital channels. When wielded judiciously and tied to a strong, data-informed business strategy, it can drive major gains in key metrics like clicks, conversions, and sales. But it also requires investments in people and technology, and an experimental mindset, to be used effectively.
+
+ 
+
+Shorter delays in responding to customers can lead to monetary gains for a company. Management may decide to conduct more experiments, with the help of software engineers and testing tools, to improve response times.
+
+Management may decide to run more experiments on the server side, with the help of  software coders and a full-stack testing solution, to improve response time.  
+
+Corstjens, Carpenter, and Hasan found that companies can improve returns from R&D by making smaller, targeted investments instead of big bets. A study of consumer goods companies found that R&D spending did not correlate with sales revenue on average. However, some companies saw significant sales gains from targeted R&D spending.
+
+Successful experimentation requires a culture where 'intelligent failures' are valued. Intelligent failures are thoughtfully planned, modest in scale, responded to quickly, and happen in familiar enough domains to enable learning. An example is an experiment by the mobile game Air Patriots, where the surprising results defied expectations but still led to insights.
+
+MoneySuperMarket conducted over 10,000 experiments in 2018 to improve their online offerings. Their experimentation culture encourages taking risks and learning from failures. Teams start with many small experiments, see what works, and scale up successes. 
+
+At Gap Inc., a program of targeted experiments with clearly defined metrics has led to higher online sales from an increased conversion rate. They aim for "quick wins" to show impact and gain support.
+
+Obama's 2012 presidential campaign used an experiment to discover that a relatively minor webpage change could raise an additional $60 million in donations. They had a dedicated team to design and analyze controlled experiments.
+
+Booking.com has a very advanced experimentation program with a dedicated team of over 70 people. They run thousands of controlled experiments per year to improve customer experience and key business metrics. The culture celebrates learning, not being right or wrong.
+
+Key recommendations for establishing an experimentation culture:
+
+1) Focus on 'intelligent' failures and small bets. Celebrate experiments that yield insights, even if the results are not successful. Start with small experiments and scale up. 
+
+2) Define key performance metrics and track rigorously. Measure success based on learning and financial impact. Share results openly.
+
+3) Dedicate resources. Have a specialized team to design, execute, and analyze controlled experiments. Provide tools and training.
+
+4) Align incentives. Reward the learning and insights gained from experimentation, not just successful outcomes. Reduced uncertainty has business value.
+
+5) Foster risk-taking. Establish a 'safe-to-fail' culture where experimentation is expected. Do not punish unsuccessful experiments that were carried out properly. 
+
+6) Make experimentation integral to key processes. Integrate experimentation into product roadmaps, key projects, and new feature development. Do not treat it as a side activity.
+
+7) Stay vigilant. Continuously reinforce the importance of experimentation and guard against a culture where experience or authority drives decisions. Rely on evidence over opinions.
+
+In summary, building an experimentation culture requires leadership that provides the necessary vision, resources, incentives, and support system to make evidence-based decision making central to how the organization operates. When done well, such a culture fuels continual learning and growth.
+
+ Here is a summary of the key points from Jeff Bezos’ 2018 letter to Amazon shareholders:
+
+1. Failure and mistakes are different. Failure can lead to learning while mistakes arise from poor judgement. 
+2. Failures that generate information are valuable for innovation whereas failures that consume resources without benefit are not.
+3. Willingness to fail is key to innovation. Failing to try new things is the only real mistake. 
+4. Consistency is key to experimentation. The effects of inconsistency in experimentation are mixed. Consistency allows for learning while some inconsistency encourages diverse experimentation. 
+5. Beliefs and intuitions are shaped by evolution and experiences, not facts. We have a tendency to make false positive errors. 
+6. Controlled experiments are key to making data-driven decisions instead of relying on intuition. Intuition alone leads  to poor decisions. 
+7. Corporate experimentation should follow ethical guidelines to build trust. Unethical experiments erode trust and support.
+8. Digital tools enable fast, low-cost experimentation. But they do not directly lead to higher productivity. Productivity depends on organizational practices and investments to complement the tools.  
+9. A balance of exploration and exploitation is needed for innovation. Too much of either leads to poor performance. Experimentation enables exploration. 
+10. Past business leaders like Thomas Edison relied on experimentation. Edison said “I have not failed. I've just found 10,000 ways that won't work.”  Failure is part of experimentation.
+11. 3M's culture of autonomy and experimentation led to many successful innovations. Strict efficiency goals can hamper creativity. 
+12. Data-driven experimentation, not PowerPoint slides, should guide decision making. Relying only on correlations from data mining can be misleading. Experiments provide causality.
+13. Lotus F1 Team uses data and experiments to gain a competitive advantage. Digital tools provide data to guide experiments and decisions.
+14. Booking.com experiments to improve its online travel service. A culture of testing and metrics guides experimentation. But intuition still matters.
+
+The key takeaway is that experimentation enabled by digital technologies is key for innovation and gaining a competitive advantage. But it must be balanced with intuition and guided by ethical principles. A willingness to fail and learn from failure separates successful innovators. Strict efficiency goals and over-reliance on data mining alone can hamper creativity and lead to poor decisions.
+
+ 
+
+- Travelers book hotel rooms, flights, and rental cars through travel company websites or online travel agencies (OTAs) like Expedia and Booking.com. 
+- OTAs buy inventory from hotels and suppliers and allow customers to book on their sites. 
+- Travel review sites like TripAdvisor allow travelers to rate and review their experiences. They make money through ads.
+- The travel industry generated $630 billion in 2017, led by Expedia, Booking, Ctrip, and TripAdvisor. 
+- OTAs compete against direct suppliers and new entrants like Airbnb and Google. Google offers hotel search and flight search, allowing direct booking.
+- OTAs rely on Google for traffic so spend heavily on Google ads. Analysts think Amazon may enter the sector.
+
+- Experiments test ideas on a small scale to gain insights and make decisions. Booking.com ran many experiments to optimize its website. 
+- It tested adding walkability information to hotel listings and found it increased bookings, so rolled it out. 
+- Booking listens to customers through surveys, social media, call centers, and analyzing behavior on its site. It uses insights to develop experiments.
+- Effective experimentation requires infrastructure, tools, and a testing culture. It evolves with increased scale and sophistication. Mature programs have platform automation, many simultaneous experiments, and independent team ownership. 
+- Excellence comes from habit and practice. Mature experimenters see it as a norm and habit.
+
+- Critics argue experimentation lacks vision or ethics but evidence shows the benefits. Well-designed experiments respect privacy and ethics. 
+- Companies should do more complex experiments, not just A/B tests. Experiments should explore interactions and relationships, not just main effects.
+- startups that do more experiments raise more funding and have better performance. However, companies must consider both short-term impact and long-term strategy. 
+- Management must ask whether their organization has a culture of experimentation and learning. If not, it risks failing to adapt to changes like technology disruption.
+
+ 
+
+•Apple's A-series system on a chip (SoC) has seen huge performance improvements over the years. 
+•The A10 chip launched in 2016 doubled the performance of the A9 from 2015.
+•The A12 chip from 2018 has performance comparable to a supercomputer from the mid-1990s.
+•Progress in AI and machine learning has been built on greater computing power, large datasets, and algorithms like backpropagation that have been around for decades. 
+•Systems like IBM's Watson combine many AI techniques to analyze language, find evidence, generate hypotheses, and provide recommendations and forecasts in various domains.
+•Autonomous agents powered by AI are optimizing marketing campaigns by determining the best variables to adjust to maximize customer conversion.
+•While we have made a lot of progress in AI, systems today are still narrow in scope and are based on a few core techniques, though continued progress will likely lead to more general and capable systems.
+
+ Here is a summary of the references:
+
+-se 697-041 (1997): Harvard Business School case study on LEGO's turnaround through  
+innovation and A/B testing 
+
+-Ionnidis (2005): Highly cited clinical research studies are often contradicted by subsequent research.
+
+-Jaikumar & Bohm (1986): Conceptual framework for developing intelligent systems for industrial use.
+
+-Jesdanun (2017): News article on potential retail experiments from Amazon's acquisition of Whole Foods.
+
+-Kahneman (2011): Describes the human thinking processes of fast intuition and slow reasoning. 
+
+-Kaufman, Pitchforth & Vermeer (2017): Discusses how Booking.com uses online controlled experiments.
+
+-King, Churchill & Tan (2017): Guide to improving user experiences with A/B testing.
+
+-Knight (1963): Dissertation on the evolution of digital computers as a technological innovation.  
+
+-Kohavi et al. (2013, 2014, 2017): Discuss recommendations and best practices for conducting online controlled experiments.
+
+-Koning, Hasan & Chatterji (2018): Working paper examining the use of A/B testing and firm performance.
+
+-Kramer, Guillory & Hancock (2014): Experimental evidence of emotional contagion at large scale on social networks like Facebook.
+
+-Kuhn (1962): Describes the process of scientific revolutions and paradigm shifts.  
+
+-Landsberger (1959): Re-examination of the Hawthorne experiments and their conclusions.
+
+-Lazer et al. (2014): Warns of potential "big data hubris" and traps from big data analysis like Google Flu Trends.
+
+-Lee, Koh et al. (2004, 2001): Discuss the effects of inconsistency and parallel/ sequential testing on experimentation in organizations.  
+
+-Lehrer (2010): Discusses the "decline effect" where initially strong experimental results weaken over time.
+
+-Leonard-Barton (1995): Focuses on building and sustaining sources of innovation in organizations.  
+
+-Levinthal (2017): Applies principles of evolution to firm strategies and "Mendelian" recombination of traits.
+
+-Lewis & Rao (2015): Examine the economics of measuring advertising effectiveness and why many companies do not do so.  
+
+-Linden (2006): Blog post describing early recommendations and personalization features on Amazon.com.  
+
+-Lipson (2018): Presents developments in curious and creative machines, including experimentation.
+
+-Loch, Terwiesch & Thomke (2001): Compare parallel and sequential testing of design alternatives.  
+
+-Manzi (2012): Argues for the benefits of trial-and-error experimentation in business, policy and society.  
+
+-March (1991): Discusses the tensions between exploration and exploitation in organizational learning.  
+
+-Mattioli (2013): News article on the struggles of Ron Johnson as CEO of J.C. Penney.
+
+-Mayer-Schönberger & Cukier (2013): Provide an overview of the rise of big data and its implications.  
+
+-McCann (2010): News article on A/B testing at large retailers like Walmart, Macy's and PepsiCo.  
+
+-McCormick et al. (2018): Report examines how companies can improve their online testing programs.   
+
+-McGrath & MacMillan (2009): Present a process for "discovery-driven growth" with experimentation and rapid testing of new opportunities.  
+
+-McKinsey Global Institute (2002): Report on how IT enabled growth in the U.S. economy across several sectors in the 1990s.
+
+-Meyer (2018, 2015): Discusses ethical considerations with A/B testing and the benefits/limits of corporate experimentation.  
+
+-Meyer et al. (2019): Consider conditions where it may be unethical to experiment or compare two unobjectionable policies/treatments.  
+
+-Millard (1990): Biography of Thomas Edison focusing on his skill as an innovator and entrepreneur.  
+
+-Mintzberg (1994): Classic article on the cycles of strategic planning and emergence in organizations.  
+
+-Montgomery (1991): Overview of designing and analyzing experiments.  
+
+-Moon (2018): News article where Snap CEO Evan Spiegel admits their app redesign was rushed.
+
+-Narayandas, Margolis & Raffaelli (2017): Harvard Business School case study following the career of Ron Johnson, former head of retail operations at Apple and CEO of J.C. Penney.  
+
+-Nayak & Ketteringham (1997): Discuss whether 3M's Post-it Notes were the result of managed or accidental innovation.
+
+-Nonaka & Takeuchi (1995): Present their theory of organizational knowledge creation through experimentation and prototyping. 
+
+-Panyaarvudh (2017): Describes how Booking.com found a niche in the online travel market.  
+
+-Pearl & Mackenzie (2018): Overview of causal inference and do-calculus from a pioneer in artificial intelligence and statistics.
+
+-Petroski (1992): Discusses how failure influences successful design across fields like engineering.  
+
+-Phadke (1989): Presents concepts and tools for robust design through experimentation and quality engineering.  
+
+-Pieta (2016): Blog post on different ways Booking.com listens to customers through experimentation and user research.
+
+-Pisano (1997): Examines how companies develop new products and the "development factory" model.  
+
+-Polanyi (1958): Philosophical work that discusses tacit knowledge and personal knowledge that is hard to transfer.
+
+-Popper (1959): Presents the logic of scientific falsification and fallibilism where hypotheses can never be proven, only disproven.
+
+-Power (2017): News article on how Harley-Davidson used predictive analytics and experimentation to increase sales leads in New York.
+
+-Raimi (dir.) (2002): The Spider-Man film franchise that explores the themes of scientific experimentation and responsibility.  
+
+-Raffaelli, Margolis & Narayandas (2017): Video supplement to the Ron Johnson case study.
+
+-Ramachandran & Flint (2018): News article examining the competing interests of Hollywood and algorithms at Netflix.  
+
+-Reinertsen (1997): Focuses on managing product development and new product introduction.  
+
+-Ries (2011): Popular work that promotes experimentation, validated learning and agile development in entrepreneurship.  
+
+-Rivkin, Thomke & Beyersdorfer (2012): Harvard Business School case on LEGO's turnaround through innovation and experimentation.
+
+-Rosenbaum (2017): Overview of observing and experimenting to determine causal effects.  
+
+-Rubin (1974): Seminal paper on estimating causal effects from experiments and observational studies.  
+
+-Schmidt (2011): Testimony from Google's former CEO Eric Schmidt on the benefits of online experimentation.  
+
+-Schrage (2011, 2014): Argues for "cheap" experimentation and testing new ideas/hypotheses in innovation.
+
+-SEC Archives (2015, 2018): Letters from Jeff Bezos to Amazon shareholders discussing their culture of experimentation.  
+
+-Senge (1990): Promotes organizational learning through experimentation and "learning laboratories."
+
+-Shadish, Cook & Campbell (2001): Leading work on experimental and quasi-experimental designs for research.
+
+ Here is a summary of the references:
+
+annon and Weaver (1963) discussed communication theory and information.
+
+Shermer (2011) examined how beliefs are formed and reinforced. 
+
+Simon (1969) explored artificial systems and problem solving.
+
+Sinclair (1935/1994) described his unsuccessful campaign for governor of California.
+
+Siroker and Koomen (2015) outlined an approach to optimizing customer clicks through A/B testing. 
+
+Various authors examined experimentation practices, successes, challenges, and culture at Booking.com, a travel fare aggregator and booking site.
+Thomke (1998; 2003; 2018) explored managing product innovation through experimentation. He proposed models and strategies for business experimentation.
+
+von Hippel (1988; 2005) investigated how lead users and customers drive innovation.
+
+Weiss (2000) described Amazon’s brief experiment with random price changes that angered customers.
+
+Xu et al. (2014; 2015) discussed developing and managing an A/B testing platform at LinkedIn.
+
+Yeh et al. (2018) reported on a randomized controlled trial to determine the effectiveness of parachute use.
+
+Yoffie and Baldwin (2018) analyzed Apple's challenges and options in 2018.
+
+Zaltman (2003) proposed tools and techniques for understanding customer thinking.
+
+The references cover experimentation, innovation management, belief formation, artificial systems, and theories of communication and problem solving. Several present cases examining experimentation practices and culture within organizations.
+
+ Here is a summary of the key terms and concepts:
+
+• Data - Raw facts and statistics collected for analysis and decision making. Data comes from experiments, observations, surveys, etc. Data analysis and experimentation are essential for innovation. 
+
+• Experimentation - The process of testing hypotheses through controlled experiments. Experimentation is key to decision making, learning, and innovation.
+
+•High-velocity experimentation - Running many rapid experiments with tight feedback loops to accelerate learning.
+
+•Learning mindset - A willingness to learn from both successes and failures. Essential for building an experimentation culture.
+
+•Experimentation culture - An organizational culture that values experimentation, learning, and continuous improvement. Key attributes include learning mindset, trust, humility, and integrity.
+
+•Leadership - Critical for fostering an experimentation culture. Leaders should model the right behaviors, provide resources and incentives, and have a long-term vision.
+
+•Trust - Important for experimentation. Employees must trust that failures will not be punished and that tools/systems are fair and accurate. Leaders must trust employees to experiment.
+
+•Metrics - Ways to determine the impact of experiments. Success metrics are key, but should not be the only factor in decision making. 
+
+•Hypotheses - Possible explanations that are tested through experiments. Strong hypotheses are testable, specific, and impactful. Multiple hypotheses should be considered.
+
+•Results - The outcomes and findings from experiments. Results must be clearly understood and interpreted correctly to yield insights. Replication of results is important.
+
+•Tools - Digital tools and systems to help manage and scale experimentation. Tools can help generate ideas, design and run experiments, analyze data, and share insights. But tools alone do not create an experimentation culture.
+
+•Scale - The size and scope of experimentation. Large-scale experimentation, with the right hypotheses and systems, can yield powerful results. But start small and build up.
+
+•Learning  - The purpose of experimentation. Learning from both successes and failures to gain insights and make better decisions. Continuous learning is key for innovation.
+
+ Here is a summary of the key points:
+
+- The author has studied business experimentation for over 25 years and wrote this book based on research, interviews, and case studies with hundreds of companies and executives. 
+
+- The author's interest in experimentation was sparked by his doctoral adviser Eric von Hippel and other collaborators like Don Reinertsen, Jim Manzi, and Ronny Kohavi.
+
+- The author conducted fieldwork and interviews with many companies and executives over years to develop the concepts and case studies in the book. He gives special thanks to many who contributed, including executives from Booking.com, LinkedIn, Pinterest, and State Farm.
+
+- The author's colleagues and institution, Harvard Business School, supported his research. In particular, the Division of Research and Technology Operations Management unit, which focuses on experimentation, provided an intellectual home.
+
+- The author tested ideas, frameworks, and case studies with thousands of students in MBA, executive, and custom programs. Their feedback helped shape the book's content.
+
+- The author received feedback on an early draft from several reviewers, including executives and academics. This feedback helped improve the book. 
+
+- The author expresses deep gratitude for his family, especially his wife, Savita, for their unconditional support during the process of writing the book.
+
+- The author, Stefan Thomke, is a professor at Harvard Business School and an authority on innovation management. Before becoming a professor, he was an engineer and consultant at McKinsey & Company. He has worked with many global companies on innovation and operations.
+
+The summary covers the key highlights from the Acknowledgments section, including the origins of the author's interest in experimentation, the research and development process for the book, key contributors, and the author's background. Please let me know if you would like me to clarify or expand the summary in any way.
+
+ 
+
+- Stefan Thomke is a professor of business administration at Harvard Business School. 
+
+- He teaches in many executive education programs at HBS, including the Advanced Management Program (AMP) and Senior Executive Leadership Program (SELP).
+
+- He chairs HBS programs like the General Management Program (GMP) and Leading Product Innovation (LPI).
+
+- He has served as faculty chair of executive education in South Asia and the MBA required curriculum. He has won many teaching awards, including the Apgar Award at HBS.
+
+- His research focuses on business experimentation and innovation. He has published over 100 articles, cases, and notes in major journals. He has also written two books on innovation and product development.
+
+- He holds degrees in electrical engineering, operations research, management, and a PhD in engineering and management from MIT. He has received honorary degrees in economics and arts.
+
+- In summary, Stefan Thomke is an accomplished professor at HBS who teaches and researches business experimentation, innovation, and product development. He has led many important HBS programs and received widespread recognition for his work.
