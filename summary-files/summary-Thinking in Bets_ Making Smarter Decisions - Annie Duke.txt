@@ -1,0 +1,947 @@
+ Here's a summary of the copyright page:
+
+- The book Thinking in Bets was written by Annie Duke 
+- It was published in 2018 by Portfolio, an imprint of Penguin Random House
+- The publisher's address is 375 Hudson Street, New York, NY 10014
+- Copyright is held by Annie Duke
+- The publisher supports upholding copyright law and thanks readers for buying an official copy of the book
+- The book's Library of Congress information and ISBN numbers are provided
+- The subject of the book relates to decision making, problem solving, and strategic planning
+
+ 
+
+- After the Seahawks lost the Super Bowl in 2015, coach Pete Carroll was widely criticized for calling a pass play on second down instead of giving the ball to star running back Marshawn Lynch. The pass was intercepted, costing Seattle the game. 
+- However, some analysts argued the call was reasonable given the time left and the low likelihood of an interception. Carroll just got unlucky. 
+- We have a tendency to equate the quality of a decision with the quality of its outcome. This is known as "resulting" and it leads us to label choices as good or bad based only on whether they worked out. 
+- The CEO who fired his company's president viewed it as his worst decision of the year solely due to the poor outcome, even though the decision process was thorough. He succumbed to resulting and hindsight bias.
+- Our brains evolved to create a sense of order and control. We dislike attributing events to luck. This predisposes us to resulting, ignoring the role of chance.  
+- Numerous books explain the psychological reasons why we often make irrational judgments in our decision making. Two key factors are our discomfort with uncertainty and our tendency to make quick, instinctive judgments.  
+- To make better decisions, we must recognize the role of chance and separate decision quality from results. We should evaluate choices based on the process, not the outcome. And we should avoid quick judgments in favor of more reflective thinking.
+
+In summary, both Carroll and the CEO were subject to resulting, equating the results of their decisions with the decision quality. To improve our own judgments, we must make an effort to evaluate choices based on the decision process itself rather than outcomes, which are often due to factors outside our control. Uncertainty and luck play a larger role in life than we care to admit.
+
+ 
+
+- We have an innate desire for order and predictability. This helped our ancestors survive threats. But it can lead us to see connections and patterns that aren't really there.
+
+- We have two main ways of thinking: fast, automatic "reflexive" thinking, and slow, deliberate "deliberative" thinking. Our reflexive thinking, rooted in evolutionarily older parts of the brain, handles most of our everyday decisions. Our deliberative thinking, in the prefrontal cortex, is already overtaxed. We can't simply shift more decisions to our deliberative thinking. 
+
+- We need both systems, but our reliance on reflexive thinking can lead to poor decisions and closed-mindedness. We operate on habits and shortcuts, not deliberation. Just recognizing this isn't enough to overcome it.
+
+- Poker provides a useful model for harmonizing our two thinking systems. Poker players must make quick, high-stakes decisions, relying on reflexive thinking. But they must also learn and improve from the outcomes, using deliberative thinking. Success at poker requires balancing the two systems, executing deliberative intentions through reflexive decisions.
+
+- Talent matters less in poker than solving this problem of execution. Avoiding decision traps, thinking rationally about results, and controlling emotions are more important than innate ability. The most talented players still lose if they can't execute well.
+
+- In short, we have to work within the constraints of the brains we have. We can't fundamentally change them. But we can develop strategies, as poker players do, to reconcile our reflexive and deliberative minds—to get our quick, habitual thinking to carry out the intentions of our slower, contemplative thinking. This applies not just to poker but to life in general.
+
+ 
+
+John von Neumann was a pioneering scientist who made immense contributions to mathematics, physics, and decision theory. Despite his brilliance and profound influence, he is not widely known today outside of scientific circles. One of his most impactful achievements was developing game theory alongside Oskar Morgenstern. They published Theory of Games and Economic Behavior in 1944, which revolutionized economics and several other fields. 
+
+Von Neumann modeled game theory on poker, not chess. He saw poker as representing “real life” much more so than chess. Real-world decisions involve hidden information, uncertainty, risk, and deception - just like poker. In contrast, chess has no hidden information or luck. The pieces and positions are fully visible to both players. If you lose at chess, it's because you made inferior strategic choices that can be identified. Poker outcomes are much more influenced by chance. Even if you make optimal decisions, you can still lose due to the luck of the draw. This makes it hard to determine whether you played well or poorly based on the results alone.
+
+Life is more like poker than chess. Many of our most important decisions are made under conditions of uncertainty and imperfect information. Luck plays a significant role in outcomes. It can be difficult to assess the quality of our decisions based only on results. Outcomes that seem to prove we made a good choice could be due to luck, and poor outcomes could happen despite good decision making. We have to consider more than just wins and losses if we want to truly learn and improve. Poker provides a useful model for complex, imperfect information environments like life. By studying poker strategy, we can gain insights into better decision making when information is hidden or ambiguous.
+
+That's the key summary and highlights from the selected passage on John von Neumann, game theory, poker, and decision making. Let me know if you would like me to clarify or expand on any part of the summary.
+
+ 
+
+- Oskar Morgenstern, co-creator of game theory, understood 
+that the world is filled with uncertainty and imperfect information. 
+That's why he based game theory on poker. Making good decisions 
+starts with accepting uncertainty.
+
+- The scene from The Princess Bride where Vizzini has to choose which 
+wine goblet is poisoned demonstrates the problems of making decisions 
+with incomplete information. Although Vizzini was arrogant and thought 
+he could deduce the answer, he didn't have all the facts and died as a 
+result of choosing incorrectly.
+
+- When someone tells you a coin landed heads four times in a row, 
+it's hard to determine the likelihood of that without more information. 
+Four flips isn't enough data to determine if the coin is fair. We often 
+make this same mistake in life by trying to draw lessons from limited experiences.
+
+- It's important to get comfortable saying "I'm not sure." Although we're 
+discouraged from admitting uncertainty, it's a necessary first step to gaining 
+knowledge and making good decisions. Even experts can't be certain how things 
+will turn out. They can only make their best guesses based on their experience.
+
+- Good poker players and good decision makers understand that life is 
+uncertain. Rather than seeking certainty, they try to determine how 
+uncertain they are and assess the chances of different outcomes. Their 
+guesses will only be as good as the information they have, but accepting 
+uncertainty is the foundation of making bets and choices.
+
+- While experience provides advantages, nobody can be sure how any single 
+event or "flip" will turn out. Experts in any field will have better intuitions 
+than novices but still can't eliminate uncertainty. Often the best choice available 
+still has a low chance of success. But choosing based on the odds is the 
+smartest approach in an uncertain world.
+
+ 
+
+• Lawyers and businesses often have to make difficult decisions with low chances of success but large potential payoffs. They try to find the best of several unpromising alternatives. This is worthwhile because the rewards can be so significant. 
+
+• Accepting uncertainty helps us become better decision makers. “I’m not sure” is often more accurate. It also avoids black-and-white thinking.
+
+• Seeing the world as black-and-white, with no shades of gray, hampers our ability to make good choices. We need to recognize uncertainty.
+
+• In poker, saying a player has a 76% or 24% chance of winning a hand is not “wrong” if the less likely outcome occurs. It’s just part of the probabilities. We need to redefine what it means to be wrong.
+
+• The public often judges probabilistic thinking as right or wrong based on single outcomes. But oddsmakers aim for equal money on both sides, so they have no stake in the outcome. Their odds just reflect the market’s view of probabilities.
+
+• Any prediction that is not 0% or 100% can’t be wrong solely because the most likely outcome does not happen. Long shots sometimes win. Blaming the oddsmakers assumes the outcome was bound to happen, and anyone who didn’t see it coming was wrong.
+
+• Decisions are bets on the future, not right or wrong based only on outcomes. Making the best choice based on probabilities is not wrong if it does not work out. Resulting calls a choice wrong only due to the outcome, not the decision process.
+
+• Thinking probabilistically makes us less likely to see adverse results alone as proof we made a decision error. There are many possible reasons for an unwanted outcome, including unforeseen information or events, choosing from poor options, or randomness.
+
+• Maybe there were better choices, but the one we made was not clearly right or wrong. The second-best choice is less wrong than worse options. Most decisions lie between the extremes of right and wrong. 
+
+• We can move from a world of binary right and wrong to recognizing many shades of gray. Better decisions come from calibrating options along that continuum, not just choosing right or wrong.
+
+• It is easiest to redefine wrong in the moment, like recognizing 24% odds do not make a prediction wrong if that outcome occurs. We can change how we view the world.
+
+ 
+
+Johnny World, a successful professional poker player, accepted a $30,000 bet to live for 30 days confined to one street in Des Moines, Iowa. Though the bet seemed appealing initially, after only two days John called his friends who made the bet and tried to negotiate a settlement, offering to end the bet early for $15,000. His friends refused, seeing his offer as a sign that they would likely win the full bet. 
+
+The key details are:
+
+- Johnny World was a successful poker player known for betting on anything 
+- He accepted a $30,000 bet to live for 30 days confined to one street in Des Moines, Iowa 
+- The bet stipulated he could only frequent a hotel, bar, and restaurant on the street, all closing at 10pm, and practice at a nearby golf course
+- After two days, John tried to negotiate ending the bet early for $15,000
+- His friends refused, believing his offer signaled they would win the full $30,000 bet
+
+The summary highlights that despite seeming suited to the bet initially, the idle lifestyle in Des Moines quickly proved unpleasant for John. His attempt to settle the bet early suggests the month-long stay would be difficult to endure, signaling to his friends they made a good bet.
+
+ 
+
+- John Hennigan, a professional poker player, accepted a $30,000 bet to live in Des Moines, Iowa for a month. However, after only two days, he paid $15,000 to get out of the bet and return to Las Vegas. 
+- This story illustrates that all decisions are essentially bets on what will provide the best outcome. When making a choice between alternatives, we are betting that the path we choose will lead to a better future than the paths we reject. 
+- Decisions share the key elements of betting: choice, risk, probability, opportunity cost. However, unlike gambling, most of our decisions are bets against ourselves - bets on which future version of ourselves will be better off. 
+- Examples of decisions as bets include: job changes, investments, parenting choices, contracts, etc. In all these cases, we choose between different potential futures based on our assessment of risks and rewards. 
+- Regret after a decision shows that we realized, in hindsight, that we bet against the wrong future version of ourselves. We felt we should have chosen differently to achieve a better outcome. 
+- The story of John Hennigan seems unusual only because the bet was made explicit. But the underlying analysis he went through - weighing alternatives, consequences and probabilities - is quite ordinary and mirrors the process we go through in most important life decisions. 
+- By recognizing that all our choices are essentially bets, we can make better decisions and anticipate situations where irrational factors may lead us to act against our interests. We can approach decisions more systematically, like professional poker players.
+
+ 
+
+The key point is that we form abstract beliefs largely based on what we hear, not through careful analysis and vetting. We tend to believe things are true simply because we heard them said, even when there is clear indication the information is false. This is due to an evolutionary tendency toward efficiency over accuracy in belief formation. For most of human history, we could form new beliefs only based on direct sensory experience, where it makes sense to presume our senses are accurate. With the rise of language and abstract ideas, this tendency toward believing what we hear persisted, even when it can lead us to inaccurate beliefs.
+
+The examples of the baldness gene coming from the maternal grandfather and the "multiply by seven" rule for calculating dog years in human years show how we come to hold confident beliefs in things that aren't actually true, simply due to hearing them repeated. These illustrate our "credulous" nature and the fact that belief comes easily but doubt is difficult. We have a default tendency to believe what we hear, even when told it is false. This was demonstrated through experiments where people made more errors in recalling whether statements were true or false when under time pressure or cognitive load, and the errors were systematically in the direction of presuming all statements were true. 
+
+So the key takeaway is that we must recognize this default tendency to believe what we hear, and make an effort to analyze and verify new information, even—or especially—when we are inclined to believe it. We have to work to overcome the efficiency of simply presuming everything we hear is true, in order to form more accurate beliefs. With awareness and effort, we can become better "belief calibrators."
+
+ 
+
+- We tend to believe what we experience directly, especially if it affects our survival. As language evolved, we gained the ability to form beliefs about things we haven’t experienced, but we still tend to accept them readily. 
+
+- Many common beliefs are false, but we rarely question or fact-check them. This can have consequences, like losing money in poker by playing unsuitable hands or following poor health advice.
+
+- Once formed, beliefs are hard to change. Even when we receive clear corrective information, we tend to twist it to fit our beliefs instead of changing our minds.
+
+- A study of reactions to a rough 1951 football game between Princeton and Dartmouth showed how beliefs shape perception. Students and newspapers from each school described very different games, focusing on the other team’s penalties and dirty play. People don’t just react to events; they interpret them through the lens of their preexisting beliefs.
+
+- In summary, we readily form and tenaciously cling to beliefs, even false or poorly evidenced ones, and we interpret information and events in a way that confirms what we already believe. This belief-formation tendency can lead to poor decision making and an inability to accept the truth.
+
+ 
+
+- Our beliefs affect how we perceive and process new information. We tend to notice and accept information that confirms our beliefs and ignore information that contradicts them. This is known as motivated reasoning.
+
+- Once a belief is established, it is difficult to change. We engage in circular reasoning to strengthen our beliefs, rather than objectively evaluate new evidence. This tendency is exacerbated by social media and algorithms that show us information that aligns with our existing beliefs.
+
+- Even intelligent people are subject to motivated reasoning and belief perseverance. In fact, intelligence can make these biases worse as smart people are better able to rationalize and construct narratives to support their beliefs. Studies show that people with higher cognitive ability and education often have larger “blind spots” for their own biases. 
+
+- This tendency to interpret information in a way that confirms what we already believe has significant consequences because we base many decisions and judgments on our beliefs. We need to make an effort to recognize our own biases and consider evidence that contradicts our beliefs, not just information that confirms them.
+
+- Overall, the key message is that we are all subject to biases in how we form and maintain our beliefs. Beliefs should not be held too rigidly. We must make an effort to seek out alternative perspectives and be open to accepting credible evidence that challenges what we think is true. Failing to do so leads to polarization, close-mindedness, and poor decision making.
+
+ 
+
+- People with strong beliefs, whether pro- or anti-gun control, made more mistakes interpreting data that contradicted their beliefs. This was especially true for those with higher math skills, showing that intelligence does not inoculate us from motivated reasoning.
+
+- We are wired by evolution to protect our beliefs, even when trying to seek the truth. Willpower and awareness of our biases are not enough to overcome this. 
+
+- Asking “Wanna bet?” challenges our belief and pushes us to examine the evidence for it more objectively. It makes us consider the uncertainty and risk in what we believe. Though we can’t go around challenging everyone this way, we can adopt this mindset ourselves.
+
+- We should redefine how we think about confidence in our beliefs. Rather than viewing belief as all or nothing (confident or not confident), we should rate our confidence on a scale, acknowledging the uncertainty. A belief might be 60% confident or have a range of plausible alternatives. This helps us recognize that most beliefs are probabilistic, not 0% or 100% certain. 
+
+- Expressing uncertainty, whether with a confidence rating or range of alternatives, leads to more accurate thinking and communication. The less we know or the more luck is involved, the wider our range of uncertainty. But as we gain more or better information, the range narrows.
+
+- This approach applies to beliefs about facts, predictions, and decisions. Acknowledging uncertainty helps us avoid overstating conclusions and make better judgments. Overall, incorporating uncertainty into how we view our beliefs leads to many benefits.
+
+ 
+
+- Expressing our level of confidence or uncertainty in our beliefs makes us more open-minded, objective, and willing to accept new evidence that contradicts what we believe. It feels less threatening to adjust probabilities than to declare ourselves wrong.
+
+- Communicating our uncertainty makes us more credible to others and invites them to share information that can help refine our beliefs. It signals we are trying to determine the truth, not defend a position. 
+
+- Expressing uncertainty serves our listeners by alerting them that our beliefs may need vetting. This reduces the chance they will accept what we say without skeptical consideration.
+
+- Scientists communicate uncertainty to invite examination and refinement of their hypotheses and results. By doing so, science progresses rapidly. We can have a similar effect on the accuracy of our own beliefs by openly acknowledging uncertainty.
+
+- Poker player Nick the Greek clung rigidly to a misguided belief that surprise and unpredictability were key strategies in poker. He ignored evidence that contradicted this belief and ultimately went broke, possibly facing deportation, due to his unwillingness to accept the need to substantially revise or abandon his approach. His story illustrates the dangers of not acknowledging uncertainty and incorporating new evidence to refine one's beliefs.
+
+- In an uncertain world where the future is hard to predict, we must make decisions based on imperfect beliefs and guesses. But we can improve those guesses over time through feedback. The ability and willingness to learn from outcomes is key. Nick the Greek lacked that ability and willingness.
+
+ 
+
+- Learning from experience is difficult. Simply having experiences is not enough, we have to actively identify lessons and apply them. 
+- Outcomes are the results of the bets we make on the future. Figuring out why outcomes happened the way they did and whether the outcome was due to skill or luck is key to learning. 
+- Luck and skill both influence outcomes. Luck is anything outside our control like the actions of others or random events. Skill is anything within our control like our choices and preparation. 
+- Identifying whether an outcome was due to luck or skill is difficult but important. If due to skill, we can learn from it. If due to luck, we should avoid changing our behavior. 
+- Poker is a good example. Poker hands often end with incomplete information, making it hard to know why you won or lost. Figuring it out determines how much you can improve.
+- Reaching long-term goals requires identifying opportunities to learn from outcomes along the way and closing the feedback loop. The quality of our execution depends on the quality of these in-the-moment decisions.
+
+ 
+
+- We attribute outcomes to either skill (within our control) or luck (outside our control)
+- This initial attribution is difficult and prone to error due to uncertainty and ambiguity
+- We have a tendency towards self-serving bias, where we attribute good outcomes to our skill and bad outcomes to luck 
+- This makes learning from experience difficult, as we don't accurately evaluate the causes of outcomes
+- Experiments show that variable reinforcement schedules drastically slow learning in rats, as they can't determine the cause of outcomes
+- Outcomes are rarely 100% luck or skill, they are usually a combination 
+- We make "predictably irrational" errors in attributing outcomes due to self-serving biases and the desire to see ourselves in a good light
+- Examples of extreme self-serving bias attributions are found in auto insurance claims forms, where drivers blame external causes for accidents
+- Learning is hampered when we can't accurately determine the causes of outcomes and attribute them correctly to skill or luck
+
+In summary, learning from experience requires overcoming uncertainty and self-serving biases in order to make accurate attributions about the causes of outcomes. When we fail at this, we end up like "Nick the Greek", never questioning our beliefs or strategies no matter the results. Accurately attributing outcomes to skill, luck, or a combination of the two is key to learning and improving from experience.
+
+ 
+
+- A study found that 37% of drivers blamed others for accidents they caused. This shows a widespread tendency to deny responsibility for negative outcomes. 
+- Even brilliant people like John von Neumann displayed this tendency, blaming external factors for their mistakes.
+- This tendency causes problems for many poker players, who attribute losses to bad luck but wins to skill. This skewed perception causes them to make poor betting decisions. 
+- Phil Hellmuth, a champion poker player, publicly stated that he would win every tournament if not for luck, showing this tendency. 
+- The author acknowledges displaying this tendency when she played poker, taking credit for wins but blaming losses on luck. 
+- This tendency has negative consequences, as we miss opportunities to learn from our mistakes and make poor assessments of our actual skill and decision-making.
+- Chris Christie displayed this tendency in a debate, taking credit for New Jersey's economic success but denying responsibility for the Bridgegate scandal. 
+- The bias leads us to see the world in an 'all-or-nothing' way, where outcomes are attributed entirely to either skill or luck. But in reality, most outcomes involve elements of both. 
+- The bias arises from our drive to maintain a positive view of ourselves. Taking credit and deflecting blame helps achieve this, even if it's not logically warranted.
+- Potential solutions include cultivating more objectivity about ourselves, finding purpose in seeking truth over ego, or learning from observing others. Learning from others is an established method and entire industries are built around it.
+
+The key points are:
+1) We have a strong tendency to take credit for success but deny responsibility for failure. 
+2) This tendency causes poor decision making and hinders learning.
+3) It arises from our desire to see ourselves in an overly positive light. 
+4) There are strategies we can use to overcome this tendency, including objectivity, truth-seeking, and learning from others.
+
+ 
+
+- Watching others and learning from their experiences can be a cheap way to gain knowledge and improve decision making. However, people are prone to biases when evaluating the outcomes of others that hamper learning. 
+
+- Specifically, people tend to blame others for bad outcomes and fail to give them credit for good ones. For example, if someone else gets a promotion at work instead of us, we are quick to attribute it to them schmoozing the boss rather than working hard. If someone explains how a car accident wasn't their fault, we assume it was due to their bad driving.
+
+- The author demonstrates this tendency using the example of Steve Bartman, a Chicago Cubs fan who interfered with a foul ball during a playoff game in 2003. Although Bartman was just one of many fans reaching for the ball and the Cubs were still ahead at the time, he received death threats and blame for the Cubs losing the game and series. People attributed the loss to his poor decision making rather than the significant amount of bad luck and events outside of his control that followed.
+
+- The author admits to displaying the same biases when first learning poker. He was quick to attribute the wins of other players to luck and their losses to poor play. He failed to consider that there were good reasons for their decisions that he didn't yet understand. This closed-mindedness slowed his learning. 
+
+- These systematic errors come at the cost of reaching goals and compassion for others. Recognizing our tendencies towards these biases can help overcome them, leading to improved learning and relationships.
+
+In summary, watching others can be an effective way to gain knowledge if we make an effort to evaluate outcomes objectively and give due credit where it's deserved. We must fight the urge to make overly simplistic attributions that reinforce our egos at the expense of the truth. Gaining this insight and compassion leads to better decisions and connections.
+
+ 
+
+• Self-serving bias leads us to take credit for good outcomes and blame others for bad outcomes. This boosts our self-image. 
+• Seeing others fail makes us feel good (schadenfreude). This shows a lack of compassion.
+• Ideally, our happiness would depend only on our own outcomes, not how others do. But we evolved to compete, so we compare ourselves to others. 
+• Research shows life circumstances account for little of someone’s happiness. Most comes from social comparison—how we think we compare to others.
+• We'd rather earn $70K in 1900 than now, though life was much harder then. We just want to outdo our peers. 
+• Our habit of mind in fielding outcomes and comparing ourselves to others impedes learning. But habits can change. 
+• To change a habit, keep the cue and reward but change the routine. The cue is an outcome; the reward is a self-image boost. We can substitute what provides that reward.
+• Our brain seeks self-image boosts and sees others as competitors. We can't change that, but we can change the routine (what provides the boost) and how we compare ourselves.
+• Like Pavlov's dogs, we can learn to substitute a new "bell" for what gives us a reward (here, self-image boost). The new bell can be being an accurate credit-giver, admitting mistakes, finding our own mistakes, and learning well.
+• Feeling bad may come from not admitting a mistake, not from the mistake itself. The habit change makes us feel good about objectivity, learning, and decision quality.
+
+So the key is working with how our brain naturally functions but channeling it in a more productive direction. We need to reshape the habit loop by keeping the existing cues and rewards but changing the routine—what specifically gives us the reward of a self-image boost. The new routine can focus on truth-seeking, objective evaluation of outcomes, learning, and good decision-making.
+
+ 
+
+- We have a tendency towards self-serving bias and motivated reasoning that leads us to attribute good outcomes to our own skill and bad outcomes to bad luck. This hampers our ability to learn from experience. 
+
+- We can overcome this by developing the habit of truthseeking and objective outcome fielding. This means considering alternative hypotheses for why outcomes turned out the way they did and taking other perspectives. 
+
+- Thinking of outcome fielding as a bet triggers our motivation to consider alternatives and take other perspectives. We want to win bets, so we have to think objectively. 
+
+- Imagining how we would field an outcome if it happened to someone else helps us overcome self-serving bias. We know we tend to be too quick to attribute others' failures to them and their successes to luck, so we can correct for this tendency in ourselves.
+
+- With practice, the habit of objective outcome fielding and truthseeking can replace the habit of self-serving bias. We feel good about ourselves for displaying an unusual willingness to admit mistakes and give credit to others. 
+
+- Outcomes are rarely 100% due to either luck or skill. There are usually many contributing factors, and the truth lies somewhere in the middle. An objective approach allows us to consider the full spectrum of influences rather than relying on extreme attributions.
+
+- This mindset and set of habits allows us to learn and improve from experience rather than being hampered by the need to protect our egos. Our decision making and performance will benefit as a result.
+
+In summary, we can become better thinkers and learners by actively working to overcome our natural tendencies towards self-serving bias. Thinking of outcome fielding as a bet and taking other perspectives are two useful techniques for developing the habits of truthseeking and objective analysis. With practice, these habits can replace self-serving bias.
+
+ 
+
+- David Letterman suggested to Lauren Conrad during an interview that she may be partly responsible for the drama in her life.
+- Conrad didn't take the feedback well and asked if Letterman was calling her an idiot.
+- Letterman tried to clarify that he had made the same mistake in the past of blaming others rather than considering his own role. 
+- Websites focused on the entertainment industry framed the interview as Letterman attacking or ripping into Conrad.
+- Letterman's comment was perceptive, but he made the mistake of offering unsolicited advice in an inappropriate setting. 
+- Like most people, Conrad attributed the drama in her life to external factors outside her control (luck) rather than her own decisions and behavior (skill).
+- Letterman violated the expected light, promotional tone of the interview by challenging Conrad in a way she wasn't open to.
+- The exchange was similar to the author giving unsolicited strategy advice to the amateur poker player, who wasn't receptive to the feedback.
+
+The key lessons are:
+
+1) It's important to consider how your own choices and actions contribute to outcomes in your life, rather than blaming external factors. But this type of introspection needs to happen when people are open to it.
+
+2) Giving unsolicited advice or feedback is often counterproductive. The recipient needs to be in the right mindset to receive it, and the setting needs to be appropriate. 
+
+3) When people get defensive, it's usually because the message triggered an ego threat that they weren't ready to address. The advice may have merit, but the delivery and timing were off.
+
+4) It's easy to attribute negative outcomes to bad luck and positive ones to skill. But the truth is usually somewhere in the middle - we have more influence than we realize, both for good and bad results. Recognizing this leads to learning and growth.
+
+5) Media and public reaction tend to amplify controversy and drama. Nuance and useful insights often get lost. We have to look beyond superficial interpretations to find the meaningful takeaways.
+
+ 
+
+- The author was essentially suggesting that the man he was advising take a more objective view of his losses, rather than simply attribute them to bad luck. In doing so, the author violated an unstated expectation that he would be sympathetic. This is a reminder that truth-seeking is not always appropriate or desired. 
+
+- The Matrix allegory illustrates the choice between a comfortable illusion (the blue pill) and an uncomfortable truth (the red pill). Those seeking to improve decision making must choose the red pill, though it is difficult. The author chose the red pill in learning poker, focusing on strategy over attributing outcomes to luck.
+
+- It is easier to choose the red pill and think in bets with the help of others. The author learned from experienced poker players who pushed him to think strategically. We need to find  truth-seeking partners, or a "decision pod," to help overcome our natural biases. Modifying normal social interactions, we must be open-minded, willing to be challenged, and take responsibility for our actions.
+
+- We only need a few people in our decision pod. As few as three, with two to disagree and one to mediate, can be effective. We don't need to cut off those who don't join our truth-seeking - different groups serve different purposes. Truth-seeking is difficult and we need balance in our lives. It's acceptable to occasionally opt out to unload emotions before re-engaging in the work.
+
+- Productive decision pods need an agreement on rules of engagement to be effective. The next sections explore creating that agreement and keeping the group on track.
+
+In summary, choosing objective truth over comfortable illusion is challenging but necessary to improve decision making. Forming a small group of truth-seeking partners, with an agreement on productive habits and rules of engagement, can help us overcome our natural biases and think in bets. But we also need balance in our lives, and it's okay to take breaks from the difficult work.
+
+ 
+
+- Groups can help reinforce desired habits and ways of thinking in individuals, but not all groups are equally effective in doing so.
+- Productive groups have certain characteristics, like focusing on accuracy, accountability, and diversity of perspectives. These characteristics help combat biases and flawed reasoning. 
+- A good group charter explicitly lays out the group's focus on accuracy, objectivity, and open-mindedness. It rewards members for truth-seeking and holds them accountable. 
+- Interacting with a group that values accuracy and combating bias can improve individual members' thinking and decision making, even when alone. The group "gets into our head" and helps reshape habits and patterns of thought.
+- The desire for social approval is very strong in humans and can be harnessed by a good group to reinforce desired ways of thinking. Groups can provide social rewards for doing the hard work of overcoming biases and flawed reasoning.
+
+In summary, the right kind of group, with the right kind of charter and values, can be very effective in helping individuals improve their thinking and decision making by reinforcing good habits of mind. But groups are not automatically good at this; they must have the right characteristics and focus.
+
+ 
+
+- Sobriety chips are tangible reminders of accomplishing something difficult and mark periods of sobriety. They provide group approval and reinforcement.
+
+- Discussing poker hands and identifying mistakes, even in winning hands, helped the author improve. The group’s approval reinforced this habit of accurately analyzing decisions.  Over time, the author internalized this and did it on their own.
+
+- Accountability, like bets, improves decision making because we know we have to answer for our decisions and beliefs. We become hypervigilant about our confidence levels. Bets reduce motivated reasoning.
+
+- Having a predetermined loss limit helps avoid irrational decisions, like chasing losses. The author was accountable to their poker group, so imagined explaining decisions to them. This helped resist poor decisions and feel better after leaving losing games.
+
+- Diverse viewpoints, like in the author’s poker group, help test opinions and move toward accuracy. We each have limited perspectives, so groups expand viewpoints. The group shares the work of combating motivated reasoning and biased outcome fielding by exposing us to alternate hypotheses and filling in blind spots.  
+
+- Questions to examine belief accuracy are more effectively answered with a group. The group provides information and perspectives we individually lack. Diverse viewpoints calibrate our beliefs.
+
+ 
+
+- We are limited by our own experiences and hypotheses. We can’t fully understand other perspectives without exposure to them.
+
+- Diverse groups can reduce biases and fill in gaps in knowledge by exposing us to different viewpoints. This makes decisions and judgments more accurate. 
+
+- Groups like the State Department, CIA, and companies have created mechanisms to encourage dissent and consider alternative perspectives. This helps avoid groupthink and leads to better decisions.
+
+- Even groups aimed at truth-seeking, like judges and scientists, can succumb to confirmatory drift where they become more extreme and polarized over time by surrounding themselves with like-minded people.
+
+- A study of federal appeals court judges found that panels with political diversity made better decisions. Judges were less extreme in their voting when sitting with someone from the opposing party.
+
+- The Supreme Court has become more polarized, in part because justices now almost exclusively hire clerks with the same ideological background as themselves. This creates echo chambers and closes justices off from alternative perspectives.
+
+- Justice Thomas, who only hires conservative clerks, is the furthest from the ideological center of the court. He believes there is no point in exposing himself to alternative viewpoints. But this risks poorer decision making.
+
+- Exposure to reasonable dissenting views, even if they are in the minority, leads to better outcomes. It helps avoid extreme positions and encourages consideration of alternative perspectives. Overall, diversity of thought is key to good group decision making.
+
+ 
+
+- Groups naturally drift toward conformity of thought and opinion over time. This is known as confirmatory drift.
+- Even groups with a goal of seeking truth, like scientists and judges, show signs of confirmatory drift. Surveys show an increasing lack of ideological diversity in fields like social psychology. 
+- Confirmatory drift reduces the quality of group decisions and outcomes. Diverse perspectives are needed to counter individual biases.
+- The Heterodox Academy is an organization founded to advocate for ideological diversity in academia to counter confirmatory drift. They show that in fields like social psychology, the left-leaning to right-leaning ratio has grown from 4-to-1 to over 10-to-1.
+- The Heterodox Academy recommends steps like articulating a viewpoint nondiscrimination policy, encouraging dissent, and evaluating group composition to improve ideological diversity. 
+- Studies show that having experts bet on the replication of experimental results leads to more accurate predictions than traditional expert peer review alone. Betting incentives appear to reduce confirmatory drift.
+- The key message is that we must actively work against confirmatory drift in groups by seeking out diverse and dissenting opinions. Failing to do so leads to poorer quality decisions and outcomes. Using tools like prediction markets that incentivize accuracy over confirmation can help.
+
+ 
+
+- The scientific method relies on objectivity and truth-seeking. Scientists aim to be objective through peer review and by staking their reputations on the quality of their work.
+
+- Prediction markets are used by some companies to get honest, unbiased opinions by giving people an incentive (the possibility of winning a bet) to provide their true view rather than just agreeing with the group.
+
+- Meyer R. Schkolnik, known as Robert K. Merton, was an influential 20th-century sociologist. He proposed scientific norms known as CUDOS: communism (sharing data), universalism (using uniform standards), disinterestedness (avoiding conflicts of interest), and organized skepticism (critically analyzing ideas). These norms aim to encourage objectivity.
+
+- The norm of communism means sharing all potentially relevant information and data. This allows for the most accurate assessments. We should share details even if they make us uncomfortable, as hesitating to share is a sign the information may be important. Within a group, agreeing to share information is important for good decision making. 
+
+- Without access to full information, assessments and decisions suffer from the Rashomon Effect: different versions of events that differ dramatically based on limited access to facts and perspectives. We can’t assume any one account is complete or objective. Groups should commit to sharing details fully when presenting and discussing decisions.
+
+- More information, even if imperfect, is better than less. We should aim to share everything that could be relevant to a decision, even details that might call a decision into question. This “more is more” approach and utter honesty help counter biases and lead to better outcomes.
+
+ 
+
+- Commit to sharing lots of details when making decisions and evaluating outcomes. Experts do this to gain the most accurate understanding. 
+- Be willing to share information that could reflect poorly on your own decision making. This helps improve decision making. Reward others who share details that point out flaws.
+- Practice “universalism” which means evaluate ideas based on the merits, not who said them. Don’t ignore ideas just because you dislike the source. And don’t accept ideas just because you like the source.
+- The advice “don’t shoot the messenger” means don’t punish someone just for delivering bad news or an unwelcome message. The reverse, “don’t shoot the message” means evaluate the message based on merits, not the messenger.  
+- The author learned this lesson in poker by dismissing players who didn’t follow the initial advice he was given. He later realized he needed to consider the merits of other strategies, even from players he initially labeled “bad”.  This led to learning new strategies and better understanding opponents.
+- Exercises to practice universalism include: finding value in ideas/people you're inclined to dismiss; considering how you'd view ideas from very different messengers; omitting the messenger when first presenting ideas to a group. This helps evaluate ideas on merits alone.
+- Applying universalism to politics, read/watch news sources with opposing views. Not to confirm they're idiots but to find areas of agreement and better understand different positions. This moderates extreme views.
+
+The key message is: share details, consider merits over messengers, find value in what you're inclined to dismiss. This leads to better decision making and learning.
+
+ 
+
+- John Stuart Mill argued that the only way to gain knowledge and approach truth is by considering different opinions and perspectives with an open mind. Even if we end up confirming our initial view, we understand it better. This requires being open to messages from those with whom we disagree. 
+
+- We all have conflicts of interest, including psychological ones, that bias us. A study in the 1960s blamed fat, not sugar, for heart disease. Recently it was found that the sugar industry paid the researchers, showing the need to consider conflicts of interest. Our brains are prone to interpret information in self-serving ways. 
+
+- Physicist Richard Feynman found that researchers were more likely to confirm the hypothesis they were testing. “Outcome-blind” analysis, where researchers don’t know the expected outcome, has been adopted in some areas of physics and could benefit other fields. We should apply this to our own thinking by withholding outcomes when seeking advice. Poker players often do this.
+
+- Beliefs are contagious too. If we tell people our beliefs, they will likely work to justify them, often unconsciously. We should withhold our opinions when seeking evaluation of information. 
+
+- Groups can reduce bias by rewarding debate of opposing views, even having members argue the opposing side. This helps us better understand other perspectives and our own views. According to Mill, open-mindedness is the only way to learn.
+
+- True skeptics make arguments and friends. Skepticism should not be dismissive but engage in civil debate. We should apply skepticism to our own views too. Skepticism helps us avoid being misled and leads to better decisions. But we must also consider that our skepticism could be misguided. We need to find the right balance of open and skeptical thinking.
+
+In summary, we must cultivate open-mindedness, consider other perspectives, be aware of our own biases, and apply principled skepticism. But we must do so respectfully and skeptically examine our own skepticism as well. An open and vigilant mindset can help us gain knowledge, find truth, and make better choices.
+
+ 
+
+- Skepticism is associated with negative traits, but true skepticism embraces uncertainty and leads to cooperative exploration of ideas. 
+
+- Skepticism involves asking why things might not be true, recognizing our beliefs aren’t always accurate. Thinking in bets uses skepticism to examine confidence in beliefs and get closer to the truth.
+
+- Productive groups organize around skepticism. Communications should express uncertainty, ask questions, and avoid confrontation. Disagreements become discussions instead of arguments.
+
+- Incorporate dissent by designating “devil’s advocates” to argue other sides. Companies can have anonymous dissent channels. Informally, ask others to consider why you might be wrong to encourage dissent.
+
+- Expressing uncertainty invites others to share information. Leading with agreement makes people more open to dissent. Using “and” instead of “but” presents new info as additive, not contradictory. 
+
+- Ask if someone wants to vent or get advice. A request for advice can be an agreement to seek truth. Focus on the future instead of past mistakes. People are more rational about future decisions.
+
+- These strategies can introduce constructive elements of truthseeking into wider communications, though dissent may still be seen as confrontational by some. The goal is learning, not proving others wrong.
+
+ 
+
+The key ideas in this passage are:
+
+1) We can use mental time travel and imagine meeting with past or future versions of ourselves to make better decisions. This helps us avoid being trapped in the present moment and consider the bigger picture.
+
+2) Poker players are particularly adept at using strategies to incorporate their long-term goals into the quick decisions they have to make during play. We can learn from their techniques.
+
+3) Jerry Seinfeld illustrates how we often favor our present-self over our future-self, like Night Jerry wanting to stay up late even though it will make Morning Jerry miserable. This tendency to prefer short-term rewards is known as temporal discounting. 
+
+4) To improve our decision making, we need strategies to help our present-self think about the impact on our future-self. Some key techniques include:
+
+- Pre-committing to future actions: Making a concrete plan now for what future-you will do. This helps bind your future-self to the right course of action. 
+
+- Setting implementation intentions: Being very specific in advance about when and how you will carry out your plan. This harnesses the situational cues around you to trigger the desired behavior.
+
+- Using accountability: Committing to report back on your progress to others. This makes us feel obligated to our future-selves and follow through on good intentions. 
+
+- Starting small and building habits: Don't aim for major life changes right away. Make incremental improvements and build better habits over time through consistency and repetition. Success builds upon itself.
+
+- Anticipating obstacles: Think through challenges that will arise for your future-self and make a plan for how to overcome them. Be prepared for difficulties instead of being surprised by them.
+
+The key lesson is that while our tendencies to favor short-term rewards and be trapped in the present moment may be innate, we have the ability to develop useful strategies and habits to overcome them. By thinking of our future-selves as partners rather than adversaries, we can work with them to make choices that benefit us in the long run. Using techniques like pre-commitment, implementation intentions, accountability, habit building, and obstacle anticipation are ways to do this. Our capacity for mental time travel allows us to envision how future-us will be affected by what we do today.
+
+ 
+
+- The U.S. military offered lump-sum payments to service members in exchange for giving up future annuity payments. Service members took a 40% discount, showing how people tend to highly value immediate rewards over future rewards (temporal discounting).
+- Night Jerry stays up late because he focuses on the immediate benefits, discounting how tired he'll be the next day (Morning Jerry). Saving for retirement requires avoiding temporal discounting and valuing future needs. 
+- Imagining the future and remembering the past engage the same parts of the brain. By tapping into memories and envisioning the future, Night Jerry can make better decisions. Some companies use age-progression software to help people envision their future retirement-aged selves and save more.
+- Studies show people allocate more for retirement when they see an age-progressed avatar of themselves. This helps avoid regret that often comes after bad decisions, by experiencing it before the decision.
+- Regret usually comes after a decision, when it's too late to change. It would be better if regret came before a decision, to guide better choices. Time travel techniques can move regret before decisions by envisioning future outcomes and learning from past mistakes. Asking questions to consider the perspectives of our past and future selves can encourage better decisions in the moment.
+
+The key ideas are:
+
+1) Temporal discounting: valuing immediate rewards over future rewards. This leads to poor long-term decisions. 
+2) Envisioning the future and remembering the past can combat temporal discounting by evoking regret before a decision is made. 
+3) Age-progression software and other time-travel techniques can move regret before decisions by envisioning future outcomes, learning from past mistakes, and considering our future selves. 
+4) Asking questions to tap into past and future perspectives can encourage better in-the-moment decisions.
+
+ 
+
+- We often make poor decisions in the moment because our emotions amplify and distort our perspective. We tend to overestimate the impact of events on our long-term well-being. 
+- Mental time travel strategies, like imagining how our future or past selves might view a situation, can help counteract this effect. They activate parts of our brain involved in rational thinking and inhibit emotional reactions.  
+- Suzy Welch's 10-10-10 technique is an example of a useful time travel strategy. It prompts you to consider how you might feel about a decision in 10 minutes, 10 months, and 10 years. This wider perspective can lead to wiser choices.
+- It's easy to get caught up watching the "ticker" of our lives, reacting strongly to small ups and downs. But happiness is better measured over the long run, like assessing an investment. Daily fluctuations often have little effect on our well-being in the bigger picture. 
+- Our emotions also distort our view of the recent past. We tend to weigh recent events too heavily, ignoring the broader context. For example, in the casino scenario, whether you win or lose money initially strongly influences how you feel about breaking even at the end of the night, even though the end result is the same. 
+- In summary, mental time travel and taking a wider perspective can help overcome the distortions caused by our emotional reactions in the moment. This leads to better decision making and helps ensure day-to-day events do not have an outsized influence on our long-term happiness and well-being.
+
+ 
+
+- Our emotions and reactions are heavily influenced by recent events and outcomes, not the overall situation. We can win $100 gambling and feel sad or lose $100 and feel happy depending on the path that led to the outcome. 
+
+- This “path dependence” and focus on the short term causes us to make poor decisions in the moment. We need to take a longer view to gain proper perspective.
+
+- Poker players call making poor decisions due to emotional reactions “being on tilt.” Recognizing the signs of tilt like increased heart rate, frustration, and poor decision making can help avoid it. Strategies like taking a walk, deep breathing, and asking “will this matter in the long run?” can help reduce tilt.
+
+- “It’s all just one long poker game” is an aphorism reminding us to take the long view. Specific strategies like involving others to provide perspective and “time travel” by considering how you will view events in the future can combat short term thinking.
+
+- Ulysses contracts are strategies where your past self commits your future self to a certain course of action, like using a ride share service when drinking to prevent drunk driving. They are a way for your past and future selves to help your present self make better decisions. 
+
+- In summary, our emotions and tendency to focus on recent events often cause poor decision making and overreactions. Strategies to broaden our perspective and commit to better choices can help overcome these biases. Taking the long view and involving our past and future selves leads to better judgment.
+
+ 
+
+- Ulysses contracts involve making precommitments to help overcome irrational decisions or impulses. 
+
+- They can be designed to raise barriers against irrationality or lower barriers to rational action. For example, committing to bringing healthy snacks when going to the mall reduces the effort to make a good choice.
+
+- The level of binding in Ulysses contracts can range from physically preventing an action to just making a commitment without strong barriers. But any binding creates a decision interrupt that prompts deliberative thinking.
+
+- When options are physically prohibited, you are forced to stop and think. When barriers are lower, the contract still creates an interrupt but you have more choice. For example, asking a waiter not to bring bread still allows you to request bread but prompts you to think first.
+
+- Ulysses contracts can help in investing by committing to automatic allocations or determining in advance conditions to buy, sell or hold. This creates an interrupt before emotional decisions.
+
+- A “decision swear jar” identifies words, phrases and thoughts signaling irrationality. When you catch yourself using them, it creates an interrupt to prompt deliberative thinking. Examples include expressions of certainty, blaming luck, insulting others, being overly self-critical, or discouraging input.
+
+- The key is to identify signs that you are relying on irrational ways of thinking and create prompts to shift into a more deliberative, rational mode. The jar is a metaphor but really it’s about building awareness and accountability.
+
+ 
+
+The author argues that we should perform "reconnaissance" on the future by mapping out possible scenarios and their probabilities before making important decisions. This helps us anticipate challenges, prepare responses, and avoid biases like hindsight bias. 
+
+The author gives several examples of scenario planning:
+
+- The Allied forces' extensive planning for D-Day, which anticipated many challenges that ended up occurring. Their planning helped ensure the invasion's success despite setbacks.
+
+- The Navy SEAL team that killed Osama bin Laden planned extensively based on reconnaissance about the compound and various scenarios. 
+
+- Nate Silver frequently takes a scenario-planning approach, mapping out a range of possibilities for how the future may unfold to guide decision making. 
+
+- Skilled poker players consider their opponents' possible responses and the likelihood of each before betting, planning several moves ahead. The best players anticipate how current actions will impact future hands. 
+
+Scenario planning has many benefits:
+
+- It makes us aware that the future is uncertain. By anticipating various outcomes, we have a more realistic view of the world.
+
+- It prepares us to respond to different outcomes, allowing us to be proactive rather than reactive. We can plan strategies for various scenarios.
+
+- It makes us nimbler in responding to changes. By considering more possibilities, we are less likely to be surprised. 
+
+- It prevents unproductive regret or undeserved euphoria over outcomes by memorializing the possible futures. 
+
+- It reduces resulting and hindsight biases by recording multiple possible outcomes, not just the one that occurred. 
+
+The author gives an example of consulting with After-School All-Stars to incorporate scenario planning into their budgeting. Mapping out possible funding and economic scenarios helped them create flexible budget plans and strategies to sustain programs despite uncertainty.
+
+In summary, the key message is that scenario planning—mapping out possible future outcomes and their probabilities—leads to better decision making and strategy. It helps us understand uncertainty, prepare for various futures, avoid biases, and be nimble in our responses.
+
+ 
+
+- The teen cities were struggling with budget planning due to uncertainty in grant funding. 
+- To help them, the author asked for a list of their grant applications and how much each grant was worth.
+- However, the cities provided a list of grant applications and the amounts applied for, not the worth of each grant. 
+- The author realized they had different ideas of determining a grant's worth. The expected value of a grant involves estimating the likelihood of getting it and how much it's for. 
+- For example, a $100K grant with a 25% chance of getting it has an expected value of $25K. A $200K grant with a 10% chance is worth $20K. A $50K grant with 70% chance is worth $35K. 
+- Without this thinking, the cities thought the $200K grant was most valuable when the $50K grant actually was. 
+- The cities started estimating the likelihood of getting each grant. This helped them:
+
+1. Prioritize higher-value grants, not just higher dollar amounts. 
+2. Budget more realistically with confidence in funding estimates. 
+3. Focus on improving probability estimates and following up with grantors. 
+4. Think of ways to increase the chances of getting grants and commit to those actions.
+5. Avoid hindsight bias and resulting since they evaluated the process in advance.
+
+- They expanded this scenario planning across departments. This can work for any organization dealing with uncertainty, like sales teams.
+
+- More complex scenario planning considers multiple possible futures and how to respond to each one. For example, the Seahawks had many options in the final Super Bowl play. Running could lead to a TD, turnover, or tackle. Passing could lead to a TD, interception, incomplete pass, sack, or penalty. Passing gave an extra down and higher chance of success. 
+
+- Looking backward from a future goal, called "backcasting," leads to better scenario planning than looking forward. Looking forward distorts our view, focusing too much on the present and near future. Backcasting gives a broader, less distorted perspective. Like great strategic thinkers, we improve our decision making by envisioning the future in depth.
+
+ 
+
+- Working backward from goals, through a process known as backcasting, improves our ability to achieve those goals. Research shows people who use backcasting are 30% more able to identify the steps needed to achieve a goal.
+
+- Backcasting was used by Frederick Law Olmsted to design Central Park. Though the park looked barren when it opened, Olmsted could envision how it would look decades later when plants and trees matured.
+
+- A common use of backcasting is for strategic planning. By imagining a future headline announcing the achievement of a key goal, we can work backward to identify the events, decisions, and strategies needed to get there. This also helps identify risks and points where the goal may need adjustment.
+
+- Premortems, imagining why we failed to achieve a goal, complement backcasting. While backcasting reveals the “positive space” of how to succeed, premortems expose the “negative space” of potential obstacles and risks. Research shows incorporating negative visualization makes success more likely.
+
+- Studies show people who imagine obstacles to their goals are more successful in achieving them. Those who only fantasize about success are less motivated and energized to take action. Premortems motivate us to anticipate risks and improve our plans.
+
+- In a premortem, we imagine a headline announcing failure to achieve our goal. We then identify reasons why, scouring all possible sources. This gives people permission to dissent and identify risks they might not otherwise raise. Premortems foster a healthier organization by giving dissenting voices a chance to be heard, and making all input more valuable.
+
+- Premortems act as an organization's "red team," identifying potential points of failure. Framing it as determining why we failed removes the stigma from expressing reservations and encourages creative, actionable input.
+
+ 
+
+Diverse opinions provide value in several ways:
+
+- Those with reservations about a decision are less likely to resent the outcome if things go awry. Their voices were heard in the planning process. 
+
+- Including dissenting views in decision making helps groups develop the habit of considering potential obstacles and unintended consequences. This makes members more likely to consider downsides in their own thinking.
+
+- Imagining both positive and negative futures leads to more realistic planning. We can anticipate challenges, develop contingency plans, and not be surprised by negative reactions. This makes success more likely.
+
+- Backcasting alone focuses too much on the positive and not enough on potential problems. Combining backcasting and “premortems” that imagine what could go wrong provides a more balanced view of the future. 
+
+- Keeping alternate futures in mind, even after a decision is made, helps avoid hindsight bias. We tend to see the chosen path as inevitable once we know the outcome. But there were other possibilities that seemed reasonable before the choice was made. Recognizing this leads to better ongoing decision making and less regret.
+
+- Hindsight bias is like using a chainsaw to cut off all the other branches of the tree except the one that represents what actually happened. This makes the outcome seem predetermined when in fact there were many uncertainties. We must make an effort to consider what else could have occurred.
+
+- Examples like the Cubs fan interference, coaching decisions in football, and CEO regret show how hindsight bias can lead to unfairness, second-guessing of reasonable choices, and feelings of failure even when the process was sound. By visualizing the full “tree” we can have a balanced perspective.
+
+In summary, including diverse and dissenting views in planning and decision making leads to better outcomes by providing a more comprehensive consideration of the possibilities. Recognizing hindsight bias and maintaining an accurate memory of the uncertainties can help avoid regret, bitterness, and unfair criticism after the fact. Overall, this approach leads to both wiser choices and greater contentment with navigating an uncertain world.
+
+ 
+
+The 2016 U.S. presidential election provided a strong demonstration of what can happen when we ignore unlikely branches on the tree of possibilities. Hillary Clinton had been the heavy favorite, with analysts giving her a 60-70% chance of winning based on polls. When Donald Trump won, commentators criticized pollsters like Nate Silver of FiveThirtyEight for missing it, just as they did with Brexit. 
+
+But Trump had a real chance of winning at 30-40%. Once he won, Clinton’s branch was cut off, leaving only Trump. Pollsters should not be blamed for uncertainty. Rather than trying to be right, we should aim to calibrate our beliefs to better match reality. Like poker, life involves frequent losses, uncertainty, and imperfect decisions. But by learning from experience, we can make better choices over time.
+
+The author thanks many people who made the book possible, including family, her agent and editor, mentors, the poker community, and clients in various industries. Poker and her education inspired her interest in learning, decision making, and managing uncertainty. Particular poker players and moments stand out. After 20 years as a pro poker player, she continues to explore how we learn and decide.
+
+ 
+
+Dave Lenowitz, for intellectual curiosity and sharing ideas. 
+Robert MacCoun, for conversations on outcome blindness.
+Gary Marcus, for conversations informing the book. Old grad school friends, Marcus was Pinker’s student.
+Gabriele Oettingen and Peter Gollwitzer, NYU professors, had lunch to discuss mental contrasting. 
+Gerry Ohrstrom, reintroduced to Gary Marcus, who introduced Oettingen and Gollwitzer.
+Joseph Sweeney, conversations over lunch informed the book. 
+Philip Tetlock, a three-hour conversation was informative; encouraged applying Merton’s scientific norms.
+Joseph Kable, lunch conversation about brain circuitry in imagining the future.
+Friends at How I Decide, the nonprofit cofounded. Thanks to staff.
+Friends were patient during the writing process.
+Eric, for patience and support in writing the book and life.
+Stepchildren, for patience and understanding.
+Parents and siblings, for foundation and help.
+Children, for teaching and inspiration.
+
+Notes:
+
+Tournament poker results and earnings from Hendon Mob Database.
+
+Pete Carroll and Monday Morning Quarterbacks: Criticized for Super Bowl call. Some analyses defended it. Carroll said “worst result of a call ever” on Today show.
+
+Brains not built for rationality: We assume causation, cherry-pick data, etc. Colin Camerer discussed this. Recommends his TED Talk.
+
+George Dyson gave a scan of von Neumann’s gambling marker.
+Sources on von Neumann and game theory influence economics Nobel laureates.
+Influences on Dr. Strangelove character include von Neumann, von Braun, Kahn, Teller. Unclear which most influenced.
+
+ 
+
+- The Nobel Memorial Prize in Economics has been awarded to several game theorists: (1) John Nash, (2) John Harsanyi and (3) Reinhard Selten (1994, “for their pioneering analysis of equilibria in the theory 
+- The author’s brother, Howard, was a chess player but the transition from chess to poker is rare given the greater uncertainty in poker. In contrast, many great poker players were also world-class backgammon players, likely due to the shared element of uncertainty from dice rolls and card deals.
+
+- The scene in The Princess Bride between Westley and Vizzini demonstrates a “lethal battle of wits.” The movie adaptation expertly streamlined Vizzini’s overconfident speech about his intellect from the novel into a succinct “MORONS!” directed at history’s greatest thinkers.
+
+- Regarding coin flips, 4 flips vs. 10,000 flips is a relative comparison. Evaluating whether a coin is fair requires many flips to determine probabilities. 
+
+- Bookmakers and media were criticized as getting the Brexit vote and 2016 U.S. election “wrong” because the underdogs won, but probabilities do not define right vs. wrong. Nate Silver and FiveThirtyEight received particular criticism for giving Clinton a 60-70% chance, though probabilities do not mean certainty.
+
+- Common misconceptions persist because people tend to believe what they hear, not because the information is correct. Examples include that baldness comes from the mother’s side or that heavy objects fall faster than light ones.
+
+- Expressing uncertainty, as with a “73%” chance of a waiter getting an order right, invites discussion in a way that expressing confidence does not. Recognizing another’s expression of uncertainty forges a connection.
+
+- Working backward from outcomes to determine causes is difficult. In experiments, manipulating the environment to determine effects is easier. SnackWell’s initially prospered by luck in appealing to health-conscious consumers, not from strategy. 
+ 
+- John von Neumann attributed much of his success to luck, saying “If it weren’t for luck, I’d win every one.” Predicting how events will unfold is hard, as in the 2016 Republican primary debate or the Bartman foul ball incident. We want to believe we’d act differently but outcomes often depend on luck.
+
+- Natural selection unfolds based on results, not intentions. Judging historical figures by modern moral standards is misguided. Comparing living standards across eras like 1900 vs. 2010 is complex with many trade-offs.
+
+- Habits can be reshaped by manipulating environments. Ivan Pavlov’s work showed how pairing stimuli reshapes habits and reflexes in animals. Cues triggering habits can be avoided or replaced to change behavior, as with smartphone addiction. Success comes from persistence, not willpower alone.
+
+ Here is a summary of the selected bibliography:
+
+Pavlov’s Physiology Factory: Experiment, Interpretation, Laboratory Enterprise 
+by Daniel Todes provides an in-depth look at Ivan Pavlov’s experiments on conditional 
+reflexes and physiology.
+
+Sources on blaming the green in golf and Phil Mickelson’s putting drill:
+- Golf analyst John Maginnes described the “blame the green” stare in “Maginnes On Tap,” 
+Golf.SwingBySwing.com, February 13, 2013. 
+- Legendary golf teacher David Pelz, who worked with Phil Mickelson, described Mickelson’s 
+practice drill of making 100 straight 3-foot putts in “Dave Pelz and the 3 Foot Putting Circle,” 
+GolfLife.com, June 13, 2016.
+
+Sources on the group approach of Alcoholics Anonymous:
+- AA’s website (aa.org) including the Big Book, 12 Steps, archives, history, and eLibrary.
+
+Sources on the New York poker study group including Erik Seidel and Howard Lederer: 
+- The author met these players at the Mayfair Club where they played backgammon and poker. 
+- These players went on to successful poker careers, earning 7 WSOP bracelets and nearly $18 
+million in winnings (excluding Seidel’s 8 bracelets and $32 million).
+
+Sources on dissent within groups:
+- The Dissent Channel is codified in the Department of State’s Foreign Affairs Manual. News 
+stories describe its use in Obama and Trump administrations.
+- The CIA acknowledged the red-team approach in the raid on Osama bin Laden. 
+- Studies show increasing homogeneity in Supreme Court justices’ clerks and Justice Thomas’s 
+ideological distance from other justices. Justice Thomas said he hires clerks who “look like me 
+and think like me.”
+- Studies on corporate prediction markets mention companies tested or studied. Some studies 
+refer to companies anonymously.
+
+Sources on Merton’s CUDOS norms:
+- Articles celebrated Merton’s life upon his death at age 92, including his work as a sociologist 
+and focus group creator.
+
+Sources on “yes, and...” in improv:
+- The rule is fundamental to improv and included in many improv texts like Tina Fey’s 
+Bossypants.
+
+Sources on imagining the future and the past:
+- A conversation with psychology professor Joe Kable and his studies, including one cited in 
+the bibliography. Also a Neuron overview paper cited in the bibliography.
+
+Sources on the retirement savings shortfall and ways to improve retirement planning:
+- Articles provide an overview of the shortfall and behavioral issues involved. Merrill Edge’s 3D 
+app puts retirement planning “in your hands.”
+
+Sources on Warren Buffett and zooming out for the long view: 
+- Interviews with Professor Howard, including his interest in “flat-tire stories.” 
+- Analyses of Berkshire Hathaway’s 50-year stock performance and Buffett’s market prowess.
+
+Sources defining terms for surfing, nails, and brain tumors.
+
+A map of sources for further reading on these topics is provided.
+
+ 
+
+The D-Day invasion of Normandy during World War II required extensive scenario planning. Naval historian Craig Symonds describes the planning involved. Nate Silver outlined 14 scenarios for Trump’s presidency. 
+
+Frederick Law Olmsted used “backcasting,” envisioning a positive future Central Park and working backward to make it a reality. Articles describe Olmsted’s vision and use of backcasting.
+
+“Premortems” involve envisioning a negative future scenario and working backward to avoid it. Gabriele Oettingen and her work on “mental contrasting” and the WOOP method provide ways to implement premortems.
+
+Bibliographic sources on scenario planning,Backcasting, premortems, and related concepts include:
+
+- Books by Gabriele Oettingen on mental contrasting and WOOP method. 
+- Sources on Olmsted’s Central Park design using backcasting.
+- An interview with naval historian Craig Symonds on the D-Day invasion scenario planning.
+- An article by Nate Silver on scenarios for Trump’s presidency.
+- Other sources on planning, decision making, forecasting, and overcoming biases.
+
+ Here is a summary of the sources:
+
+-Von Neuman and Morgenstern's Theory of Games and Economic Behavior
+introduced game theory as a mathematical tool to model strategic decision making
+between multiple agents. 
+
+-The self-serving attribution bias refers to the tendency for individuals to attribute
+positive outcomes to their own actions but attribute negative outcomes to external
+factors. This bias can negatively impact learning and accountability.
+
+-John Stuart Mill argued for the importance of dissent and nonconformity to
+progress. Dissent helps counter confirmation bias and groupthink. 
+
+-Game theory, prospect theory and theories of decision making  recognize that
+decisions are often influenced by cognitive and emotional biases, not just
+rational self-interest. Brains take "mental shortcuts" that can lead to poor choices.
+
+-According to Kahneman, we have two modes of thinking: fast (intuitive) and slow
+(deliberate) thinking. Fast thinking is prone to biases and errors. 
+
+-The Raiffa and von Neumann approach to negotiations aims for win-win solutions by
+focusing on objective criteria and fairness rather than positional bargaining.
+Self-serving biases must be overcome.
+
+- Philip Tetlock's research shows that accountability and considering alternative
+perspectives can help reduce overconfidence and confirmation bias. Foxes, who
+consider multiple possibilities, are generally better forecasters than hedgehogs who
+know "one big thing". 
+
+-The research on motivated reasoning shows that our reasoning processes are often
+influenced more by what conclusion we want to reach rather than objectivity. We are
+prone to "myside bias".
+
+- Governments and organizations need mechanisms to surface dissent and alternative
+perspectives in order to make wiser judgments and policies. But dissent should focus
+on objective evidence and reasoning, not personal attacks. The goal should be truthseeking.
+
+ Here is a summary of the sources:
+
+- Miller and Ross (1975): Examined self-serving biases in attributions of causality. Found that people attribute successes to internal factors and failures to external factors.
+
+- Mischel (2014): Discussed the importance of self-control and delaying gratification. Described the famous "marshmallow test" showing that delaying gratification at a young age predicts better life outcomes. 
+
+- Mitchell, Russo, and Pennington (1989): Proposed that people have a "temporal asymmetry" in how they explain events. They tend to attribute past events to stable, internal causes but future events to unstable, external causes.
+
+- Morewedge et al. (2009): Found that ownership of an item leads to an increased valuation of that item (the "endowment effect"). This effect seems to be driven more by not wanting to lose what one has rather than wanting to acquire new things.
+
+- Mulally and Maguire (2014): Reviewed evidence that the ability to imagine and simulate the future depends on some of the same neural mechanisms as remembering the past. The hippocampus in particular plays an important role. 
+
+- Munnell, Hou, and Webb (2014): Reported that many Americans still struggle to afford retirement and do not have adequate retirement savings. About half of Americans are at risk of not having enough to maintain their pre-retirement standard of living.
+
+- Murray (2003): Discussed how mental time travel into the past and future depends on autobiographical memory, episodic memory, imagination, and self-projection.
+
+- Myerson (1991): Provided an overview of game theory, including examples like the prisoner's dilemma. Game theory analyzes strategic decision making and how people's choices depend on the choices of others.
+
+- Neiss, Sedikides, and Stevenson (2002): Reviewed research showing that genetics accounts for about 50% of the variability in self-esteem. Both shared and non-shared environmental influences are also important. 
+
+- Nisbett (2015): Argued that people can improve thinking and decision making by learning certain "mindware" like statistical rules of thumb, logical fallacies, and decision-making heuristics. We have a tendency to rely on intuition, but analytical thinking can be taught.
+
+- NobelPrize.org: Listed the areas of research recognized by the Nobel Memorial Prize in Economic Sciences, including game theory, behavioral economics, and prospect theory.
+
+- Nyberg et al. (2010): Used fMRI to show that activity in the insula cortex tracks the subjective experience of how much time is passing during a delay interval with no external cues. The insula may play a role in self-generated time tracking.
+
+- Oettingen (2014) and Oettingen and Gollwitzer (2010): Reviewed research on mental contrasting as a self-regulation strategy. Mental contrasting involves contrasting a desired future outcome with obstacles currently in the way, leading to stronger commitment to overcoming those obstacles.
+
+- Open Science Collaboration (2015): A large-scale effort to estimate the reproducibility of 100 experiments in psychological science. Successfully replicated about 40 of the 100 findings, highlighting the need to improve reproducibility in psychology. 
+
+- Oswald (2014): Described lessons that can be learned from famous football coach Vince Lombardi, including setting high expectations, focusing on fundamentals, and maintaining discipline.
+
+- Oyserman, Bybee, Terry, and Hart-Johnson (2004): Proposed that possible selves—the selves we could become in the future—act as roadmaps to guide behavior and motivation. Possible selves integrate our expectations, hopes, and feared outcomes. 
+
+- Oyserman, Destin, and Novin (2015): Reviewed research showing that possible selves have context-dependent effects on motivation and self-regulation. Possible selves are most motivating when the path to achieving them matches the current context.
+
+- Pariser (2011): Argued that internet filters create "filter bubbles" by selecting information aligned with our existing interests and beliefs. This can isolate us from opposing or different viewpoints. 
+
+- Paulos (1989): Discussed the importance of numerical literacy and examined common mathematical fallacies and misconceptions. Many people lack skill and comfort with reasoning about numbers, probabilities, and statistics.
+
+- Pollan (2006, 2008): Argued against "nutritionism"—the ideology that food is essentially the sum of its individual nutrients. Instead, we should focus on whole foods rather than nutrients, and diet quality depends more on types of food and cooking than supplements or single nutrients.
+
+- Poundstone (1992): Provided an overview of game theory, including detailed discussions of well-known games like the prisoner's dilemma, tragedy of the commons, and ultimatum game. These games illustrate key concepts such as cooperation, selfishness, and fairness.
+
+- Raha (2013): An interview with psychologist Ron Howard about mindfulness meditation and its role in "waking up" to the present moment without judgment. Mindfulness can decrease tendencies toward rumination, worry, and "living in one's head."
+
+- Rees, Ingledew, and Hardy (2005): Reviewed literature on attribution in sports, including tendencies toward self-serving attributions like attributing wins to internal causes and losses to external causes. Effective coaches work to modify these tendencies and promote motivation and learning.
+
+- Rich (2016): Discussed how public parks were initially seen as radical and faced opposition but now are widely valued. They provide important psychological and social benefits for well-being. 
+
+- Roeder (2017): Analyzed how Trump's nominee for the Supreme Court vacancy, Neil Gorsuch, might change the ideological balance of the court if confirmed. Gorsuch seems likely to lean in a conservative direction.
+
+- Rosati et al. (2007): Compared temporal discounting in humans, chimpanzees, and bonobos. Found that humans show a more future-oriented pattern of discounting, preferring larger delayed rewards over smaller immediate rewards. This may relate to humans' greater mental time travel abilities.
+
+- Ross (1990): Reviewed issues related to drunk driving, arguing that it should be treated more as a public health issue in addition to a criminal issue. A multipronged approach is needed to effectively reduce drunk driving rates.
+
+- Ross and Sicoly (1979): Found evidence for egocentric biases in how people evaluate the availability of events—we tend to believe events that have happened to us are more common and probable than events that have not. These biases can influence social judgment.
+
+- Santos and Rosati (2015): Reviewed research on the evolution of human decision making. Compared to other animals, humans show a more future-oriented and strategic pattern of decision making and greater altruism, fairness, and cooperation with non-kin.
+
+- Savage (2011): Profiled Supreme Court Justice Clarence Thomas, describing his life, career, and judicial philosophy. Thomas is a staunch conservative and originalist who believes in interpreting the Constitution as the founders originally intended. 
+
+- Schacter et al. (2016): Reviewed research on the relationship between memory, imagination, and envisioning the future. Abilities in these domains share common neural mechanisms and appear to rely on a core "self-projection" system.
+
+- Schessler-Jandreau (2009): Discussed the history of dieting and weight loss in the U.S., including the emergence of the diet industry and products as well as public health concerns over increasing obesity rates. Views on dietary practices have evolved over time.
+
+- Schoemaker and Tetlock (2016): Discussed how "superforecasting" techniques involving calibration, updating based on evidence, and measuring uncertainty and probabilities can help improve judgment and decision making. These techniques provide a kind of "mindware" for better forecasting.
+
+- Sedikides et al. (1998): Found evidence for self-serving biases in relationship attributions. When giving feedback to romantic partners, people take more credit for positive outcomes and blame the partner more for negative outcomes. We tend to believe our partners see relationship events similarly, even when they do not.
+
+- Sedikides, Skowronski, and Gaertner (2004): Reviewed research suggesting self-enhancement and self-protection motivations have an evolutionary basis and help with reproduction and survival. However, taken to an extreme they can also produce logical fallacies and poor decision making.
+
+- Shapiro and others (2010): A biography of famous football coach Vince Lombardi, describing his coaching techniques, quotable quotes, and lessons on leadership, discipline, and teamwork. Lombardi had an enormous influence as coach of the Green Bay Packers.
+
+- Shepperd, Malone, and Sweeny (2008): Reviewed research on causes of self-serving attributions and biases. These biases seem to stem from basic motivations to feel good about oneself and maintain a positive self-image, as well as tendencies to perceive events in self-beneficial ways.
+
+- Shermer (2011): Discussed how beliefs often come first and reasons follow in a process of "belief-dependent realism." Our brains are belief engines that naturally construct and reinforce beliefs, even when there is little objective evidence. We must work to overcome these tendencies toward motivated and illusory pattern seeking. 
+
+- Silver (2012, 2017): As an analyst and "stat geek," discussed using data and statistical models to make predictions and evaluate evidence. Models should incorporate uncertainty and probability rather than reducing complex issues to overconfident binary forecasts. Evidence should be reviewed with an open and skeptical mindset rather than confirmation bias.
+
+ Here are summaries of the sources:
+
+The Markets. New York: Random House, 2004. 
+- This book provides an overview of how markets work and factors that influence them.
+
+Superforecasting: The Art and Science of Prediction. New York: Crown, 2015.
+- This book explores techniques used by "superforecasters" to make accurate predictions and forecasts. The authors find that superforecasters tend to be intelligent, humble, and seek out diverse opinions and information. 
+
+Misbehaving: The Making of Behavioral Economics. New York: W. W. Norton, 2015.  
+- This book by economist Richard Thaler provides an overview of behavioral economics by exploring ways in which people make irrational economic decisions. Thaler argues that people are prone to cognitive errors and biases that influence their behavior in the market.
+
+Nudge: Improving Decisions About Health, Wealth, and Happiness. New York: Penguin, 2009.   
+- This book explores how "choice architecture" and "nudges" can influence people to make better decisions that help them meet their long term goals. The authors argue that policymakers and others should design environments in ways that naturally guide people toward beneficial choices.
+
+ Here is a summary in 6 points:
+
+1. Mental time travel into the future allows us to imagine possible outcomes and prepare for them. We can use tools like scenario planning, backcasting, and premortems to envision various futures and work backwards to the present.  
+
+2. Our views of the past are colored by our current knowledge and beliefs. We are subject to hindsight bias and the Rashomon effect where we interpret past events differently based on our perspectives. 
+
+3. We are prone to motivated reasoning and confirmation bias which lead us to search for and accept information that confirms what we already believe while ignoring contrary evidence. This contributes to polarization on issues like politics.
+
+4. Luck and randomness play a larger role in outcomes than we often realize or are willing to admit. We have an illusion of control and skill that causes us to overestimate our ability to influence events. 
+
+5. Our habits and self-narratives are powerful in shaping our choices and actions. We can form good habits and mental habits using precommitments and "decision hygiene." 
+
+6.  Sharing information and exposure to diverse perspectives helps counter individual biases and improves decision making. However, we often "shoot the messenger" and ignore information that contradicts our preexisting views. We need to cultivate openness and skepticism.
+
+ Here is a summary of the page ranges, notes, and terms you specified:
+
+owl, 5–7: The spotted owl controversy and policy changes in the Pacific Northwest. 
+
+10: Poker and game theory.
+
+22: Uncertainty in decision making.
+
+46, 48: The difference between decisions under uncertainty and decisions under risk. 
+
+165–66: The tendency for people in groups to shift to more extreme positions.
+
+216–18: Using precommitments and Ulysses contracts to influence our future behavior.
+
+241n–42n: The psychological phenomenon of temporal discounting and notes on related research.
+
+Supreme Court, 142–44: The ideological makeup of SCOTUS and the implications.
+
+surfers, 197: An example of how surfers embody many of the  characteristics necessary for effective decision making under uncertainty.
+
+swear jar, decision, 204–7: The idea of instituting a "decision swear jar" to counter confirmation bias.
+
+sweeping terms, 205: The tendency to use extreme or "sweeping" terms in decision making due to overconfidence in our judgments.
+
+Syria, 140: The difficult decisions faced regarding policy in Syria. 
+
+System 1 and System 2, 12, 181n, 183, 203: References to Daniel Kahneman's two-system model of human thinking. 
+
+Teller, Edward, 243n: Note on the advocacy of Edward Teller, the "father of the hydrogen bomb," for building a particle beam weapon.
+
+temporal discounting, 181–83, 226: The human tendency to discount the importance and value of future rewards and consequences. 
+
+10-10-10 process, 188–89, 191, 199: A process for evaluating the long-term consequences of our decisions. 
+
+Tetlock, Phil, 126n, 128–29, 132, 146: References to the work of Phil Tetlock on forecasting, expert judgment, and "superforecasters."
+
+Texas Hold’em, 53: A quick explanation of the basic rules and play in the popular poker variant Texas Hold’em.
+
+Theory of Games and Economic Behavior (von Neumann and Morgenstern), 19: Reference to a foundational work on game theory by John von Neumann and Oskar Morgenstern.
+
+“They Saw a Game: A Case Study” (Hastorf and Cantril), 56–59: A summary of a classic study on selective perception and confirmation bias.  
+
+Thinking, Fast and Slow (Kahneman), 12, 52: References to Daniel Kahneman's influential book on human judgment and decision making.
+
+Thomas, Justice, 144: A comment from Supreme Court Justice Clarence Thomas on ideological diversity.
+
+Thoreau, Henry David, 186: A quote from Henry David Thoreau on living life deliberately.
+
+ticker watching, 191–93, 196, 199, 200: The tendency for investors and others to engage in frequent monitoring of fluctuations and react hastily.
+
+tilt, 197–200: The tendency for poker players and others to go "on tilt" by reacting emotionally and impulsively after facing frustrating losses or setbacks. 
+
+Time, 56: Reference to a Time magazine article on selective perception.
+
+Timecop, 177–78: Reference to a science fiction film about time travel to illustrate ideas about "mental time travel."
+
+time travel, mental, 176, 177–231: An extended discussion of ways to improve decision making by using methods of "mental time travel."
+
+backcasting, 218–22, 225, 226: A method of imagining future scenarios and working backward to identify key steps to reach goals or milestones.
+
+Ulysses contracts (precommitment), 200–203: Strategies we can use to commit our future selves to certain courses of action.  
+
+zero-sum games, 45, 103: References to competitive situations in which gains and losses are directly offsetting.
+
+“yes, and . . .,” 173–74, 207, 250n: The improvisational technique of building on the ideas of others by responding with "Yes, and . . ."
+
+von Braun, Wernher, 243n: Note on advocacy by rocket scientist Wernher von Braun for space-based defense systems.  
+
+von Neumann, John, 18–20, 23, 90, 243n, 246n: References to mathematician John von Neumann's work in game theory, nuclear deterrence policy, and computing.
+
+ 
+
+- Heterodox Academy is trying to recruit more conservatives into social science fields, but that is challenging given the ideological isolation many may face. 
+- Mental time travel, or thinking about the past and future, can improve decision making. Research shows we are prone to irrationality even in deliberate thinking, though we can reduce bias by avoiding emotional reasoning and being self-reflective.
+- Temporal discounting, or valuing immediate rewards over future ones, is common but being able to delay gratification correlates with success. Experiments like the marshmallow test show strategies children use to wait for bigger rewards.
+- Examples show how decision biases lead to poor choices, like a man with a flat tire in front of a mental hospital. Poker players also experience "winner's tilt" that distorts thinking after wins. 
+- The author joined the board of the Association for the Study of Artificial Intelligence and Simulation of Behaviour in 2009. Part of their work was calculating expected value, the average long-term value of each possible outcome times its probability, for grants.
+- NFL teams use analytics to determine the best play in a short-yardage situation, but a fan could do basic calculations. If Russell Wilson passes, there are probabilities of outcomes like sacks, completions, incompletions, or interceptions. If he hands off to Marshawn Lynch, outcomes include first downs, being stopped short, or fumbles (unlikely). On short-yardage runs, Lynch's stats show high rates of first downs and touchdowns.
+
+The summary outlines several key concepts around decision making and reasoning, provides examples to illustrate ideas, gives some context about the author's work, and applies probabilistic thinking to a football scenario. Please let me know if you would like me to clarify or expand on any part of the summary.

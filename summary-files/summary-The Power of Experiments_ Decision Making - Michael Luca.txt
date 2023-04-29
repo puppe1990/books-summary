@@ -1,0 +1,603 @@
+ Here is a summary of the advanced praise for The Power of Experiments:
+
+- Cass R. Sunstein, a Harvard law professor and coauthor of Nudge, calls the book "a tremendous achievement and inspiring." He says leaders should use it to make better decisions.
+
+- Charles Duhigg, author of The Power of Habit and Smarter Faster Better, says the book tells "the fascinating story of the rise of experiments" and how experiments transform how businesses and governments make decisions. Leaders need to consider both data and judgment.   
+
+- John A. List, an economist at the University of Chicago, calls the book "a masterpiece" and "a manifesto showcasing the deepest revolution in the social sciences in the past twenty-five years—field experimentation." He says the book is essential for understanding policy, behavioral economics, technology, and life.
+
+- Gillian Tans, chairwoman of Booking.com, says that systemic experimentation and risk-taking have built great companies. 
+
+- Hal Varian, chief economist at Google, says the book shows how to run experiments, which is essential as more companies move online. Experiments will "revolutionize business, both online and off."
+
+- Susan Athey, an economist at Stanford, calls the book "an excellent introduction" to experimentation, with case studies highlighting issues from bias to ethics. She says every young businessperson should understand the experiment.
+
+- Deval Patrick, former governor of Massachusetts, says leaders who create environments for taking calculated risks get better results. Systemic experimentation and risk-taking have built great companies and societies.  
+
+- Alvin E. Roth, an Stanford and 2012 Nobel laureate economist, says the book will "open your eyes about how to distill information from data."  
+
+- Tim Harford, author, and journalist, says, "We don't know what we don't know until we try—and the best form of trying is often an experiment." He says the book provides insight into experimentation's past, present, and future.
+
+ Here is a summary of the key points:
+
+- Experiments have become increasingly common and influential outside of academia. Companies, governments, and nonprofits use experiments to test ideas and make better decisions.
+
+- The U.K.'s Behavioral Insights Team experimented to see if rewording reminder letters to delinquent taxpayers could increase response rates. They persuaded the tax authority, HMRC, to allow them to rewrite the notes and test the new versions in an experiment. 
+
+- The experiment found that rewording the letters to be more persuasive, emphasizing social norms, and highlighting consequences increased the response rate, allowing the government to collect tens of millions of pounds in extra tax revenue.
+
+- This experiment demonstrated the power of testing intervention ideas empirically before scaling them. Rewording the letters seemed like a small change, but it had a significant impact. 
+
+- The success of this experiment helped propel the growing experimental movement in governments worldwide. More public policymakers are seeing the benefits of field experiments to develop effective and evidence-based solutions.
+
+- The BIT team consisted of social scientists and policy experts. They aimed to use insights from behavioral science to improve government policies and services. Their experiment with the tax letters was an early success that helped establish their influence.
+
+- David Halpern, the leader of BIT, worked for years to persuade HMRC to cooperate in experimenting. Gaining access and trust to run field experiments in new areas is challenging, but successful experiments' results help build credibility and momentum.
+
+That covers the essence and key highlights from the book's opening on the power and influence of experiments. Please let me know if you want me to clarify or expand on any summary part.
+
+ Here is a summary of some of the tax trial results:
+
+- In the first experiment, adding a single sentence about social norms (e.g., "9 out of 10 people in your town have paid their taxes") increased tax payment rates from 35.8% to 37.8%. This amounted to millions of pounds in additional revenue when applied at scale. 
+
+- Further experiments tested different social norm messages and found that the most effective letters referenced the taxpayer's local area or other people with similar tax debts. Using the taxpayer's first name also increased effectiveness.
+
+- The experiments showed that HMRC's original letter was leaving tens of millions of pounds in potential revenue on the table each year. They increased tax collection significantly by making minor tweaks based on the experimental results.
+
+- The early success of these simple experiments demonstrated the value of experimentation and behavioral insights to HMRC leaders and policymakers. This helped spur the creation of the Behavioural Insights Team and the spread of similar teams in other governments.
+
+- The anatomy of the tax letter experiment included the following:
+
+- A control group that received the original letter 
+- Treatment groups that received variations of the letter with different social norm messages
+- The independent variable was the content of the letters 
+- The dependent variable was whether people paid their taxes on time
+- By comparing the outcomes of the treatment and control groups, they were able to calculate the average treatment effect - the impact of the changes on tax payment rates overall.
+
+- The experiment was inspired by the biblical story of Daniel, who conducted an early improvised investigation comparing the health of men who ate only vegetables to those who ate the royal court diet. Though primitive, Daniel's experiment inspired later work on controlled experiments and trials.
+
+ 
+
+- Ambroise Pare conducted one of the earliest experiments comparing treatments in the 1500s. He accidentally found that his homemade salve treated wounds better than the standard boiling oil treatment. 
+
+- James Lind conducted the first controlled clinical trial in 1747, comparing treatments for scurvy. He found that citrus fruits were the most effective. However, adopting this finding took 50 years for the British Navy to embrace.
+
+- Louis Pasteur tested the effectiveness of vaccines in 1882. He conducted an experiment proving that his anthrax vaccine worked by vaccinating some sheep and not others. The vaccinated sheep survived a lethal dose of anthrax, proving the vaccine's effectiveness. 
+
+- Ronald Fisher developed statistical methods for experiments in the 1920s, including randomization, replication, and blocking. These made experiments more rigorous and scientific.
+
+- The first randomized control trial was conducted in 1946 by the U.K. Medical Research Council. They tested streptomycin for tuberculosis and found it increased survival. Randomization became standard for experiments.
+
+- Hormone replacement therapy for menopause became popular in the 1960s based on observational studies. But randomized trials found it increased heart disease risk, showing the importance of experiments. The medical community then overcorrected, discouraging its use even for severe menopause symptoms.
+
+- Experiments with a random assignment are critical for determining causal relationships and avoiding biases like selection bias that can affect observational studies. But interpreting the results still requires judgment.
+
+The key lessons are: 1) Early experiments began in the 1500s but became more rigorous and widespread starting in the 1800s. 2) Randomized controlled trials are critical for determining causality and avoiding biases. But 3) Interpreting the results of experiments still requires judgment and nuance.
+
+ 
+
+- Experiments have been influential in advancing medical knowledge and improving human longevity. Medical research funding and the use of experiments have grown substantially. 
+
+- Experiments are now widely used in psychology, economics, business, and policy. Early experimental psychologists studied the mind and behavior. Key figures include Wilhelm Wundt, William James, Edward Titchener, Ivan Pavlov, and B.F. Skinner.
+
+- Behaviorists focused on observing and manipulating actual behaviors. They rejected studying internal mental processes and instead tried to predict and control behavior. Contemporary psychologists now use new data sources like brain imaging to gain more insight into cognitive reasons for behavior.
+
+- Social psychology examines how others influence our thoughts, feelings, and actions. Critical social psychologists include Kurt Lewin, Stanley Milgram, and Philip Zimbardo. Their experiments explored topics like conformity and obedience.
+
+- Experiments have spread from medicine to the social sciences and beyond. They have been crucial for advancing knowledge about the human mind and behavior. Contemporary experimenters can access new data sources and methods that provide more insight than was possible for early psychologists and behaviorists.
+
+ 
+
+- Psychological experimentation into obedience to authority and conformity grew from a desire to understand human behavior in extreme circumstances like the Holocaust. 
+
+- Stanley Milgram conducted experiments in the 1960s testing how far people would go in obeying orders to harm others. He found that most participants were willing to administer what they believed were dangerous electric shocks to learners when ordered to do so by an authority figure.
+
+- Philip Zimbardo conducted the Stanford Prison Experiment in 1971. He assigned students to be either guards or prisoners in a mock prison. The experiment quickly spiraled out of control, with guards abusing prisoners and prisoners suffering psychological breakdowns. Zimbardo was criticized for failing to end the investigation sooner.
+
+- Milgram's and Zimbardo's experiments revealed the human capacity for cruelty and conformity but were controversial and unethical by today's standards. Modern institutional review boards establish guidelines for conducting ethical research with human subjects.
+
+- Policymakers have used results from psychological experiments to motivate social change, as in the Supreme Court's citing of the Clark doll experiments in Brown v. Board of Education. 
+
+- More recent research, like the Implicit Association Test (IAT), has revealed implicit biases in attitudes about race, gender, and other attributes. Mahzarin Banaji calls these "ordinary prejudices" that even well-intentioned people hold. Organizations have used the IAT to uncover and work to overcome implicit biases.
+
+- While limited, experimental approaches have been influential in revealing and addressing issues like prejudice that negatively impact society. Experiments aim to create positive change at their best but risk potential harm if not properly regulated and ethically conducted.
+
+ 
+
+- Experimental methods became widespread in psychology and economics in the mid-20th century. 
+- In psychology, experiments explored human decision-making and led to discoveries like implicit bias. Technology like fMRI allowed psychologists to study the biological basis of behavior. 
+- In economics, experiments were initially used to test economic theories. Early examples include investigations on perfect competition (1948) and oligopolies (1959).
+- Vernon Smith helped bring experiments into the mainstream of economics. In the 1960s and 70s, he studied market mechanisms like auctions. His experiments found that trading prices matched theoretical predictions, supporting the idea of rational decision-making. 
+- Smith developed rigorous methods for economics experiments. Subjects got money for good performance, deception was avoided, and the focus was on markets across many trials, not individuals. Rationality was supported if some issues did poorly, but the market reached equilibrium.
+- Critics argue Smith's methods were too rigid and focused too much on markets, masking irrational individual behavior. The highly structured experiments didn't match real-world experiences.
+- Massive field experiments also became popular, studying policy effects. Examples include negative income tax experiments and health insurance experiments in the 1970s. Though rare, these ambitious studies have informed policy and the field.
+- In summary, experiments revolutionized economics and led to behavioral economics. Different fields developed standards for rationality and good experiments, but experiments became vital for understanding decision-making.
+
+ 
+
+Vernon Smith developed ground rules for running economic experiments in the 1950s and 60s. These rules emphasized repetition, controlling for external variables, and avoiding deception. They helped legitimize experimental methods in economics but also initially constrained the influence of psychology. 
+
+Younger economists like George Loewenstein and Colin Camerer argued for relaxing Smith's rules when needed to study particular questions. The approach depends on the research goal. For example, psychologists may care more about initial reactions, while economists focus on outcomes after learning or repetition.
+
+Al Roth and Keith Murnighan began collaborating in the 1970s, combining Roth's background in game theory and economics with Murnighan's in social psychology. Their experiments showed how actual behavior departs from the predictions of rational choice theory in systematic ways. They helped lay the groundwork for collaboration between economics and psychology.
+
+Roth discussed how insights from lab experiments apply to field experiments as well. For example, multiple investigations are more compelling than single experiments. Generalizing results from one context to another can be challenging. And participants can learn throughout an experiment, so researchers must ensure they understand the task.
+
+Daniel Kahneman and Amos Tversky conducted influential research in psychology, identifying systematic errors and biases in human judgment and decision-making. Although they began in psychology, their 1974 paper showed that people are not as rational as assumed in economics. They laid the groundwork for behavioral economics by proving how actual behavior departs from traditional economic assumptions.
+
+ 
+
+- Kahneman and Tversky conducted research showing that people systematically depart from rationality in their thinking and decision-making. Their research kicked off the development of behavioral economics. 
+
+- Their research showed that people rely on heuristics, or mental shortcuts, that can lead to biases. They also showed how framing effects—how choices are presented—can influence decisions. 
+
+- Their prospect theory challenged standard economic assumptions of rationality. It proposed that people evaluate choices based on potential gains and losses rather than absolute outcomes. This insight has been influential in many fields.
+
+- Richard Thaler helped further develop the field of behavioral economics. His "Anomalies" column highlighted how human behavior systematically departs from standard economic assumptions. 
+
+- Thaler collaborated with Kahneman and pushed economists to recognize the insights of psychology. Behavioral economics emerged as economists started incorporating psychological insights into their models of human behavior.
+
+- Experiments have been crucial in documenting how human behavior departs from standard economic theory. As behavioral economics has developed, experiments have allowed for testing ideas and applications.
+
+- The work of these critical figures—Kahneman, Tversky, Thaler, and others—has been highly influential. Their research has transformed fields like economics, finance, marketing, medicine, and policymaking. Insights from behavioral economics are being applied to solve real-world problems.
+
+ 
+
+- Behavioral and experimental economics have helped inspire a new generation of scholars who have brought psychology to economics. Richard Thaler's work popularizing behavioral economics led to creation of the Behavioural Insights Team and a broader behavioral insights movement.
+
+- Field experiments, including natural field experiments, have become increasingly popular in economics since the 1990s. Michael Kremer helped popularize field experiments in development economics to evaluate the impact of educational interventions. The Abdul Latif Jameel Poverty Action Lab (J-PAL) has promoted randomized controlled trials in development economics and policy. Field experiments are now used in many areas of economics.
+
+- There is debate over the best policy for organ donation systems - opt-in (where people must opt-in to become donors), opt-out (where people are donors by default unless they opt out), or active choice (where people must make an active choice to become donors or not). Opt-out systems have much higher donation rates, but some argue people should make an active choice. 
+
+- Judd Kessler and Al Roth investigated how organ donor registration rates changed when California switched from an opt-in to an active choice system. Data suggested active choice led to a decline in registration. They then ran an experiment where people could change their actual organ donor status. The investigation found no difference in rates between opt-in and active choice. This suggests active option may not increase registration rates in practice.
+
+- The example shows how experiments, including field experiments working with policymakers, can provide evidence to help make better policy decisions on complex and vital issues. Investigations have revealed limitations in some intuitive policy ideas, like an active choice for organ donation.
+
+ 
+
+- Kessler and Roth experimented with testing whether an opt-in or active choice system led to higher organ donor registration rates. They connected their lab computers to the Massachusetts organ donor registry database so participants could make accurate decisions.
+- They found that active choice led to lower donation rates than opt-in. The experiment provided evidence against intuition and conventional wisdom. 
+- The ambitious and complicated experiment provided substantial evidence for policy debates. The results show we rely too much on intuition and the need for investigations to inform decisions.
+- Follow-up work found people need help anticipating the effects of defaults and using them consistently with their goals. Policy positions on organ donation may depend on perceptions of policy effects.
+- Kessler and Roth received backlash from advocates of active choice who didn't like the results. But they continue their research. 
+- Nudging aims to incorporate knowledge of human biases into choice environments to help correct mistakes. Thaler and Sunstein advocated nudging as a way for policymakers to improve decisions.
+- Choice architecture recognizes governments' design choices and how they're presented. They can nudge people in better directions. Defaults are a type of Nudge.
+- The dual-systems model distinguishes intuitive System 1 and deliberative System 2 thinking. System 1 is automatic, effortless, and emotional. System 2 is conscious, logical, and effortful. We often rely on System 1.
+- Nudging aims to redesign choice environments to guide better choices. It shifts debiasing from individuals to choice architects. 
+- Context matters for nudges. Design choices matter, and small changes can have significant impacts. Unintended consequences often arise and vary across situations. Evidence suggests defaulting people into 401ks increased both savings and debt.
+
+The experiment proved that opt-in organ donation policies could be more effective than active choice. The researchers faced backlash but continued researching. The concept of nudging and choice architecture recognizes the role of choice designers in influencing decisions. But nudges must be tailored to context, and unintended consequences may arise. Evidence shows even well-intentioned nudges like 401k defaults may have mixed effects.
+
+ 
+
+- The idea that "defaults work" wasn't sufficient for the nudge unit to act on. They considered both the intended and unintended consequences of their nudges. Many well-intentioned behavioral interventions end up needing to be more effective or backfiring.
+
+- Experiments have played a vital role in adopting nudging and behavioral insights. Early on, many were skeptical about using behavioral insights in policy. Experiments allowed the nudge unit to demonstrate its value and effectiveness. They also helped refine ideas from research and apply them to specific contexts.
+
+- Context matters. The magnitude of an effect found in one setting (lab or field) often differs in other locations. No two field settings are the same. The impact of an intervention depends on the context. Small changes can have significant effects, but the direction and size of influence can be hard to predict across contexts.
+
+- Asking if a nudge "works" is like asking if advertising works. The answer depends on the context. Research provides general frameworks, but experiments help tailor ideas to specific contexts and make more effective changes. 
+
+- The U.K.'s Behavioural Insights Team (BIT) helped popularize nudging and behavioral insights in policy. They ran hundreds of experiments to make the government more effective and save money. They showed how behavioral insights and choice architecture could be applied to policy. Their innovation was putting wisdom into practice and spurring an experimental revolution in policy.
+
+- BIT's goals were to make public services more cost-effective and easier to use and improve outcomes by incorporating a realistic view of human behavior. They understood contexts, considered research, designed interventions, and tested them with randomized controlled trials. This transformed the use of experiments in government.
+
+- BIT's accomplishments include increasing tax collection, reducing property repossession, increasing organ donation, improving energy efficiency, reducing prescription errors, increasing charitable contributions, and more. They spread behavioral insights in the U.K. government and inspired similar units worldwide.
+
+ 
+
+The British government set up the Behavioural Insights Team (BIT) in 2010 to apply behavioral insights to policymaking. BIT has improved outcomes in many areas, from increasing voter turnout to improving literacy. BIT spun out of government in 2014 and now operates as a social purpose company with offices worldwide. BIT's success has inspired many other governments and organizations to set up "nudge units."
+
+While policy experiments have increased, companies have been experimenting for decades. Early corporate experiments included Campbell Soup's marketing experiments in the 1970s and retailer catalog experiments. However, no sector has embraced experiments more than the tech sector. Companies like Google now run thousands of investigations each year. 
+
+Initially, it may seem strange that governments and tech companies were early adopters of experiments, given how different they are. However, they were able to overcome common barriers to experimentation:
+
+1. More participants: Governments and big tech companies need access to large populations, giving them enough participants to run experiments. Smaller organizations can now run experiments using new statistical methods or experimenting at a small scale.
+
+2. Randomization can be problematic: Proper randomization is essential for experiments but challenging to implement. Tech companies can automatically randomize users to different conditions at scale. Offline organizations have to be very diligent in randomizing properly.
+
+3. Experiments can disrupt operations: Experiments have to be designed to minimize disruption. Nudge units were able to run experiments by tweaking existing processes. Tech companies can also run minimally disruptive experiments by testing small website changes.   
+
+4. Results can be hard to interpret: Strong statistical knowledge is needed to analyze results properly. Tech companies have access to lots of data and analytically sophisticated employees. Nudge units worked with academic partners to build their expertise.  
+
+5. Organizational barriers: A culture of experimentation and openness to failure is essential. Both nudge units and tech companies fostered a culture where evidence is valued over intuition. Leadership support and incentives for investigation also help overcome organizational barriers.
+
+In summary, early adopters of experiments like BIT and tech companies overcame common barriers by accessing large samples, properly randomizing, running minimally disruptive experiments, having solid analytical expertise, and building a culture of experimentation. Their success teaches how other organizations can implement a culture of experimentation.
+
+ 
+
+- Experimentation requires comparing different interventions by randomly assigning subjects to conditions. This helps determine if an observed effect is caused by the intervention and not some other factor. 
+
+- Governments and tech companies realized that their digital communications with citizens and customers were easy to randomize, making experiments more feasible. Platforms like Google, Facebook, and Amazon can easily vary what different users see and track the effects.
+
+- Lack of data used to be a barrier to experimentation, but the digital age has made tracking outcomes for some metrics easier. However, choosing the right metrics remains challenging. Data audits and using multiple data sources can help.
+
+- Decision makers' unpredictability and overconfidence in one's ability to predict effects are barriers to experimentation. But work in psychology and experience in tech has shown that small changes can have significant, unpredictable effects on behavior.
+
+- In tech, simple online experiments are easy to run by showing different web pages or features to other users. Rapid adaptation allows companies to see that small changes matter.
+
+- If Google wanted to test different ad backgrounds, intuitions might favor blue or yellow, but experiments could reveal surprising results. Google and other tech companies routinely experiment to overcome overconfidence and unpredictability.
+
+- Experiments are becoming more common as barriers have decreased, especially for governments and tech companies. But choosing good metrics and being aware of limitations remains essential.
+
+ Summary:
+- Tech companies like Google, Amazon, Facebook, and Booking.com run thousands of experiments yearly to test product designs and make data-informed decisions. 
+- Experiments have generated significant financial returns for tech companies. For example, experiments increased profits for Microsoft, Yahoo, Amazon, and StubHub. Experiments have also saved companies money by showing that some expensive programs were ineffective.
+- Early e-commerce platforms facilitated anonymous transactions, which reduced discrimination. However, newer platforms like Airbnb that incorporate personal profiles and allow for subjective host acceptance/rejection of guests have the potential to enable discrimination. 
+- In 2011, new studies found evidence of discrimination against Black hosts and guests on Airbnb. Black hosts earned less than white hosts for similar listings, and Black guests had a lower chance of booking a stay than White guests.
+- In response, Airbnb made changes to reduce discrimination and promote inclusion. They instituted a non-discrimination policy, removed guest photos, and made other changes. Discrimination persists but has declined.
+- The story shows how tech companies need to consider how design choices and policies can enable discrimination and work to promote fairness and inclusion. More than simply simply simply facilitating anonymous transactions is required. Companies must enact non-discrimination policies and changes to platform design.
+
+ 
+
+Airbnb initially penalized hosts for rejecting guest requests to build trust between hosts and guests on the platform. However, after a high-profile incident in which a host's property was damaged, Airbnb removed these penalties and allowed hosts to reject guests when they felt uncomfortable. Airbnb has since experimented with different options for penalizing hosts for refusing guests. 
+
+In contrast, Expedia is a travel site where hotel managers simply list room availability, and virtually anyone can book with a credit card. Airbnb's approach is different in that it gives more discretion to hosts in choosing guests, enabling discrimination.
+
+Two researchers, Mike Luca, and Ben Edelman, studied Airbnb's trust-building mechanisms. They noticed that Airbnb's profiles and policy allowing hosts to reject users could enable discrimination based on attributes like race. They shared their analysis with Airbnb, but the company denied any discrimination was occurring.
+
+In 2014, Reed Kennedy, a black entrepreneur, found his requests on Airbnb were repeatedly rejected. He suspected discrimination and contacted Airbnb. Airbnb assured him the rejections were due to something other than his race but suggested he get references, use Instant Book, and reach out to hosts again. They offered him a $100 voucher and said he seemed like a "nice guy" based on his picture. 
+
+Luca, Edelman, and Dan Svirsky then conducted an experiment sending 6,400 Airbnb host requests from guests with distinctively white or black-sounding names but otherwise identical profiles. They found that recommendations from black-sounding guests were 16% less likely to be accepted, indicating discrimination across neighborhoods and listing types.
+
+Airbnb continued to deny discrimination was an issue, exploiting ambiguity in nonexperimental evidence to avoid addressing the problem. Luca et al.'s experiment proved that discrimination occurred on Airbnb's platform.
+
+ 
+
+- Our experiment showed that discrimination on Airbnb was concentrated among hosts with no prior experience hosting black guests. Their prejudice seemed to stem from general stereotypes and racism rather than experience.
+
+- The results of our experiment led to public pressure on Airbnb from users, journalists, and government officials. Airbnb could no longer deny there was discrimination on their platform.
+
+- Airbnb hired a task force to address the issue, including civil rights leaders and academics. The task force proposed eliminating names and pictures, keeping them but making other changes, or doing nothing. 
+
+- Airbnb chose the middle option. They kept names and pictures but tried to reduce discrimination in other ways, like increasing instant booking and removing some host pictures. They committed to making 1 million listings instantly bookable.
+
+- We appreciate Airbnb conducting experiments to test solutions, but we wish they were more transparent with the results and the tradeoffs they made. More transparency is needed.
+
+- Regulators can now conduct their experiments to monitor discrimination on Airbnb. Airbnb has continued evolving its design, like hiding guest pictures from hosts until after they accept a booking.
+
+- Overall, experiments have been crucial to identifying, understanding, and addressing discrimination on Airbnb. Experiments can illuminate problems and drive improvement. Companies, governments, and researchers need to make better use of experiments.
+
+ Here is a summary of the key points:
+
+- Experiments provide solid evidence to test theories and understand the mechanisms behind observed patterns. The Airbnb experiment tested theories about discrimination and showed it was not due to host experiences. 
+
+- Experiments help determine the magnitude of effects and the tradeoffs involved in design changes. The initial Airbnb experiment found a 16% discrimination gap. Follow-up experiments could have chosen the level of remaining discrimination after changes, but Airbnb did not release that data.
+
+- Experiments help evaluate new policies and changes. Airbnb's changes likely interacted, so assessing the changes' overall impact was valuable.
+
+- Experiments can be a fact-finding method when no clear theory exists. They are a way to check that nothing is broken or missed. For example, they are testing different fonts on eBay.
+
+- Google is an advertising platform that makes money by selling ads alongside search results. Businesses can bid to have their ads shown for specific search terms. While lucrative for Google, it's unclear if buying Google ads benefits the advertisers.  
+
+- eBay spent $50 million yearly on Google ads for brand-related terms like "eBay." An experiment found this was wasted mainly because people who clicked the ads would likely have connected the first organic search result. eBay especially just substituted free organic clicks for paid ad clicks. 
+
+- The eBay example shows the danger of relying on correlations without considering alternative explanations. The correlation between ad clicks and purchases was misleading.
+
+- Ads were more effective for less eBay-savvy users and less commonly searched terms, suggesting ads provide more information value in those cases.
+
+ 
+
+- eBay's experiment found that halting search ads did not significantly impact revenue, calling their search ad strategy into question. 
+- However, other companies did not learn from eBay's experiment and ran their experiments.
+
+- A Yelp experiment found that giving free ads to small businesses increased visits, calls, and searches, showing that search ads can benefit smaller companies. The effects were more significant for independent and higher-rated businesses.
+
+- Companies should run experiments in different contexts to understand how effects vary. To optimize their brand, marketing teams could experiment with different keywords, ad types, etc.
+
+- An Alibaba experiment gave some shoppers coupons for items left in their carts. Shoppers were more likely to buy the discounted items but did not spend more overall. However, engagement increased modestly after the coupons. But some shoppers started leaving more things in their carts, hoping for discounts.
+
+- The impact of continuing the Alibaba discount program needs to be clarified. Sellers benefit from increased sales, but the platform does not benefit from higher overall spending. The longer-term effects are hard to determine from a short experiment. If shoppers increasingly hold out for deals, it could reduce revenue. 
+
+- More experiments are needed to determine the best strategy. Discounts could be targeted to high-value shoppers or limited to increase their impact. The optimal strategy depends on the goals and perspectives considered.
+
+The examples show how experiments can yield valuable insights and highlight the need to consider different perspectives, longer-term effects, and additional experiments to determine optimal strategies. The results of any single investigation should be interpreted cautiously.
+
+ 
+
+Alibaba ran an experiment offering shopping cart discounts to a random sample of customers. The investigation showed minor effects on purchasing, and Alibaba decided not to expand the program. However, the experiment had some limitations. Specifically:
+
+1) The promotion had low exposure. One-third of users did not see the discount before it expired. Alibaba could have increased awareness to assess the impact better. 
+
+2) Sellers chose the discount amount so that Alibaba couldn't determine the effect of discount size on purchasing. Alibaba could have used data to recommend better discount amounts.
+
+3) The experiment didn't measure long-term user satisfaction and engagement impacts. A well-designed program may have yielded more significant benefits.
+
+The experiment was an excellent first step but needed more understanding. Alibaba could have run more experiments testing and refining the program to develop a better decision-making framework. Successful experiments require asking the right questions, not just getting answers.
+
+StubHub, an online ticket resale marketplace, had to decide whether to show all fees upfront or hide some until checkout. Research suggests hiding fees could increase willingness to pay. StubHub's economists ran an experiment and found:
+
+1) Hiding fees increased transactions by 3.2% and revenue by 2.2%. The impact was more significant for higher-priced tickets.
+
+2) In the long run, the hidden-fee policy reduced trust in StubHub and decreased activity and revenues. Customers preferred to avoid discovering unexpected fees at checkout.  
+
+3) The experiment only considered StubHub's revenues, not the potential harm to customers from hidden fees. Fee transparency is essential for consumer protection.
+
+The experiment provided valuable insights but had essential limitations. It focused too narrowly on maximizing short-term revenues rather than the long-term customer relationship. And it failed to consider the impact on customers and broader ethical considerations. Successful policy changes require thinking beyond a single experiment to consider multiple stakeholders and time horizons.
+
+ 
+
+StubHub ran an experiment to test whether hiding ticket fees until the final stage of checkout (' backend fees') would lead customers to spend more, compared to showing the total ticket price upfront ('upfront fees'). 
+
+The results showed:
+- Customers exposed to backend fees were 13% more likely to buy tickets and spent 5.42% more. 
+- However, customers exposed to backend fees were less likely to return in the coming months.
+
+Although the results suggested backend fees would increase short-term profit, StubHub had to consider longer-term effects, including:
+- Potential long-term loss of customers due to a negative perception of hidden fees 
+- The experiment only captured short-term effects, and it would take time for any negative impact to emerge fully
+- Any reputational damage could affect both groups in the experiment so that it may have been missed
+
+StubHub ultimately decided to implement backend fees based on the experiment. The researchers suggested ways to get a fuller picture, e.g., tracking customer complaints, press coverage, and running further experiments.
+
+Uber faces challenges in designing its ride-sharing market to meet customer and driver needs. It runs thousands of experiments yearly to determine the best way to match riders and drivers.
+
+ 
+
+- Uber has a team of Ph.D. economists and data scientists that conduct experiments to help the company make data-driven decisions. 
+
+- In 2018, Uber wanted to determine whether to launch a new Uber Express Pool product. Express Pool would save riders money, but the trip would take longer. 
+
+- Conducting experiments in a marketplace like Uber is challenging because of "spillover effects." Changes to some riders or drivers affect the entire market, biasing the investigation. Uber can't simply vary conditions for some riders in a market.
+
+- For example, testing a new matching algorithm by assigning it to half the riders in Boston would be a poor experiment. Gains for the treatment group could come at the expense of significant losses for the control group. The investigation might show success, but implementing it could be harmful.
+
+- Uber also has to consider how changes to one product affect other products. Improving UberX might take riders from UberBlack, reducing profits. Companies must consider their entire suite of products.
+
+- To address these issues, Uber runs market-level experiments, rolling out changes to entire markets. Uber randomly selected six cities for Express Pool to receive the product, using a "synthetic control group" of weighted other towns as a control.
+
+- The Express Pool experiment showed it would benefit business, and Uber launched it widely. But Uber continues experimenting to improve the product, varying factors like rider wait times. The correct parameters likely differ across cities and contexts.
+
+- Due to the complexity, economists, and data scientists are well suited to handle Uber's experiments. The experiments help Uber innovate, starting with low-cost gathering methods, piloting in a few cities, then more extensive market experiments to refine and reiterate. 
+
+- While market experiments are complicated, they give the best sense of how markets will evolve. Uber is increasingly relying on them to make the most of experimentation.
+
+ 
+
+Tech companies like Uber and Facebook have been running experiments to test product and service changes. For example, Uber ran experiments to study the impact of allowing tipping and found that few people used the tipping option and that it had little effect. Facebook runs thousands of experiments yearly to test changes like its News Feed.
+
+Facebook's News Feed team spends a lot of time determining what content to show each user. They must prioritize news stories, photos, close friends, etc. To improve their News Feed, Facebook runs experiments by tweaking users' feeds and seeing how they engage. One investigation examined the impact of happy and sad posts on users' moods.
+
+The experiment showed users mostly happy or sad posts from friends and then tracked if users wrote more positive or negative posts. The results showed that low positions only slightly dampened moods. Exposure to negative posts led to four more negative words per 10,000 written, while positive posts led to seven fewer negative words per 10,000 written. The effects were small, equivalent to one extra negative comment in a typical op-ed.
+
+When Facebook published the results, users and commentators reacted angrily to the idea of Facebook manipulating emotions. The experiment highlighted the tension between Facebook's desire to innovate and users' discomfort with large-scale experimentation. Facebook updated its policies to improve oversight and user consent for experiments. The experiment shows the value of transparency and oversight in tech experimentation.
+
+ 
+
+- Facebook conducted a secret psychology experiment in 2014 to manipulate users' emotions. 
+- The experiment caused public outrage when revealed. Critics said it was unethical and that Facebook should have obtained users' consent.
+- However, influencing emotions is common in advertising and social media. Facebook's news feed inevitably impacts users' emotions, intentionally or not. Facebook had to choose between remaining ignorant about this impact or studying it to make better design choices. It chose the latter.
+- Requiring consent for every experiment is impractical for companies. Facebook's terms of service give broad consent for using user data in investigations. However, Facebook should have been more transparent about this emotional experiment to avoid backlash.
+- The backlash caused Facebook to stop publicizing its experiments for a while. But secrecy is more dangerous than transparency. Companies should acknowledge they run frequent experiments, explain their value, encourage discussion of methods, and share selected findings. 
+- Transparency about prominent or controversial experiments, or those that could harm users, is especially important. Facebook now shares some research and could notify users annually about their participation.
+- Most tech companies rely on constant experimentation. While valuable, this experimentation should be conducted responsibly and with appropriate transparency and oversight.
+
+In summary, while Facebook's emotional experiment caused controversy, experimentation is essential for companies to improve. However, responsible and transparent practices are needed to maintain user trust, especially around impactful investigations. Greater openness about the existence and value of experiments and selected findings can help address concerns. Oversight and consent are also crucial for more controversial experiments. Finding the right balance of experimentation, transparency, management, and support is vital.
+
+ 
+
+- Experiments have diffused from tech companies to governments and nonprofits aiming to achieve social good. Behavioral insight units, like the U.K.'s Behavioural Insights Team, have popularized experimentation to improve government operations. These units start with pilot projects to prove their value, though they sometimes test interventions they expect will work. Over time, replication of successful experiments, like the tax letter, aims more to provide proof of concept. 
+
+- The U.K. Behavioural Insights Team has helped other governments launch their behavioral insight teams, which now number over 50 worldwide. Annual conferences and organizations like Ideas42 have also promoted behavioral insights and experimentation. While some are nonprofits, large consulting firms are also interested in this area.
+
+- Experiments serve multiple objectives for these organizations: determining what works, demonstrating value, and achieving policy goals.
+
+- Voter turnout campaigns have also come to rely more on experimentation. Historically, many "experts" offered advice to increase turnout despite little evidence. In the 2000s, academics began experimenting and found that some standard practices needed to be more effective or counterproductive. Campaigns have since become more receptive to evidence from randomized experiments.
+
+- For voter turnout, experimenters tested interventions like door knocking, phone banking, direct mail, and social pressure and found some approaches effective while others backfired or showed no impact. Campaigns have used these insights, and new companies now specialize in evidence-based turnout experiments and advice. 
+
+- Experimentation in the public sector and politics shows how the experimental approach has spread and the benefits of testing assumptions, even for interventions that initially appear helpful. A practical mindset can uncover new insights and more effective solutions.
+
+ 
+
+Researchers have conducted experiments since the 1920s to determine what motivates people to vote. In the 1990s, Alan Gerber and Donald Green ran experiments showing in-person contact was most effective. In the 2000s, Todd Rogers became interested in using behavioral science to help Democrats win elections. He joined the Analyst Institute, which used field experiments to find proven ways to interact with voters. 
+
+Rogers ran hundreds of proprietary experiments to increase voter turnout and support for progressive candidates. He used experiments to show that standard practices were wrong and his organization's approaches were suitable. For example, in 2007, he tested having people make concrete plans to vote and found it increased turnout. 
+
+By 2008, Rogers' techniques, like plan-making and emphasizing high expected turnout, became standard for left-leaning campaigns. His work countered the 2004 Kerry campaign's focus on a low turnout. Rogers' experiments transformed campaigning, though they aimed to help one party. While increasing turnout is good, a partisan approach risks manipulating who votes.
+
+The summary articulates the essential details, events, and arguments regarding using field experiments to influence voter turnout, especially by Todd Rogers and the Analyst Institute. It touches on the potential pros and cons of this work. The summary is coherent and flows logically from one idea to the next.
+
+ 
+
+Todd Rogers moved from political campaign work to academia, joining Harvard's Kennedy School of Government in 2011. There, he joined a growing group of scholars studying how to apply behavioral insights to education, health, and finance. 
+
+Two of Rogers' colleagues, Ben Castleman and Lindsay Page conducted experiments to help reduce "summer melt," where high school students fail to enroll in college after graduating. They found that proactively contacting students over the summer and helping them with financial aid forms and deadlines increased college enrollment, especially for low-income students. Castleman and Page have gone on to conduct more research on supporting students through the transition to college.
+
+Rogers himself has focused on reducing student absenteeism. He sent parents different information about their child's attendance in one experiment. They are simply sending parents reminders about the importance of attendance, and their child's absences reduced total absences by 6% and chronic absenteeism by over 10%. Adding social comparison information did not further improve attendance. Rogers has learned from these studies, developing tools to identify better families dealing with serious medical issues and address parent concerns. His work shows the need to test ideas in new areas and anticipate unintended consequences.
+
+Rogers and others apply behavioral insights to improve education, health, and finance. Their work highlights the potential for low-cost, scalable interventions to address social problems. However, these interventions also require continual testing and refinement to achieve their goals and avoid unintended effects.
+
+ 
+
+Experiments in school districts help identify effective and ineffective aspects of interventions before comprehensive implementation. 
+
+Todd Rogers and collaborators ran an experiment in 10 California school districts on using mailings and attendance "supporters" to improve student attendance, especially in early grades. Mailings emphasizing attendance importance and providing student absence data reduced absences by 7.7% and chronic absenteeism by 14.9%. Adding "attendance supporters" did not further improve attendance.
+
+Other experiments using text message reminders and automatic enrollment also improved attendance. 
+
+Experiments help refine general findings to specific contexts. Though research shows social norms can affect behavior, experiments showed social comparison mailings were ineffective here. Experiments identify the most effective strategies for a given situation.
+
+Angela Duckworth's research on "grit" (passion and perseverance for long-term goals) showed it predicts success. Educators hoped grit could be taught.
+
+Experiments explored "growth mindset" (belief abilities can be developed) and "deliberate practice" (focused effort to improve) interventions. A growth mindset intervention raised 9th graders' GPAs by 0.13 points. Deliberate practice training raised 6th and 7th graders' GPAs by 0.1 points. 
+
+Though gains seem small, the interventions' low cost and short time make them promising. The findings helped schools apply research on grit and growth mindset effectively.
+
+Rise of randomized controlled trials in education. The growing interest in experiments to directly test and inform education policies and practices.
+
+Defined benefit retirement plans guarantee payouts, transferring risk to the provider. Defined contribution plans fixed contributions, sharing risk and investment decisions with individuals. Most retirement funds were in defined benefit plans until recently.
+
+ 
+
+The opportunity (or burden) to make investments shifts to the employee in defined contribution retirement plans. Employees have to participate voluntarily and contribute. Even when employers offer generous matches, many employees refrain from participating due to present bias (overvaluing current costs/benefits over future ones) and forgetfulness. 
+
+Researchers have experimented with ways to increase retirement plan participation and contributions. Providing information about the benefits of participation, changing the default to automatic enrollment, offering a plan to increase contributions gradually, and incentivizing attendance at information sessions have all helped increase participation and savings rates.
+
+Similar present bias and forgetfulness lead to problems with health behaviors and medication adherence. Researchers have used lotteries, temptation bundling (coupling desirable activities with health behaviors), planning prompts, and other strategies to improve health behaviors. These techniques harness the knowledge of cognitive biases to help motivate better long-term decision-making.
+
+ 
+
+- Katherine Milkman and Angela Duckworth, professors at the University of Pennsylvania, collaborated to propose the Behavior Change for Good (BCFG) project in response to a MacArthur Foundation proposal call. 
+
+- The goal of BCFG was to use field experiments to create durable (lasting at least one year) positive behavior change in health, education, and savings. 
+
+- Milkman and Duckworth wanted to work with organizations and researchers to identify effective behavioral interventions and test them on large groups of people. 
+
+- They aimed to develop a coordinating organization to oversee many simultaneous field experiments across domains.
+
+- BCFG would build on decades of behavioral science research and aim to generate new academic research to guide intervention development. 
+
+- Milkman and Duckworth brought complementary expertise, focusing on judgment, decision-making, grit, and motivation.
+
+- They identified three key goals: develop behavioral intervention ideas with researchers, find many potential study participants, and create a coordinating organization.
+
+- BCFG aimed to complement and expand existing field experiments initiatives like J-PAL and the Harvard Behavioral Insights Group by focusing specifically on behavior change research.
+
+- In health, BCFG aimed to improve gym attendance, reduce smoking, increase medication adherence, encourage walking, and promote healthy eating.
+
+- In education, they aimed to reduce absenteeism and dropouts and improve studying and test-taking. 
+
+- In savings, they aimed to increase retirement plan enrollment and contributions.
+
+ 
+
+- Katy Milkman and Angela Duckworth started the Behavior Change for Good (BCFG) initiative to motivate positive behavior changes in health, education, and personal finance that would last at least one year.
+
+- They recruited an interdisciplinary team of prominent scientists to design interventions and partnered with major companies in each domain to deploy the experiments.
+
+- In the health domain, they partnered with 24 Hour Fitness and Blink Fitness to test interventions for increasing exercise frequency. The interventions were deployed through a web platform called StepUp.
+
+- The scientists proposed interventions to encourage exercise, and BCFG handled the logistics of implementing and evaluating them. Some short-term interventions did not produce lasting changes, highlighting the importance of longer-term tracking.
+
+- Two key lessons:
+
+1) BCFG's experimental approach differed from Todd's education/voting experiments. They started with broad goals and partnerships, then had scientists design specific interventions. Todd's were more targeted. 
+
+2) Short-term outcomes can be misleading. Longer-term tracking is valuable for identifying interventions that produce lasting changes.
+
+- The results are still being analyzed, but the initiative shows the potential of large-scale experimentation and public-private partnerships to motivate behavior change. However, behavior change is extremely challenging, as Angela noted.
+
+The summary highlights the vision and overall process behind BCFG, the health domain interventions, and partners, critical lessons learned, and notes that the full results are still pending, but the approach is promising. The paragraphs cover the recruitment of scientists and company partners, the web platform for deploying interventions, examples of exercise interventions, the difference between BCFG's and Todd's experimental approaches, the importance of longer-term tracking, and perspectives from Katy and Angela.
+
+ 
+
+- The authors argue that some experiments focus more on academic novelty than real-world impact. They use the example of the Behavior Change for Good (BCFG) collaboration, where interventions were chosen more for their originality than their likely effect. In contrast, earlier voting experiments were focused on improving known techniques. Both approaches are valid but have different goals.
+
+- The design of experiments depends on the incentives and goals of the organization running them. For example, if 24 Hour Fitness ran experiments, they would focus on maximizing customer impact. Companies may join collaborations like BCFG to gain new ideas and have costs borne by others, even if the research questions are not perfectly aligned with the company's interests. 
+
+- There are some concerns with experimentation, including unequal treatment of participants and experiments run primarily to benefit the organization, not participants or customers. However, experimentation should be viewed as a way to learn and improve over the long run. The authors argue there is a "moral imperative" to experiment to avoid wasting resources and to make evidence-based decisions.
+
+- Some people have an "experiment aversion" and prefer euphemisms like "A/B testing." But experimentation is simply systematically trying new ideas and learning from the results. Leaders should create a culture of experimentation and learning in their organizations.
+
+- For example, the authors discuss how colleges randomly assign student roommates after an initial screening process. Though not designed as experiments, these roommate assignments generate much data on how different people will live together. Random assignment is a simple, fair way to make the pairings, even though it will inevitably lead to some mismatches. The colleges are essentially running an "incidental experiment."
+
+In summary, the authors argue for the value of experimentation, especially when done systematically and for the right reasons. They acknowledge some concerns with experiments but say these can often be addressed with the proper perspective and oversight. They make a case for building a culture of experimentation and learning.
+
+ 
+
+- Experiments, even when unintentional, are standard in organizations and can provide valuable insights. Random roommate assignments at Dartmouth allowed a researcher to study how roommates influence each other. Analyzing a spelling bee's randomized word order revealed that spellers are likelier to make mistakes after a predecessor spells correctly. Lotteries that allocate scarce resources like Hajj visas or school placements have also enabled research. 
+
+- Leaders should view experiments as a tool to improve decision-making and learning. They require judgment, careful interpretation, and an understanding of strengths and limits. Leaders often rely on faulty intuition so that experiments can provide evidence. Leaders also influence whether others see experiments as a way to learn. Viewing them as a technical tools misses their importance for management.
+
+- We are in an experimental revolution. Digitization, online platforms, and behavioral research have enabled more experiments. Hundreds of teams use them, especially in tech, education, and government. Data and randomization are more accessible; small changes can have significant effects, and experiments complement intuition with evidence.
+
+- Experiments have been largely positive but can have downsides. They improve decisions and resource allocation but can also achieve opposing goals. They make organizations more innovative, but only sometimes in good ways. They are a tool that can be used for good or bad.
+
+- Experiments are valuable beyond tech and government. Leaders in all sectors should consider where experiments could help. But we are still learning how best to use them. They suit some settings better than others, and organizations are figuring out how and when to experiment.
+
+- More work is needed. Experimentation is common in some areas but new in others. Organizations are still determining how and when to experiment.
+
+ 
+
+- Companies and organizations use experiments in four main ways:
+
+1. To evaluate an existing product or policy: Experiments can measure the impact and unintended consequences of a new policy or product. For example, Uber used experiments to evaluate its Express Pool product by testing whether it made users and Uber better off.
+
+2. To test a theory or hypothesis: Experiments can test hypotheses about why or how a policy is having an effect. For example, Airbnb might run experiments to test whether a policy change reduces discrimination by changing hosts' beliefs or by making race less salient. 
+
+3. To develop or refine frameworks: Frequently used experiments can help build frameworks to apply across decisions. For example, experiments allowed Angela Duckworth and Katy Milkman to establish theories of long-term behavior change and allowed Todd Rogers to adapt behavioral approaches to increase school attendance.
+
+4. For fact-finding where no theory exists: Experiments can provide insight even without a hypothesis. For example, eBay might run experiments to determine whether font choice or actor gender in ads affects product usage.
+
+- Citizens and policymakers should not be "experiment averse." Well-designed experiments allow us to systematically and objectively try new ideas cheaply. They provide valuable evidence to determine whether new policies or products should be implemented on a larger scale. However, the value of the evidence depends on the experimenters, and experiments could be misused. With enough transparency and oversight, experiments' benefits can be gained while minimizing risks.
+
+- In conclusion, the age of experiments is just beginning. Experiments provide a systematic way to try new ideas and gain objective evidence about their effects. Experiments can guide better decision-making for companies, policymakers, and society when used responsibly.
+
+ Here is a summary of the sources:
+
+The summary focuses on key themes from different sources, including:
+
+Implicit Association Tests that measure unconscious attitudes (Greenwald et al., Banaji) 
+Experimental economics using controlled experiments (Chamberlin, Smith, Roth)
+Loss aversion and defaults (Kahneman & Tversky, Pope & Schweitzer, Thaler) 
+Field experiments in developing countries (Banerjee et al., Kremer)
+Defaults and organ donation (Johnson & Goldstein)
+Investigations at companies to improve products and services (Eastlack & Rao, Kohavi)
+Experiments detecting discrimination (Bertrand & Mullainathan, Edelman & Luca, Murphy)
+Price experiments on e-commerce platforms (Zhang et al., Dai & Luca) 
+Price salience and shrouded attributes (Gabaix & Laibson, Blake et al.)
+Experiments with social networks and emotions (Kramer et al., Facebook)
+Voter mobilization experiments (Gosnell, Green & Gerber, Rogers et al.)
+
+The sources cover experiments in psychology, economics, business, public policy, and more. The experiments explore preferences, choice, discrimination, pricing, and voting. The studies utilize field, lab, online, and social network experiments.
+
+ Here is a summary of the chapters on social pressure, student absenteeism, and behavior change:
+
+Chapter 12 describes a field experiment conducted during the 2012 French presidential election. The researchers sent mailers to voters either appealing to their sense of civic duty or threatening social sanctions to see which was more effective in increasing voter turnout. Appeals to civic duty had no significant effect. Threats of social sanctions increased voter turnout by 4.9 percentage points. This demonstrates the power of social pressure to motivate behavior.
+
+Chapters on student absenteeism discuss several interventions that have successfully reduced chronic absenteeism, negatively impacting academic achievement. Targeting parental misperceptions about the consequences of missing school, using text message reminders, and mentorship programs have all been shown to decrease absenteeism. 
+
+The chapters on behavior change outline initiatives aimed at developing interventions to create lasting behavior change around issues like health, education, finance, and the environment. Successful strategies have included using implementation intentions, temptation bundling, and financial incentives. The Behavior Change for Good Initiative is developing machine learning to personalize behavior change interventions. Studies show people have aspirational goals around health, education, and finance but often need follow-through. Behavioral science insights can be leveraged to help bridge this intention-action gap.
+
+In summary, social pressure, targeted interventions, financial incentives, and behaviorally-informed strategies have been shown to effectively motivate changes in important behaviors like voting, attending school, exercising, and saving money. With further refinement and personalization, these approaches offer promise for addressing societal challenges linked to human behavior.
+
+ Here is a summary of the sources:
+
+The New England Journal of Medicine article examines the decrease in U.S. deaths from coronary disease from 1980 to 2000. The decline is attributed to changes in risk factors and medical treatments.
+
+Frank Napolitano discusses insights from his experience conducting case interviews. 
+
+Blink Fitness is a gym chain with over 70 locations that aims to provide an affordable, high-quality fitness experience.
+
+An interview with Ellen Roggemann provides her perspective.
+
+A Freakonomics Radio episode examines how to launch a behavior change revolution through initiatives like committing to a goal, measuring progress, and harnessing social support.
+
+The book The Progress of Experiment examines the history of therapeutic experimentation in the U.S. from 1900 to 1990. 
+
+Several studies examine peer effects, including a study finding that college roommates' GPAs were correlated, a study showing peers impact math test performance at the National Spelling Bee, and a study finding the Hajj pilgrimage promotes tolerance.
+
+A study found that a school choice lottery in Chicago impacted students' achievement, attendance, and behavior.
+
+The Abdul Latif Jameel Poverty Action Lab (J-PAL) promotes evidence-based policymaking by conducting randomized evaluations of social programs in development economics.
+
+A/B testing allows experimenting with different versions of something to determine the most effective option. Companies like Google, Amazon, and eBay rely on experimentation and A/B testing.
+
+Advertising experiments assess the efficacy, size, and platform of ads. Google found search ads and keyword ads to be effective.
+
+Airbnb faced issues with discrimination against African American guests. They made changes to their platform and policies to help address discrimination.
+
+Alibaba, a large e-commerce company in China, has experimented with discounts, shopping cart features, and program changes to improve customer experience.
+
+Amazon and tech companies experiment at a massive scale to optimize services.
+
+The Analyst Institute works with Democratic campaigns to rigorously test strategies and messages. 
+
+Anonymity on the internet can enable undesirable behavior but also benefits like increased honesty.
+
+The availability heuristic refers to relying on information that comes readily to mind when making judgments.
+
+Behavioral economics integrates psychology and economics, challenging assumptions of rationality. Governments and companies are increasingly applying behavioral insights.
+
+Behavioral experiments aim to change behavior or test economics, education, health, and governance interventions. Approaches include simplifying messages, changing default options, and leveraging social influences.
+
+The Behavioural Insights Team pioneered the use of behavioral insights in British policymaking. They focus on low-cost, non-regulatory interventions.
+
+Bernardini, Hunt, and other behavioral economists study biases and heuristics in judgment and decision-making. 
+
+The book Behavior Change for Good outlines an approach to designing behavior change interventions using concepts like barriers, motivation, triggers, and feedback.
+
+Carol Dweck's research shows how a growth mindset that intelligence can be developed leads to better outcomes than a fixed mindset.
+
+ 
